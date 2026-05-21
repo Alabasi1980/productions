@@ -1,0 +1,695 @@
+{
+  "generatedAt": "2026-05-21T09:19:53.322Z",
+  "root": {
+    "type": "directory",
+    "name": "00_مسار الدراسة المهنية",
+    "title": "مسار الدراسة المهنية",
+    "relativePath": "",
+    "children": [
+      {
+        "type": "file",
+        "name": "00_دليل_المجلد.md",
+        "title": "دليل المجلد",
+        "relativePath": "00_دليل_المجلد.md",
+        "url": "/content/00_%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF.md"
+      },
+      {
+        "type": "file",
+        "name": "01_الخطة_الرئيسية_قبل_الوظيفة.md",
+        "title": "الخطة الرئيسية قبل الوظيفة",
+        "relativePath": "01_الخطة_الرئيسية_قبل_الوظيفة.md",
+        "url": "/content/01_%D8%A7%D9%84%D8%AE%D8%B7%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D9%88%D8%B8%D9%8A%D9%81%D8%A9.md"
+      },
+      {
+        "type": "file",
+        "name": "02_لوحة_التقدم_الشخصية.md",
+        "title": "لوحة التقدم الشخصية",
+        "relativePath": "02_لوحة_التقدم_الشخصية.md",
+        "url": "/content/02_%D9%84%D9%88%D8%AD%D8%A9_%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%85_%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9.md"
+      },
+      {
+        "type": "file",
+        "name": "03_فهرس_الكتاب_الشامل.md",
+        "title": "فهرس الكتاب الشامل",
+        "relativePath": "03_فهرس_الكتاب_الشامل.md",
+        "url": "/content/03_%D9%81%D9%87%D8%B1%D8%B3_%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84.md"
+      },
+      {
+        "type": "file",
+        "name": "04_قالب_الدرس_القياسي.md",
+        "title": "قالب الدرس القياسي",
+        "relativePath": "04_قالب_الدرس_القياسي.md",
+        "url": "/content/04_%D9%82%D8%A7%D9%84%D8%A8_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%B3%D9%8A.md"
+      },
+      {
+        "type": "file",
+        "name": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+        "title": "القاموس التأسيسي الثنائي اللغة",
+        "relativePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+        "url": "/content/05_%D8%A7%D9%84%D9%82%D8%A7%D9%85%D9%88%D8%B3_%D8%A7%D9%84%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%8A_%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A_%D8%A7%D9%84%D9%84%D8%BA%D8%A9.md"
+      },
+      {
+        "type": "directory",
+        "name": "10_الجزء_الاول_الاساسيات_والمصطلحات",
+        "title": "الجزء الاول الاساسيات والمصطلحات",
+        "relativePath": "10_الجزء_الاول_الاساسيات_والمصطلحات",
+        "children": [
+          {
+            "type": "file",
+            "name": "00_مدخل_الجزء_الاول.md",
+            "title": "مدخل الجزء الاول",
+            "relativePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/00_مدخل_الجزء_الاول.md",
+            "url": "/content/10_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA/00_%D9%85%D8%AF%D8%AE%D9%84_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%88%D9%84.md"
+          },
+          {
+            "type": "file",
+            "name": "01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+            "title": "الدرس 01 جوهر الانتاج في ERP",
+            "relativePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+            "url": "/content/10_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA/01_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_01_%D8%AC%D9%88%D9%87%D8%B1_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC_%D9%81%D9%8A_ERP.md"
+          },
+          {
+            "type": "file",
+            "name": "02_الدرس_02_الخريطة_الثنائية_للمصطلحات_الاساسية.md",
+            "title": "الدرس 02 الخريطة الثنائية للمصطلحات الاساسية",
+            "relativePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/02_الدرس_02_الخريطة_الثنائية_للمصطلحات_الاساسية.md",
+            "url": "/content/10_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA/02_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_02_%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9_%D8%A7%D9%84%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9_%D9%84%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9.md"
+          },
+          {
+            "type": "file",
+            "name": "03_الدرس_03_الكيانات_الرئيسية_في_موديول_الانتاج.md",
+            "title": "الدرس 03 الكيانات الرئيسية في موديول الانتاج",
+            "relativePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/03_الدرس_03_الكيانات_الرئيسية_في_موديول_الانتاج.md",
+            "url": "/content/10_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA/03_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_03_%D8%A7%D9%84%D9%83%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9_%D9%81%D9%8A_%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC.md"
+          },
+          {
+            "type": "file",
+            "name": "04_الدرس_04_الصورة_الكاملة_لدورة_الانتاج.md",
+            "title": "الدرس 04 الصورة الكاملة لدورة الانتاج",
+            "relativePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/04_الدرس_04_الصورة_الكاملة_لدورة_الانتاج.md",
+            "url": "/content/10_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA/04_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_04_%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9_%D9%84%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC.md"
+          },
+          {
+            "type": "file",
+            "name": "90_اختبار_الجزء_الاول.md",
+            "title": "اختبار الجزء الاول",
+            "relativePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+            "url": "/content/10_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA/90_%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A7%D9%88%D9%84.md"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج",
+        "title": "الجزء الثاني البيانات الاساسية وتصميم المنتج",
+        "relativePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج",
+        "children": [
+          {
+            "type": "file",
+            "name": "00_مدخل_الجزء_الثاني.md",
+            "title": "مدخل الجزء الثاني",
+            "relativePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/00_مدخل_الجزء_الثاني.md",
+            "url": "/content/20_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D9%88%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC/00_%D9%85%D8%AF%D8%AE%D9%84_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.md"
+          },
+          {
+            "type": "file",
+            "name": "01_الدرس_01_البيانات_الاساسية_Master_Data.md",
+            "title": "الدرس 01 البيانات الاساسية Master Data",
+            "relativePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/01_الدرس_01_البيانات_الاساسية_Master_Data.md",
+            "url": "/content/20_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D9%88%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC/01_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_01_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_Master_Data.md"
+          },
+          {
+            "type": "file",
+            "name": "02_الدرس_02_بنية_المنتج_BOM_Formula_Item_Structure.md",
+            "title": "الدرس 02 بنية المنتج BOM Formula Item Structure",
+            "relativePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/02_الدرس_02_بنية_المنتج_BOM_Formula_Item_Structure.md",
+            "url": "/content/20_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D9%88%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC/02_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_02_%D8%A8%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC_BOM_Formula_Item_Structure.md"
+          },
+          {
+            "type": "file",
+            "name": "03_الدرس_03_طريقة_التصنيع_Route_Work_Definition_Resources.md",
+            "title": "الدرس 03 طريقة التصنيع Route Work Definition Resources",
+            "relativePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/03_الدرس_03_طريقة_التصنيع_Route_Work_Definition_Resources.md",
+            "url": "/content/20_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D9%88%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC/03_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_03_%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9_Route_Work_Definition_Resources.md"
+          },
+          {
+            "type": "file",
+            "name": "04_الدرس_04_النسخ_الاعتماد_والحوكمة_Versions_Approvals_Governance.md",
+            "title": "الدرس 04 النسخ الاعتماد والحوكمة Versions Approvals Governance",
+            "relativePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/04_الدرس_04_النسخ_الاعتماد_والحوكمة_Versions_Approvals_Governance.md",
+            "url": "/content/20_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D9%88%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC/04_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_04_%D8%A7%D9%84%D9%86%D8%B3%D8%AE_%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF_%D9%88%D8%A7%D9%84%D8%AD%D9%88%D9%83%D9%85%D8%A9_Versions_Approvals_Governance.md"
+          },
+          {
+            "type": "file",
+            "name": "90_اختبار_الجزء_الثاني.md",
+            "title": "اختبار الجزء الثاني",
+            "relativePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+            "url": "/content/20_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D9%88%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC/90_%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A.md"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي",
+        "title": "الجزء الثالث دورة التنفيذ الانتاجي",
+        "relativePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي",
+        "children": [
+          {
+            "type": "file",
+            "name": "00_مدخل_الجزء_الثالث.md",
+            "title": "مدخل الجزء الثالث",
+            "relativePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/00_مدخل_الجزء_الثالث.md",
+            "url": "/content/30_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%D9%8A/00_%D9%85%D8%AF%D8%AE%D9%84_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB.md"
+          },
+          {
+            "type": "file",
+            "name": "01_الدرس_01_من_الطلب_الى_امر_الانتاج_Production_Order_and_Statuses.md",
+            "title": "الدرس 01 من الطلب الى امر الانتاج Production Order and Statuses",
+            "relativePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/01_الدرس_01_من_الطلب_الى_امر_الانتاج_Production_Order_and_Statuses.md",
+            "url": "/content/30_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%D9%8A/01_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_01_%D9%85%D9%86_%D8%A7%D9%84%D8%B7%D9%84%D8%A8_%D8%A7%D9%84%D9%89_%D8%A7%D9%85%D8%B1_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC_Production_Order_and_Statuses.md"
+          },
+          {
+            "type": "file",
+            "name": "02_الدرس_02_الاطلاق_والبدء_والصرف_Release_Start_Material_Issue.md",
+            "title": "الدرس 02 الاطلاق والبدء والصرف Release Start Material Issue",
+            "relativePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/02_الدرس_02_الاطلاق_والبدء_والصرف_Release_Start_Material_Issue.md",
+            "url": "/content/30_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%D9%8A/02_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_02_%D8%A7%D9%84%D8%A7%D8%B7%D9%84%D8%A7%D9%82_%D9%88%D8%A7%D9%84%D8%A8%D8%AF%D8%A1_%D9%88%D8%A7%D9%84%D8%B5%D8%B1%D9%81_Release_Start_Material_Issue.md"
+          },
+          {
+            "type": "file",
+            "name": "03_الدرس_03_تنفيذ_العمليات_والتأكيد_Operation_Execution_Confirmation.md",
+            "title": "الدرس 03 تنفيذ العمليات والتأكيد Operation Execution Confirmation",
+            "relativePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/03_الدرس_03_تنفيذ_العمليات_والتأكيد_Operation_Execution_Confirmation.md",
+            "url": "/content/30_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%D9%8A/03_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_03_%D8%AA%D9%86%D9%81%D9%8A%D8%B0_%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D8%A3%D9%83%D9%8A%D8%AF_Operation_Execution_Confirmation.md"
+          },
+          {
+            "type": "file",
+            "name": "04_الدرس_04_استلام_المنتج_النهائي_RAF_Product_Completion_Goods_Receipt.md",
+            "title": "الدرس 04 استلام المنتج النهائي RAF Product Completion Goods Receipt",
+            "relativePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/04_الدرس_04_استلام_المنتج_النهائي_RAF_Product_Completion_Goods_Receipt.md",
+            "url": "/content/30_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%D9%8A/04_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_04_%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A_RAF_Product_Completion_Goods_Receipt.md"
+          },
+          {
+            "type": "file",
+            "name": "05_الدرس_05_المرتجعات_والهالك_واعادة_التشغيل_Return_Scrap_Rework.md",
+            "title": "الدرس 05 المرتجعات والهالك واعادة التشغيل Return Scrap Rework",
+            "relativePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/05_الدرس_05_المرتجعات_والهالك_واعادة_التشغيل_Return_Scrap_Rework.md",
+            "url": "/content/30_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%D9%8A/05_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_05_%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%AC%D8%B9%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%87%D8%A7%D9%84%D9%83_%D9%88%D8%A7%D8%B9%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_Return_Scrap_Rework.md"
+          },
+          {
+            "type": "file",
+            "name": "06_الدرس_06_الاغلاق_ونقل_الاثر_الى_WIP_Variance_Close.md",
+            "title": "الدرس 06 الاغلاق ونقل الاثر الى WIP Variance Close",
+            "relativePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/06_الدرس_06_الاغلاق_ونقل_الاثر_الى_WIP_Variance_Close.md",
+            "url": "/content/30_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%D9%8A/06_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_06_%D8%A7%D9%84%D8%A7%D8%BA%D9%84%D8%A7%D9%82_%D9%88%D9%86%D9%82%D9%84_%D8%A7%D9%84%D8%A7%D8%AB%D8%B1_%D8%A7%D9%84%D9%89_WIP_Variance_Close.md"
+          },
+          {
+            "type": "file",
+            "name": "90_اختبار_الجزء_الثالث.md",
+            "title": "اختبار الجزء الثالث",
+            "relativePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+            "url": "/content/30_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%AF%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%D9%8A/90_%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB.md"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات",
+        "title": "الجزء الرابع التكاليف WIP والانحرافات",
+        "relativePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات",
+        "children": [
+          {
+            "type": "file",
+            "name": "00_مدخل_الجزء_الرابع.md",
+            "title": "مدخل الجزء الرابع",
+            "relativePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/00_مدخل_الجزء_الرابع.md",
+            "url": "/content/40_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81_WIP_%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81%D8%A7%D8%AA/00_%D9%85%D8%AF%D8%AE%D9%84_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9.md"
+          },
+          {
+            "type": "file",
+            "name": "01_الدرس_01_كيف_تتكون_تكلفة_المنتج_Cost_Build_Up.md",
+            "title": "الدرس 01 كيف تتكون تكلفة المنتج Cost Build Up",
+            "relativePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/01_الدرس_01_كيف_تتكون_تكلفة_المنتج_Cost_Build_Up.md",
+            "url": "/content/40_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81_WIP_%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81%D8%A7%D8%AA/01_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_01_%D9%83%D9%8A%D9%81_%D8%AA%D8%AA%D9%83%D9%88%D9%86_%D8%AA%D9%83%D9%84%D9%81%D8%A9_%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC_Cost_Build_Up.md"
+          },
+          {
+            "type": "file",
+            "name": "02_الدرس_02_WIP_وجسر_الانتقال_المالي_Work_in_Process.md",
+            "title": "الدرس 02 WIP وجسر الانتقال المالي Work in Process",
+            "relativePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/02_الدرس_02_WIP_وجسر_الانتقال_المالي_Work_in_Process.md",
+            "url": "/content/40_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81_WIP_%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81%D8%A7%D8%AA/02_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_02_WIP_%D9%88%D8%AC%D8%B3%D8%B1_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84_%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A_Work_in_Process.md"
+          },
+          {
+            "type": "file",
+            "name": "03_الدرس_03_التكلفة_المعيارية_والفعلية_Standard_vs_Actual_Cost.md",
+            "title": "الدرس 03 التكلفة المعيارية والفعلية Standard vs Actual Cost",
+            "relativePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/03_الدرس_03_التكلفة_المعيارية_والفعلية_Standard_vs_Actual_Cost.md",
+            "url": "/content/40_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81_WIP_%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81%D8%A7%D8%AA/03_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_03_%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%81%D8%A9_%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%A7%D8%B1%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%81%D8%B9%D9%84%D9%8A%D8%A9_Standard_vs_Actual_Cost.md"
+          },
+          {
+            "type": "file",
+            "name": "04_الدرس_04_الانحرافات_Variances_وكيف_تقرأها.md",
+            "title": "الدرس 04 الانحرافات Variances وكيف تقرأها",
+            "relativePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/04_الدرس_04_الانحرافات_Variances_وكيف_تقرأها.md",
+            "url": "/content/40_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81_WIP_%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81%D8%A7%D8%AA/04_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_04_%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81%D8%A7%D8%AA_Variances_%D9%88%D9%83%D9%8A%D9%81_%D8%AA%D9%82%D8%B1%D8%A3%D9%87%D8%A7.md"
+          },
+          {
+            "type": "file",
+            "name": "05_الدرس_05_التسوية_والاغلاق_والتقارير_Settlement_Close_Reports.md",
+            "title": "الدرس 05 التسوية والاغلاق والتقارير Settlement Close Reports",
+            "relativePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/05_الدرس_05_التسوية_والاغلاق_والتقارير_Settlement_Close_Reports.md",
+            "url": "/content/40_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81_WIP_%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81%D8%A7%D8%AA/05_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_05_%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A7%D8%BA%D9%84%D8%A7%D9%82_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1_Settlement_Close_Reports.md"
+          },
+          {
+            "type": "file",
+            "name": "90_اختبار_الجزء_الرابع.md",
+            "title": "اختبار الجزء الرابع",
+            "relativePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+            "url": "/content/40_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81_WIP_%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81%D8%A7%D8%AA/90_%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9.md"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة",
+        "title": "الجزء الخامس الجودة والتخطيط والسيناريوهات المتقدمة",
+        "relativePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة",
+        "children": [
+          {
+            "type": "file",
+            "name": "00_مدخل_الجزء_الخامس.md",
+            "title": "مدخل الجزء الخامس",
+            "relativePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/00_مدخل_الجزء_الخامس.md",
+            "url": "/content/50_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9/00_%D9%85%D8%AF%D8%AE%D9%84_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3.md"
+          },
+          {
+            "type": "file",
+            "name": "01_الدرس_01_الجودة_في_التصنيع_Quality_in_Manufacturing.md",
+            "title": "الدرس 01 الجودة في التصنيع Quality in Manufacturing",
+            "relativePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/01_الدرس_01_الجودة_في_التصنيع_Quality_in_Manufacturing.md",
+            "url": "/content/50_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9/01_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_01_%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9_Quality_in_Manufacturing.md"
+          },
+          {
+            "type": "file",
+            "name": "02_الدرس_02_التخطيط_ومولد_الطلب_Planning_MRP_Master_Planning.md",
+            "title": "الدرس 02 التخطيط ومولد الطلب Planning MRP Master Planning",
+            "relativePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/02_الدرس_02_التخطيط_ومولد_الطلب_Planning_MRP_Master_Planning.md",
+            "url": "/content/50_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9/02_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_02_%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%88%D9%85%D9%88%D9%84%D8%AF_%D8%A7%D9%84%D8%B7%D9%84%D8%A8_Planning_MRP_Master_Planning.md"
+          },
+          {
+            "type": "file",
+            "name": "03_الدرس_03_الانتاج_للمخزون_والانتاج_حسب_الطلب_MTS_MTO.md",
+            "title": "الدرس 03 الانتاج للمخزون والانتاج حسب الطلب MTS MTO",
+            "relativePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/03_الدرس_03_الانتاج_للمخزون_والانتاج_حسب_الطلب_MTS_MTO.md",
+            "url": "/content/50_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9/03_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_03_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC_%D9%84%D9%84%D9%85%D8%AE%D8%B2%D9%88%D9%86_%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC_%D8%AD%D8%B3%D8%A8_%D8%A7%D9%84%D8%B7%D9%84%D8%A8_MTS_MTO.md"
+          },
+          {
+            "type": "file",
+            "name": "04_الدرس_04_التتبع_بالدفعات_والسيريال_Lot_Serial_Traceability.md",
+            "title": "الدرس 04 التتبع بالدفعات والسيريال Lot Serial Traceability",
+            "relativePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/04_الدرس_04_التتبع_بالدفعات_والسيريال_Lot_Serial_Traceability.md",
+            "url": "/content/50_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9/04_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_04_%D8%A7%D9%84%D8%AA%D8%AA%D8%A8%D8%B9_%D8%A8%D8%A7%D9%84%D8%AF%D9%81%D8%B9%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D9%8A%D8%A7%D9%84_Lot_Serial_Traceability.md"
+          },
+          {
+            "type": "file",
+            "name": "05_الدرس_05_التصنيع_متعدد_المستويات_والمخرجات_المتعددة_Multi_Level_Process_Outputs.md",
+            "title": "الدرس 05 التصنيع متعدد المستويات والمخرجات المتعددة Multi Level Process Outputs",
+            "relativePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/05_الدرس_05_التصنيع_متعدد_المستويات_والمخرجات_المتعددة_Multi_Level_Process_Outputs.md",
+            "url": "/content/50_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9/05_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_05_%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9_%D9%85%D8%AA%D8%B9%D8%AF%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%85%D8%AE%D8%B1%D8%AC%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9_Multi_Level_Process_Outputs.md"
+          },
+          {
+            "type": "file",
+            "name": "06_الدرس_06_الانماط_المتقدمة_Discrete_Process_Repetitive_Lean.md",
+            "title": "الدرس 06 الانماط المتقدمة Discrete Process Repetitive Lean",
+            "relativePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/06_الدرس_06_الانماط_المتقدمة_Discrete_Process_Repetitive_Lean.md",
+            "url": "/content/50_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9/06_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_06_%D8%A7%D9%84%D8%A7%D9%86%D9%85%D8%A7%D8%B7_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9_Discrete_Process_Repetitive_Lean.md"
+          },
+          {
+            "type": "file",
+            "name": "07_الدرس_07_Subcontracting_والتصنيع_الخارجي.md",
+            "title": "الدرس 07 Subcontracting والتصنيع الخارجي",
+            "relativePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/07_الدرس_07_Subcontracting_والتصنيع_الخارجي.md",
+            "url": "/content/50_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9/07_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_07_Subcontracting_%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9_%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A.md"
+          },
+          {
+            "type": "file",
+            "name": "90_اختبار_الجزء_الخامس.md",
+            "title": "اختبار الجزء الخامس",
+            "relativePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+            "url": "/content/50_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9/90_%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3.md"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول",
+        "title": "الجزء السادس الاستشارات والتطبيق واستلام الموديول",
+        "relativePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول",
+        "children": [
+          {
+            "type": "file",
+            "name": "00_مدخل_الجزء_السادس.md",
+            "title": "مدخل الجزء السادس",
+            "relativePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/00_مدخل_الجزء_السادس.md",
+            "url": "/content/60_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82_%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84/00_%D9%85%D8%AF%D8%AE%D9%84_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3.md"
+          },
+          {
+            "type": "file",
+            "name": "01_الدرس_01_كيف_تقود_Discovery_فعلي.md",
+            "title": "الدرس 01 كيف تقود Discovery فعلي",
+            "relativePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/01_الدرس_01_كيف_تقود_Discovery_فعلي.md",
+            "url": "/content/60_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82_%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84/01_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_01_%D9%83%D9%8A%D9%81_%D8%AA%D9%82%D9%88%D8%AF_Discovery_%D9%81%D8%B9%D9%84%D9%8A.md"
+          },
+          {
+            "type": "file",
+            "name": "02_الدرس_02_كيف_تبني_Gap_Analysis_محترم.md",
+            "title": "الدرس 02 كيف تبني Gap Analysis محترم",
+            "relativePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/02_الدرس_02_كيف_تبني_Gap_Analysis_محترم.md",
+            "url": "/content/60_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82_%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84/02_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_02_%D9%83%D9%8A%D9%81_%D8%AA%D8%A8%D9%86%D9%8A_Gap_Analysis_%D9%85%D8%AD%D8%AA%D8%B1%D9%85.md"
+          },
+          {
+            "type": "file",
+            "name": "03_الدرس_03_الجاهزية_وال_UAT_وقرار_Go_No_Go.md",
+            "title": "الدرس 03 الجاهزية وال UAT وقرار Go No Go",
+            "relativePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/03_الدرس_03_الجاهزية_وال_UAT_وقرار_Go_No_Go.md",
+            "url": "/content/60_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82_%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84/03_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_03_%D8%A7%D9%84%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%A9_%D9%88%D8%A7%D9%84_UAT_%D9%88%D9%82%D8%B1%D8%A7%D8%B1_Go_No_Go.md"
+          },
+          {
+            "type": "file",
+            "name": "04_الدرس_04_الترجمة_من_وظيفي_الى_تقني_Functional_to_Technical.md",
+            "title": "الدرس 04 الترجمة من وظيفي الى تقني Functional to Technical",
+            "relativePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/04_الدرس_04_الترجمة_من_وظيفي_الى_تقني_Functional_to_Technical.md",
+            "url": "/content/60_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82_%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84/04_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_04_%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%85%D8%A9_%D9%85%D9%86_%D9%88%D8%B8%D9%8A%D9%81%D9%8A_%D8%A7%D9%84%D9%89_%D8%AA%D9%82%D9%86%D9%8A_Functional_to_Technical.md"
+          },
+          {
+            "type": "file",
+            "name": "05_الدرس_05_علامات_الفشل_المبكر_بعد_Go_Live.md",
+            "title": "الدرس 05 علامات الفشل المبكر بعد Go Live",
+            "relativePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/05_الدرس_05_علامات_الفشل_المبكر_بعد_Go_Live.md",
+            "url": "/content/60_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82_%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84/05_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_05_%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D9%81%D8%B4%D9%84_%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1_%D8%A8%D8%B9%D8%AF_Go_Live.md"
+          },
+          {
+            "type": "file",
+            "name": "06_الدرس_06_اول_30_يوما_في_استلام_الموديول.md",
+            "title": "الدرس 06 اول 30 يوما في استلام الموديول",
+            "relativePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/06_الدرس_06_اول_30_يوما_في_استلام_الموديول.md",
+            "url": "/content/60_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82_%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84/06_%D8%A7%D9%84%D8%AF%D8%B1%D8%B3_06_%D8%A7%D9%88%D9%84_30_%D9%8A%D9%88%D9%85%D8%A7_%D9%81%D9%8A_%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84.md"
+          },
+          {
+            "type": "file",
+            "name": "90_اختبار_الجزء_السادس.md",
+            "title": "اختبار الجزء السادس",
+            "relativePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+            "url": "/content/60_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82_%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84/90_%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3.md"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "90_الملاحق_والمرجع_السريع",
+        "title": "الملاحق والمرجع السريع",
+        "relativePath": "90_الملاحق_والمرجع_السريع",
+        "children": [
+          {
+            "type": "file",
+            "name": "00_مدخل_الملاحق.md",
+            "title": "مدخل الملاحق",
+            "relativePath": "90_الملاحق_والمرجع_السريع/00_مدخل_الملاحق.md",
+            "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/00_%D9%85%D8%AF%D8%AE%D9%84_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82.md"
+          },
+          {
+            "type": "directory",
+            "name": "10_المراجع_السريعة",
+            "title": "المراجع السريعة",
+            "relativePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة",
+            "children": [
+              {
+                "type": "file",
+                "name": "01_مصفوفة_المفاهيم_الاساسية_بين_الانظمة.md",
+                "title": "مصفوفة المفاهيم الاساسية بين الانظمة",
+                "relativePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/01_مصفوفة_المفاهيم_الاساسية_بين_الانظمة.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/10_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9/01_%D9%85%D8%B5%D9%81%D9%88%D9%81%D8%A9_%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%87%D9%8A%D9%85_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D8%A7%D9%86%D8%B8%D9%85%D8%A9.md"
+              },
+              {
+                "type": "file",
+                "name": "02_قائمة_مراجعة_يومية_لموديول_الانتاج.md",
+                "title": "قائمة مراجعة يومية لموديول الانتاج",
+                "relativePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/02_قائمة_مراجعة_يومية_لموديول_الانتاج.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/10_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9/02_%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9_%D9%8A%D9%88%D9%85%D9%8A%D8%A9_%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC.md"
+              },
+              {
+                "type": "file",
+                "name": "03_ورقة_Discovery_سريعة_لموديول_الانتاج.md",
+                "title": "ورقة Discovery سريعة لموديول الانتاج",
+                "relativePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/03_ورقة_Discovery_سريعة_لموديول_الانتاج.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/10_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9/03_%D9%88%D8%B1%D9%82%D8%A9_Discovery_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9_%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC.md"
+              },
+              {
+                "type": "file",
+                "name": "04_خريطة_التقارير_الاساسية_للمستشار.md",
+                "title": "خريطة التقارير الاساسية للمستشار",
+                "relativePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/04_خريطة_التقارير_الاساسية_للمستشار.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/10_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9/04_%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9_%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1_%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1.md"
+              },
+              {
+                "type": "file",
+                "name": "05_خريطة_تكامل_موديول_الانتاج_مع_باقي_الموديولات.md",
+                "title": "خريطة تكامل موديول الانتاج مع باقي الموديولات",
+                "relativePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/05_خريطة_تكامل_موديول_الانتاج_مع_باقي_الموديولات.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/10_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9/05_%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9_%D8%AA%D9%83%D8%A7%D9%85%D9%84_%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC_%D9%85%D8%B9_%D8%A8%D8%A7%D9%82%D9%8A_%D8%A7%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84%D8%A7%D8%AA.md"
+              },
+              {
+                "type": "file",
+                "name": "06_مؤشرات_الاداء_KPIs_في_الانتاج.md",
+                "title": "مؤشرات الاداء KPIs في الانتاج",
+                "relativePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/06_مؤشرات_الاداء_KPIs_في_الانتاج.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/10_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9/06_%D9%85%D8%A4%D8%B4%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%A1_KPIs_%D9%81%D9%8A_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC.md"
+              }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "20_السيناريوهات_والتمارين",
+            "title": "السيناريوهات والتمارين",
+            "relativePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين",
+            "children": [
+              {
+                "type": "file",
+                "name": "01_دراسة_حالة_مصنع_مختلط_Mixed_Model_Case_Study.md",
+                "title": "دراسة حالة مصنع مختلط Mixed Model Case Study",
+                "relativePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/01_دراسة_حالة_مصنع_مختلط_Mixed_Model_Case_Study.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/20_%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/01_%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9_%D8%AD%D8%A7%D9%84%D8%A9_%D9%85%D8%B5%D9%86%D8%B9_%D9%85%D8%AE%D8%AA%D9%84%D8%B7_Mixed_Model_Case_Study.md"
+              },
+              {
+                "type": "file",
+                "name": "02_ثلاثة_سيناريوهات_انتاج_كاملة_من_الطلب_الى_الاغلاق.md",
+                "title": "ثلاثة سيناريوهات انتاج كاملة من الطلب الى الاغلاق",
+                "relativePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/02_ثلاثة_سيناريوهات_انتاج_كاملة_من_الطلب_الى_الاغلاق.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/20_%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/02_%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%86%D8%AA%D8%A7%D8%AC_%D9%83%D8%A7%D9%85%D9%84%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%B7%D9%84%D8%A8_%D8%A7%D9%84%D9%89_%D8%A7%D9%84%D8%A7%D8%BA%D9%84%D8%A7%D9%82.md"
+              },
+              {
+                "type": "file",
+                "name": "03_تمارين_التشخيص_Diagnosis_Exercises.md",
+                "title": "تمارين التشخيص Diagnosis Exercises",
+                "relativePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/03_تمارين_التشخيص_Diagnosis_Exercises.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/20_%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/03_%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86_%D8%A7%D9%84%D8%AA%D8%B4%D8%AE%D9%8A%D8%B5_Diagnosis_Exercises.md"
+              },
+              {
+                "type": "file",
+                "name": "04_محادثات_Discovery_محاكاة.md",
+                "title": "محادثات Discovery محاكاة",
+                "relativePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/04_محادثات_Discovery_محاكاة.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/20_%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/04_%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA_Discovery_%D9%85%D8%AD%D8%A7%D9%83%D8%A7%D8%A9.md"
+              },
+              {
+                "type": "file",
+                "name": "05_تمارين_قراءة_التقارير_Report_Reading_Exercises.md",
+                "title": "تمارين قراءة التقارير Report Reading Exercises",
+                "relativePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/05_تمارين_قراءة_التقارير_Report_Reading_Exercises.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/20_%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/05_%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86_%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1_Report_Reading_Exercises.md"
+              },
+              {
+                "type": "file",
+                "name": "06_قالب_تقييم_نظام_ERP_محلي_لموديول_الانتاج.md",
+                "title": "قالب تقييم نظام ERP محلي لموديول الانتاج",
+                "relativePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/06_قالب_تقييم_نظام_ERP_محلي_لموديول_الانتاج.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/20_%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/06_%D9%82%D8%A7%D9%84%D8%A8_%D8%AA%D9%82%D9%8A%D9%8A%D9%85_%D9%86%D8%B8%D8%A7%D9%85_ERP_%D9%85%D8%AD%D9%84%D9%8A_%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC.md"
+              }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "30_الاختبارات_والتقييم",
+            "title": "الاختبارات والتقييم",
+            "relativePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم",
+            "children": [
+              {
+                "type": "file",
+                "name": "01_الاختبار_التجميعي_النهائي_للكتاب.md",
+                "title": "الاختبار التجميعي النهائي للكتاب",
+                "relativePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/30_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85/01_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D9%8A_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A_%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8.md"
+              },
+              {
+                "type": "file",
+                "name": "02_دليل_الإجابات_النموذجية_ومعيار_التقييم.md",
+                "title": "دليل الإجابات النموذجية ومعيار التقييم",
+                "relativePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/02_دليل_الإجابات_النموذجية_ومعيار_التقييم.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/30_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85/02_%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D8%A5%D8%AC%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D9%84%D9%86%D9%85%D9%88%D8%B0%D8%AC%D9%8A%D8%A9_%D9%88%D9%85%D8%B9%D9%8A%D8%A7%D8%B1_%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85.md"
+              },
+              {
+                "type": "file",
+                "name": "03_إجابات_استرشادية_لاختبارات_الأجزاء_الستة.md",
+                "title": "إجابات استرشادية لاختبارات الأجزاء الستة",
+                "relativePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/03_إجابات_استرشادية_لاختبارات_الأجزاء_الستة.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/30_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85/03_%D8%A5%D8%AC%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D8%B3%D8%AA%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A%D8%A9_%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%AC%D8%B2%D8%A7%D8%A1_%D8%A7%D9%84%D8%B3%D8%AA%D8%A9.md"
+              },
+              {
+                "type": "file",
+                "name": "04_إجابات_استرشادية_لتمارين_التشخيص.md",
+                "title": "إجابات استرشادية لتمارين التشخيص",
+                "relativePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/04_إجابات_استرشادية_لتمارين_التشخيص.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/30_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85/04_%D8%A5%D8%AC%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D8%B3%D8%AA%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A%D8%A9_%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86_%D8%A7%D9%84%D8%AA%D8%B4%D8%AE%D9%8A%D8%B5.md"
+              },
+              {
+                "type": "file",
+                "name": "05_إجابات_استرشادية_لتمارين_قراءة_التقارير.md",
+                "title": "إجابات استرشادية لتمارين قراءة التقارير",
+                "relativePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/05_إجابات_استرشادية_لتمارين_قراءة_التقارير.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/30_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85/05_%D8%A5%D8%AC%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D8%B3%D8%AA%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A%D8%A9_%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86_%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1.md"
+              },
+              {
+                "type": "file",
+                "name": "06_إجابات_استرشادية_للسيناريوهات_الثلاثة_الكاملة.md",
+                "title": "إجابات استرشادية للسيناريوهات الثلاثة الكاملة",
+                "relativePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/06_إجابات_استرشادية_للسيناريوهات_الثلاثة_الكاملة.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/30_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85/06_%D8%A5%D8%AC%D8%A7%D8%A8%D8%A7%D8%AA_%D8%A7%D8%B3%D8%AA%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A%D8%A9_%D9%84%D9%84%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9.md"
+              },
+              {
+                "type": "file",
+                "name": "07_روبرك_تقييم_الاجابات_والتحليل.md",
+                "title": "روبرك تقييم الاجابات والتحليل",
+                "relativePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/07_روبرك_تقييم_الاجابات_والتحليل.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/30_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85/07_%D8%B1%D9%88%D8%A8%D8%B1%D9%83_%D8%AA%D9%82%D9%8A%D9%8A%D9%85_%D8%A7%D9%84%D8%A7%D8%AC%D8%A7%D8%A8%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84.md"
+              },
+              {
+                "type": "file",
+                "name": "08_اختبار_الجاهزية_المهني_النهائي.md",
+                "title": "اختبار الجاهزية المهني النهائي",
+                "relativePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/08_اختبار_الجاهزية_المهني_النهائي.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/30_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85/08_%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A.md"
+              },
+              {
+                "type": "file",
+                "name": "09_نموذج_إجابة_مختصر_لاختبار_الجاهزية_المهني_النهائي.md",
+                "title": "نموذج إجابة مختصر لاختبار الجاهزية المهني النهائي",
+                "relativePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/09_نموذج_إجابة_مختصر_لاختبار_الجاهزية_المهني_النهائي.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/30_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85/09_%D9%86%D9%85%D9%88%D8%B0%D8%AC_%D8%A5%D8%AC%D8%A7%D8%A8%D8%A9_%D9%85%D8%AE%D8%AA%D8%B5%D8%B1_%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%AC%D8%A7%D9%87%D8%B2%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A.md"
+              }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "40_ادوات_التشغيل_الواقعية",
+            "title": "ادوات التشغيل الواقعية",
+            "relativePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية",
+            "children": [
+              {
+                "type": "file",
+                "name": "01_قائمة_ما_قبل_Go_Live_لموديول_الانتاج.md",
+                "title": "قائمة ما قبل Go Live لموديول الانتاج",
+                "relativePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/01_قائمة_ما_قبل_Go_Live_لموديول_الانتاج.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/40_%D8%A7%D8%AF%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9/01_%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%A7_%D9%82%D8%A8%D9%84_Go_Live_%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC.md"
+              },
+              {
+                "type": "file",
+                "name": "02_كتالوج_اخطاء_المستخدمين_الشائعة.md",
+                "title": "كتالوج اخطاء المستخدمين الشائعة",
+                "relativePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/02_كتالوج_اخطاء_المستخدمين_الشائعة.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/40_%D8%A7%D8%AF%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9/02_%D9%83%D8%AA%D8%A7%D9%84%D9%88%D8%AC_%D8%A7%D8%AE%D8%B7%D8%A7%D8%A1_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86_%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9.md"
+              },
+              {
+                "type": "file",
+                "name": "03_اغلاق_نهاية_الشهر_خطوة_بخطوة.md",
+                "title": "اغلاق نهاية الشهر خطوة بخطوة",
+                "relativePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/03_اغلاق_نهاية_الشهر_خطوة_بخطوة.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/40_%D8%A7%D8%AF%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9/03_%D8%A7%D8%BA%D9%84%D8%A7%D9%82_%D9%86%D9%87%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%B4%D9%87%D8%B1_%D8%AE%D8%B7%D9%88%D8%A9_%D8%A8%D8%AE%D8%B7%D9%88%D8%A9.md"
+              },
+              {
+                "type": "file",
+                "name": "04_دليل_تدريب_المستخدم_النهائي.md",
+                "title": "دليل تدريب المستخدم النهائي",
+                "relativePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/04_دليل_تدريب_المستخدم_النهائي.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/40_%D8%A7%D8%AF%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9/04_%D8%AF%D9%84%D9%8A%D9%84_%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A.md"
+              },
+              {
+                "type": "file",
+                "name": "05_قالب_كتابة_طلب_تطوير_للمبرمج.md",
+                "title": "قالب كتابة طلب تطوير للمبرمج",
+                "relativePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/05_قالب_كتابة_طلب_تطوير_للمبرمج.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/40_%D8%A7%D8%AF%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9/05_%D9%82%D8%A7%D9%84%D8%A8_%D9%83%D8%AA%D8%A7%D8%A8%D8%A9_%D8%B7%D9%84%D8%A8_%D8%AA%D8%B7%D9%88%D9%8A%D8%B1_%D9%84%D9%84%D9%85%D8%A8%D8%B1%D9%85%D8%AC.md"
+              },
+              {
+                "type": "file",
+                "name": "06_تخطيط_Data_Migration_وCutover_لموديول_الانتاج.md",
+                "title": "تخطيط Data Migration وCutover لموديول الانتاج",
+                "relativePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/06_تخطيط_Data_Migration_وCutover_لموديول_الانتاج.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/40_%D8%A7%D8%AF%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9/06_%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7_Data_Migration_%D9%88Cutover_%D9%84%D9%85%D9%88%D8%AF%D9%8A%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A7%D8%AC.md"
+              }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "50_مسارات_الدراسة",
+            "title": "مسارات الدراسة",
+            "relativePath": "90_الملاحق_والمرجع_السريع/50_مسارات_الدراسة",
+            "children": [
+              {
+                "type": "file",
+                "name": "01_خطة_المراجعة_السريعة_عند_ضغط_الوقت_او_قبل_البداية.md",
+                "title": "خطة المراجعة السريعة عند ضغط الوقت او قبل البداية",
+                "relativePath": "90_الملاحق_والمرجع_السريع/50_مسارات_الدراسة/01_خطة_المراجعة_السريعة_عند_ضغط_الوقت_او_قبل_البداية.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/50_%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/01_%D8%AE%D8%B7%D8%A9_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9_%D8%B9%D9%86%D8%AF_%D8%B6%D8%BA%D8%B7_%D8%A7%D9%84%D9%88%D9%82%D8%AA_%D8%A7%D9%88_%D9%82%D8%A8%D9%84_%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9.md"
+              },
+              {
+                "type": "file",
+                "name": "02_من_اين_ابدا_اذا_كان_عندي_30_يوما_فقط.md",
+                "title": "من اين ابدا اذا كان عندي 30 يوما فقط",
+                "relativePath": "90_الملاحق_والمرجع_السريع/50_مسارات_الدراسة/02_من_اين_ابدا_اذا_كان_عندي_30_يوما_فقط.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/50_%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/02_%D9%85%D9%86_%D8%A7%D9%8A%D9%86_%D8%A7%D8%A8%D8%AF%D8%A7_%D8%A7%D8%B0%D8%A7_%D9%83%D8%A7%D9%86_%D8%B9%D9%86%D8%AF%D9%8A_30_%D9%8A%D9%88%D9%85%D8%A7_%D9%81%D9%82%D8%B7.md"
+              },
+              {
+                "type": "file",
+                "name": "03_خريطة_ما_بعد_الكتاب_وماذا_تدرس_بعد_ذلك.md",
+                "title": "خريطة ما بعد الكتاب وماذا تدرس بعد ذلك",
+                "relativePath": "90_الملاحق_والمرجع_السريع/50_مسارات_الدراسة/03_خريطة_ما_بعد_الكتاب_وماذا_تدرس_بعد_ذلك.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/50_%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/03_%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9_%D9%85%D8%A7_%D8%A8%D8%B9%D8%AF_%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8_%D9%88%D9%85%D8%A7%D8%B0%D8%A7_%D8%AA%D8%AF%D8%B1%D8%B3_%D8%A8%D8%B9%D8%AF_%D8%B0%D9%84%D9%83.md"
+              },
+              {
+                "type": "file",
+                "name": "04_الفجوات_المتقدمة_خارج_نطاق_الاجزاء_الستة.md",
+                "title": "الفجوات المتقدمة خارج نطاق الاجزاء الستة",
+                "relativePath": "90_الملاحق_والمرجع_السريع/50_مسارات_الدراسة/04_الفجوات_المتقدمة_خارج_نطاق_الاجزاء_الستة.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/50_%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/04_%D8%A7%D9%84%D9%81%D8%AC%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9_%D8%AE%D8%A7%D8%B1%D8%AC_%D9%86%D8%B7%D8%A7%D9%82_%D8%A7%D9%84%D8%A7%D8%AC%D8%B2%D8%A7%D8%A1_%D8%A7%D9%84%D8%B3%D8%AA%D8%A9.md"
+              },
+              {
+                "type": "file",
+                "name": "05_برنامج_تدريب_عملي_لمدة_4_اسابيع.md",
+                "title": "برنامج تدريب عملي لمدة 4 اسابيع",
+                "relativePath": "90_الملاحق_والمرجع_السريع/50_مسارات_الدراسة/05_برنامج_تدريب_عملي_لمدة_4_اسابيع.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/50_%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/05_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8_%D8%B9%D9%85%D9%84%D9%8A_%D9%84%D9%85%D8%AF%D8%A9_4_%D8%A7%D8%B3%D8%A7%D8%A8%D9%8A%D8%B9.md"
+              },
+              {
+                "type": "file",
+                "name": "06_ابدأ_من_هنا_اليوم.md",
+                "title": "ابدأ من هنا اليوم",
+                "relativePath": "90_الملاحق_والمرجع_السريع/50_مسارات_الدراسة/06_ابدأ_من_هنا_اليوم.md",
+                "url": "/content/90_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9/50_%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/06_%D8%A7%D8%A8%D8%AF%D8%A3_%D9%85%D9%86_%D9%87%D9%86%D8%A7_%D8%A7%D9%84%D9%8A%D9%88%D9%85.md"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

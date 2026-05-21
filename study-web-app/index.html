@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>منهج موديول الإنتاج في ERP</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="light">
+
+  <!-- Top bar -->
+  <header id="topbar">
+    <div class="topbar-group">
+      <button id="btn-toggle-sidebar" title="إخفاء/إظهار القائمة" aria-label="تبديل القائمة الجانبية">☰</button>
+      <span id="book-title">منهج موديول الإنتاج في ERP</span>
+    </div>
+    <div class="topbar-group topbar-center">
+      <div id="progress-wrap" title="التقدم الكلي">
+        <div id="progress-bar"></div>
+      </div>
+      <span id="progress-text">0%</span>
+    </div>
+    <div class="topbar-group">
+      <button id="btn-search" title="بحث في المحتوى (Ctrl+K)">🔍</button>
+      <button id="btn-notes" title="ملاحظاتي على هذا الدرس">📝</button>
+      <button id="btn-dark" title="تبديل الوضع الليلي">🌙</button>
+    </div>
+  </header>
+
+  <!-- Sidebar -->
+  <nav id="sidebar">
+    <div id="sidebar-scroll">
+      <div id="sidebar-tree"></div>
+    </div>
+  </nav>
+
+  <!-- Main content -->
+  <main id="main">
+    <div id="content-topbar">
+      <div id="content-breadcrumb"></div>
+      <button id="btn-done" class="hidden">✓ علّم منتهياً</button>
+    </div>
+
+    <article id="content">
+      <div id="welcome">
+        <div class="welcome-icon">📚</div>
+        <h1>منهج موديول الإنتاج في ERP</h1>
+        <p>اختر درساً من القائمة الجانبية للبدء</p>
+        <div class="welcome-stats" id="welcome-stats"></div>
+        <button class="btn-primary" id="btn-continue">متابعة من حيث توقفت</button>
+      </div>
+    </article>
+
+    <nav id="lesson-nav" class="hidden">
+      <button id="btn-prev">→ السابق</button>
+      <button id="btn-next">التالي ←</button>
+    </nav>
+  </main>
+
+  <!-- Notes drawer -->
+  <aside id="notes-drawer" class="hidden">
+    <div id="notes-header">
+      <span>📝 ملاحظاتي</span>
+      <button id="btn-close-notes">✕</button>
+    </div>
+    <div id="notes-file-title"></div>
+    <textarea id="notes-area" placeholder="اكتب ملاحظاتك هنا... يحفظ تلقائياً"></textarea>
+    <div id="notes-saved-indicator"></div>
+  </aside>
+
+  <!-- Search modal -->
+  <div id="search-overlay" class="hidden">
+    <div id="search-modal">
+      <div id="search-input-wrap">
+        <span>🔍</span>
+        <input type="text" id="search-input" placeholder="ابحث في عناوين ومحتوى الكتاب..." autocomplete="off">
+        <button id="btn-close-search">✕</button>
+      </div>
+      <div id="search-status"></div>
+      <div id="search-results"></div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js"></script>
+  <script src="book-config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+import fs from 'node:fs/promises'
+import path from 'node:path'
+import sharp from 'sharp'
+
+const projectRoot = process.cwd()
+const iconsRoot = path.join(projectRoot, 'public', 'icons')
+
+const svg = `
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="120" fill="#F4EBDD"/>
+  <rect x="56" y="52" width="400" height="408" rx="52" fill="#FFF9F1"/>
+  <rect x="96" y="112" width="320" height="56" rx="20" fill="#A64B2A"/>
+  <rect x="96" y="196" width="212" height="26" rx="13" fill="#D7C6B4"/>
+  <rect x="96" y="240" width="268" height="26" rx="13" fill="#D7C6B4"/>
+  <rect x="96" y="284" width="232" height="26" rx="13" fill="#D7C6B4"/>
+  <rect x="96" y="336" width="156" height="52" rx="18" fill="#184E4A"/>
+  <text x="116" y="370" fill="#FFF9F1" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">ERP</text>
+  <path d="M354 338L390 370L430 314" stroke="#184E4A" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>`
+
+async function main() {
+  await fs.mkdir(iconsRoot, { recursive: true })
+  const input = Buffer.from(svg)
+
+  await fs.writeFile(path.join(iconsRoot, 'app-icon.svg'), svg.trim(), 'utf8')
+  await sharp(input).resize(192, 192).png().toFile(path.join(iconsRoot, 'icon-192.png'))
+  await sharp(input).resize(512, 512).png().toFile(path.join(iconsRoot, 'icon-512.png'))
+  await sharp(input).resize(180, 180).png().toFile(path.join(iconsRoot, 'apple-touch-icon.png'))
+}
+
+main().catch((error) => {
+  console.error(error)
+  process.exitCode = 1
+})

@@ -1,0 +1,86 @@
+:root {
+  --text: #6b6375;
+  --text-h: #08060d;
+  --bg: #fff;
+  --border: #e5e4e7;
+  --code-bg: #f4f3ec;
+  --accent: #aa3bff;
+  --accent-bg: rgba(170, 59, 255, 0.1);
+  --accent-border: rgba(170, 59, 255, 0.5);
+  --social-bg: rgba(244, 243, 236, 0.5);
+  --shadow:
+    rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
+
+  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --mono: ui-monospace, Consolas, monospace;
+
+  font: 18px/145% var(--sans);
+  letter-spacing: 0.18px;
+  color-scheme: light dark;
+  color: var(--text);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  :root {
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #2b211b;
+    background:
+      radial-gradient(circle at top left, rgba(166, 75, 42, 0.12), transparent 32%),
+      linear-gradient(180deg, #f7f0e7, #f2e4d3);
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    --accent: #a64b2a;
+    --accent-deep: #7f341b;
+    --secondary: #184e4a;
+    --paper: #fff9f1;
+    --paper-strong: #fffdf8;
+    --ink: #2b211b;
+    --ink-soft: #4e3d32;
+    --muted: #756356;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    direction: rtl;
+  }
+
+  body {
+    margin: 0;
+    min-width: 320px;
+    min-height: 100vh;
+  }
+
+  body,
+  input,
+  button,
+  textarea {
+    font: inherit;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  #root {
+    min-height: 100vh;
+  }
+  color: var(--text-h);
+}
+
+code {
+  font-size: 15px;
+  line-height: 135%;
+  padding: 4px 8px;
+  background: var(--code-bg);
+}
