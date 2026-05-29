@@ -1,0 +1,29 @@
+{
+  "name": "study-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "study:data": "node build-study-data.js",
+    "study:cloze": "node build-cloze.js",
+    "study:concepts": "node build-concepts.js",
+    "study:cheatsheets": "node build-cheatsheets.js",
+    "bundle:content": "node build-bundle.js",
+    "study:ai": "node build-ai-knowledge.js",
+    "ai:server": "node assistant-server.js",
+    "build:dist": "node build-dist.js",
+    "build": "npm run study:data && npm run study:cloze && npm run study:concepts && npm run study:cheatsheets && npm run bundle:content && npm run study:ai && npm run build:dist",
+    "cap:sync": "npx cap sync android",
+    "test": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aparajita/capacitor-secure-storage": "^8.0.0",
+    "@capacitor/android": "^8.3.4",
+    "@capacitor/cli": "^8.3.4",
+    "@capacitor/core": "^8.3.4",
+    "marked": "^9.1.6"
+  }
+}

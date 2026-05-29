@@ -1,0 +1,15 @@
+{
+  "name": "study-print-book",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Printable A4 book builder for the ERP production study track",
+  "type": "commonjs",
+  "scripts": {
+    "build": "node build-book.js",
+    "pdf": "node export-pdf.js",
+    "build:pdf": "npm run build && npm run pdf"
+  },
+  "dependencies": {
+    "marked": "^9.1.6"
+  }
+}

@@ -8,6 +8,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
+      injectRegister: 'auto',
       includeAssets: ['icons/app-icon.svg', 'icons/apple-touch-icon.png'],
       manifest: {
         id: '/',
@@ -42,7 +43,10 @@ export default defineConfig({
         ],
       },
       workbox: {
+        cleanupOutdatedCaches: true,
+        clientsClaim: true,
         globPatterns: ['**/*.{js,css,html,png,svg,json,md}'],
+        skipWaiting: true,
       },
     }),
   ],

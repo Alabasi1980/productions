@@ -1,0 +1,702 @@
+/* ─── Glossary tooltip ────────────────────────────────────────── */
+.glossary-term {
+  position: relative;
+  display: inline;
+}
+
+.glossary-term__trigger {
+  background: none;
+  border: none;
+  border-bottom: 1.5px dotted var(--secondary);
+  color: inherit;
+  font: inherit;
+  padding: 0;
+  cursor: help;
+  border-radius: 0;
+}
+
+.glossary-term__trigger:hover {
+  color: var(--secondary);
+  border-bottom-style: solid;
+}
+
+.glossary-term__popover {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  min-width: 280px;
+  max-width: 360px;
+  margin-top: 6px;
+  background: var(--paper-strong);
+  border: 1px solid rgba(27, 95, 90, 0.25);
+  border-radius: 12px;
+  padding: 0.8rem 0.9rem;
+  box-shadow: 0 8px 24px rgba(45, 36, 31, 0.18);
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  text-align: right;
+  cursor: default;
+  animation: glossary-pop 0.14s ease;
+}
+
+@keyframes glossary-pop {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: none; }
+}
+
+.glossary-term__head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  border-bottom: 1px solid rgba(45, 36, 31, 0.08);
+  padding-bottom: 0.4rem;
+}
+
+.glossary-term__head strong {
+  color: var(--secondary);
+  font-size: 0.95rem;
+}
+
+.glossary-term__arabic {
+  color: var(--ink);
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.glossary-term__meaning {
+  font-size: 0.82rem;
+  line-height: 1.65;
+  color: var(--ink-soft);
+}
+
+.glossary-term__cat {
+  font-size: 0.7rem;
+  color: var(--muted);
+  background: rgba(45, 36, 31, 0.06);
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  align-self: flex-end;
+}
+
+/* ─── System map screen ───────────────────────────────────────── */
+.system-map-screen {
+  position: fixed;
+  inset: 0;
+  background: var(--paper);
+  z-index: 1200;
+  display: flex;
+  flex-direction: column;
+  animation: system-map-in 0.18s ease;
+}
+
+@keyframes system-map-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+
+.system-map-screen__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.9rem 1.2rem;
+  border-bottom: 1px solid rgba(45, 36, 31, 0.08);
+  background: var(--paper-strong);
+}
+
+.system-map-screen__head h2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1rem;
+  margin: 0;
+  color: var(--accent);
+  flex: 1;
+  justify-content: center;
+}
+
+.mock-interview-screen__spacer,
+.system-map-screen__spacer {
+  width: 36px;
+}
+
+.system-map__filters {
+  display: flex;
+  gap: 0.4rem;
+  padding: 0.7rem 1.2rem;
+  overflow-x: auto;
+  border-bottom: 1px solid rgba(45, 36, 31, 0.06);
+  background: var(--paper);
+}
+
+.system-map__filter {
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  border: 1px solid rgba(45, 36, 31, 0.12);
+  background: var(--paper-strong);
+  color: var(--ink-soft);
+  font-size: 0.82rem;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.system-map__filter--active {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+.system-map-screen__body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.25rem;
+  max-width: 900px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.mock-interview-screen {
+  position: fixed;
+  inset: 0;
+  background: var(--paper);
+  z-index: 1200;
+  display: flex;
+  flex-direction: column;
+  animation: system-map-in 0.18s ease;
+}
+
+.mock-interview-screen__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.9rem 1.2rem;
+  border-bottom: 1px solid rgba(45, 36, 31, 0.08);
+  background: var(--paper-strong);
+}
+
+.mock-interview-screen__head h2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1rem;
+  margin: 0;
+  color: var(--accent);
+  flex: 1;
+  justify-content: center;
+  text-align: center;
+}
+
+.mock-interview-screen__body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.25rem;
+  max-width: 920px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.mock-interview-screen__muted {
+  text-align: center;
+  color: var(--muted);
+  padding: 2rem;
+}
+
+.mock-interview-lobby,
+.mock-interview-session,
+.mock-interview-summary {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.mock-interview-hero {
+  background: linear-gradient(135deg, rgba(184, 87, 52, 0.1), rgba(27, 95, 90, 0.08));
+  border: 1px solid rgba(45, 36, 31, 0.08);
+  border-radius: 20px;
+  padding: 1.25rem 1.3rem;
+}
+
+.mock-interview-hero__eyebrow {
+  margin: 0 0 0.35rem;
+  font-size: 0.78rem;
+  color: var(--secondary);
+  font-weight: 700;
+}
+
+.mock-interview-hero h3 {
+  margin: 0 0 0.45rem;
+  color: var(--ink);
+}
+
+.mock-interview-hero p {
+  margin: 0;
+  color: var(--ink-soft);
+  line-height: 1.7;
+}
+
+.mock-interview-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.8rem;
+}
+
+.mock-interview-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  text-align: right;
+  border: 1px solid rgba(45, 36, 31, 0.1);
+  background: var(--paper-strong);
+  border-radius: 18px;
+  padding: 1rem 1.05rem;
+  color: var(--ink);
+  transition: all 0.15s;
+}
+
+.mock-interview-card:hover:not(:disabled) {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.mock-interview-card:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.mock-interview-card--accent {
+  background: rgba(184, 87, 52, 0.06);
+  border-color: rgba(184, 87, 52, 0.18);
+}
+
+.mock-interview-card--warning {
+  background: rgba(180, 83, 9, 0.07);
+  border-color: rgba(180, 83, 9, 0.22);
+}
+
+.mock-interview-card strong {
+  font-size: 1rem;
+}
+
+.mock-interview-card p {
+  margin: 0;
+  color: var(--ink-soft);
+  line-height: 1.65;
+  font-size: 0.86rem;
+}
+
+.mock-interview-card__eyebrow {
+  font-size: 0.73rem;
+  color: var(--secondary);
+  font-weight: 700;
+}
+
+.mock-interview-card__count {
+  align-self: flex-start;
+  background: rgba(45, 36, 31, 0.08);
+  border-radius: 999px;
+  padding: 0.18rem 0.6rem;
+  font-size: 0.76rem;
+  font-weight: 700;
+}
+
+.mock-interview-session {
+  max-width: 760px;
+  margin: 0 auto;
+  background: var(--paper-strong);
+  border: 1px solid rgba(45, 36, 31, 0.08);
+  border-radius: 20px;
+  padding: 1.2rem 1.25rem;
+}
+
+.mock-interview-session__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.mock-interview-session__pos {
+  font-weight: 700;
+}
+
+.mock-interview-session__stage {
+  background: rgba(27, 95, 90, 0.08);
+  color: var(--secondary);
+  border-radius: 999px;
+  padding: 0.18rem 0.65rem;
+  font-weight: 700;
+}
+
+.mock-interview-session__question {
+  margin: 0;
+  color: var(--ink);
+  line-height: 1.75;
+}
+
+.mock-interview-tip {
+  background: rgba(27, 95, 90, 0.06);
+  border: 1px solid rgba(27, 95, 90, 0.14);
+  border-radius: 14px;
+  padding: 0.85rem 0.95rem;
+}
+
+.mock-interview-tip strong {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: var(--secondary);
+}
+
+.mock-interview-tip p,
+.mock-interview-session__rubric,
+.mock-interview-summary__lead {
+  margin: 0;
+  line-height: 1.75;
+  color: var(--ink-soft);
+}
+
+.mock-interview-session__guide {
+  background: rgba(184, 87, 52, 0.06);
+  border: 1px solid rgba(184, 87, 52, 0.14);
+  border-radius: 14px;
+  padding: 0.8rem 0.9rem;
+}
+
+.mock-interview-session__guide strong {
+  display: block;
+  color: var(--accent);
+  margin-bottom: 0.35rem;
+}
+
+.mock-interview-session__guide ul {
+  margin: 0;
+  padding-right: 1rem;
+  color: var(--ink-soft);
+  line-height: 1.7;
+}
+
+.mock-interview-session__notes {
+  width: 100%;
+  background: var(--paper);
+  border: 1px solid rgba(45, 36, 31, 0.12);
+  border-radius: 14px;
+  padding: 0.85rem 0.95rem;
+  font-family: inherit;
+  font-size: 0.95rem;
+  color: var(--ink);
+  resize: vertical;
+  min-height: 150px;
+}
+
+.mock-interview-session__notes:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(184, 87, 52, 0.12);
+}
+
+.mock-interview-session__actions,
+.mock-interview-session__feedback,
+.mock-interview-summary__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.mock-interview-session__ratings {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.5rem;
+}
+
+.mock-interview-rating {
+  border-radius: 12px;
+  padding: 0.7rem 0.85rem;
+  border: 1px solid rgba(45, 36, 31, 0.12);
+  background: var(--paper);
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.mock-interview-rating--strong {
+  color: #15803d;
+  border-color: rgba(21, 128, 61, 0.26);
+}
+
+.mock-interview-rating--medium {
+  color: #b45309;
+  border-color: rgba(180, 83, 9, 0.26);
+}
+
+.mock-interview-rating--weak {
+  color: #c2410c;
+  border-color: rgba(194, 65, 12, 0.28);
+}
+
+.mock-interview-summary {
+  max-width: 520px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.mock-interview-summary h3 {
+  margin: 0;
+  color: var(--ink);
+  font-size: 1.35rem;
+}
+
+.mock-interview-summary__stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.6rem;
+}
+
+.mock-interview-summary__stat {
+  border-radius: 16px;
+  padding: 0.85rem 0.75rem;
+  border: 1px solid rgba(45, 36, 31, 0.08);
+  background: var(--paper-strong);
+}
+
+.mock-interview-summary__stat strong {
+  display: block;
+  font-size: 1.5rem;
+}
+
+.mock-interview-summary__stat span {
+  font-size: 0.8rem;
+}
+
+.mock-interview-summary__stat--strong strong,
+.mock-interview-summary__stat--strong span {
+  color: #15803d;
+}
+
+.mock-interview-summary__stat--medium strong,
+.mock-interview-summary__stat--medium span {
+  color: #b45309;
+}
+
+.mock-interview-summary__stat--weak strong,
+.mock-interview-summary__stat--weak span {
+  color: #c2410c;
+}
+
+.mock-interview-history {
+  background: var(--paper-strong);
+  border: 1px solid rgba(45, 36, 31, 0.08);
+  border-radius: 18px;
+  padding: 1rem 1.05rem;
+}
+
+.mock-interview-history__head {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  align-items: center;
+  margin-bottom: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.mock-interview-history__head h4 {
+  margin: 0;
+  color: var(--ink);
+  font-size: 0.98rem;
+}
+
+.mock-interview-history__head span {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+.mock-interview-history__list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.mock-interview-history__item {
+  display: flex;
+  gap: 0.7rem;
+  align-items: flex-start;
+  padding: 0.7rem 0.75rem;
+  background: var(--paper);
+  border: 1px solid rgba(45, 36, 31, 0.08);
+  border-radius: 12px;
+}
+
+.mock-interview-history__badge {
+  border-radius: 999px;
+  padding: 0.16rem 0.55rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.mock-interview-history__badge--strong {
+  background: rgba(21, 128, 61, 0.12);
+  color: #15803d;
+}
+
+.mock-interview-history__badge--medium {
+  background: rgba(180, 83, 9, 0.12);
+  color: #b45309;
+}
+
+.mock-interview-history__badge--weak {
+  background: rgba(194, 65, 12, 0.12);
+  color: #c2410c;
+}
+
+.mock-interview-history__body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.22rem;
+  flex: 1;
+}
+
+.mock-interview-history__body strong {
+  color: var(--ink);
+  line-height: 1.6;
+  font-size: 0.9rem;
+}
+
+.mock-interview-history__body span {
+  color: var(--muted);
+  font-size: 0.76rem;
+}
+
+.mock-interview-history__body p {
+  margin: 0.2rem 0 0;
+  color: var(--ink-soft);
+  font-size: 0.82rem;
+  line-height: 1.65;
+}
+
+.system-map__list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.system-card {
+  background: var(--paper-strong);
+  border: 1px solid rgba(45, 36, 31, 0.08);
+  border-radius: 16px;
+  padding: 1rem 1.1rem;
+}
+
+.system-card__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin-bottom: 0.7rem;
+  border-bottom: 1px solid rgba(45, 36, 31, 0.07);
+  padding-bottom: 0.5rem;
+}
+
+.system-card__concept {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.system-card__name {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.system-card__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.5rem;
+}
+
+.system-cell {
+  border-radius: 12px;
+  padding: 0.65rem 0.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  border: 1px solid;
+}
+
+.system-cell__label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  opacity: 0.85;
+}
+
+.system-cell__value {
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.system-cell--dynamics {
+  background: rgba(0, 120, 215, 0.08);
+  border-color: rgba(0, 120, 215, 0.22);
+  color: #0078d7;
+}
+
+.system-cell--oracle {
+  background: rgba(212, 13, 22, 0.07);
+  border-color: rgba(212, 13, 22, 0.22);
+  color: #c00a1a;
+}
+
+.system-cell--sap {
+  background: rgba(27, 95, 90, 0.08);
+  border-color: rgba(27, 95, 90, 0.25);
+  color: var(--secondary);
+}
+
+.system-card__note {
+  margin: 0.7rem 0 0;
+  padding: 0.55rem 0.8rem;
+  background: rgba(184, 87, 52, 0.06);
+  border-right: 3px solid var(--accent);
+  border-radius: 8px;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
+/* ─── Trigger button ──────────────────────────────────────────── */
+.system-map-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.5rem 0.9rem;
+  background: var(--paper-strong);
+  border: 1px solid rgba(45, 36, 31, 0.12);
+  color: var(--ink-soft);
+  border-radius: 999px;
+  font-size: 0.82rem;
+}
+
+.mock-interview-trigger,
+.system-map-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.5rem 0.9rem;
+  background: var(--paper-strong);
+  border: 1px solid rgba(45, 36, 31, 0.12);
+  color: var(--ink-soft);
+  border-radius: 999px;
+  font-size: 0.82rem;
+}
+
+.mock-interview-trigger:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.system-map-trigger:hover {
+  border-color: var(--secondary);
+  color: var(--secondary);
+}

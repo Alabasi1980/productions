@@ -1,0 +1,579 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-28T20:19:51.334Z",
+  "domainId": "erp-production",
+  "contentPackId": "erp-production-v1",
+  "source": "markdown-comparison-tables",
+  "systems": [
+    "Dynamics 365",
+    "Oracle Fusion Cloud",
+    "SAP S/4HANA"
+  ],
+  "count": 60,
+  "tables": [
+    {
+      "id": "cmp-p1-1-1",
+      "title": "كيف يظهر هذا الجوهر في الأنظمة الثلاثة",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "rowCount": 6,
+      "rows": [
+        {
+          "id": "cmp-p1-1-1-1",
+          "concept": "البيانات الأساسية",
+          "dynamics": "Released Products, Item Groups, Dimensions",
+          "oracle": "Items, Inventory Organizations, Plant Parameters",
+          "sap": "Material Master, Plant, Storage Location",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-1-1-2",
+          "concept": "هيكل المنتج",
+          "dynamics": "BOM / Formula",
+          "oracle": "Item Structure / Work Definition inputs",
+          "sap": "BOM",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-1-1-3",
+          "concept": "طريقة التصنيع",
+          "dynamics": "Route / Operations / Resources",
+          "oracle": "Work Definition / Operations / Resources",
+          "sap": "Routing / Work Center / Activity Type",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-1-1-4",
+          "concept": "الكيان التنفيذي",
+          "dynamics": "Production Order",
+          "oracle": "Work Order",
+          "sap": "Production Order / Process Order",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-1-1-5",
+          "concept": "استلام الناتج",
+          "dynamics": "Report as Finished",
+          "oracle": "Product Completion",
+          "sap": "Goods Receipt",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-1-1-6",
+          "concept": "الإغلاق",
+          "dynamics": "Ended / Closed",
+          "oracle": "Work Order Close / Closed",
+          "sap": "TECO / Settlement / CLSD بحسب السياق",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cmp-p1-4-1",
+      "title": "الخريطة المقارنة بين الأنظمة الثلاثة",
+      "sourceId": "p1-4",
+      "sourceTitle": "الدرس 4: الصورة الكاملة لدورة الإنتاج",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/04_الدرس_04_الصورة_الكاملة_لدورة_الانتاج.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "rowCount": 8,
+      "rows": [
+        {
+          "id": "cmp-p1-4-1-1",
+          "concept": "تعريف المنتج",
+          "dynamics": "Released Product",
+          "oracle": "Item",
+          "sap": "Material Master",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-4-1-2",
+          "concept": "بنية المنتج",
+          "dynamics": "BOM / Formula",
+          "oracle": "Item Structure",
+          "sap": "BOM",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-4-1-3",
+          "concept": "طريقة التصنيع",
+          "dynamics": "Route",
+          "oracle": "Work Definition",
+          "sap": "Routing + Work Center",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-4-1-4",
+          "concept": "الكيان التنفيذي",
+          "dynamics": "Production Order",
+          "oracle": "Work Order",
+          "sap": "Production Order / Process Order",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-4-1-5",
+          "concept": "صرف المواد",
+          "dynamics": "Picking List / Material Consumption",
+          "oracle": "Material Issue",
+          "sap": "Goods Issue",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-4-1-6",
+          "concept": "تسجيل التنفيذ",
+          "dynamics": "Route Card / Job Card",
+          "oracle": "Operation Execution / Resource Charging",
+          "sap": "Confirmation",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-4-1-7",
+          "concept": "إثبات الناتج",
+          "dynamics": "Report as Finished",
+          "oracle": "Product Completion",
+          "sap": "Goods Receipt",
+          "note": ""
+        },
+        {
+          "id": "cmp-p1-4-1-8",
+          "concept": "الإغلاق",
+          "dynamics": "End / Close",
+          "oracle": "Work Order Close",
+          "sap": "TECO / Settlement / CLSD بحسب السياق",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cmp-p2-1-1",
+      "title": "كيف تظهر Master Data في الأنظمة الثلاثة",
+      "sourceId": "p2-1",
+      "sourceTitle": "الدرس 1: البيانات الأساسية Master Data",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/01_الدرس_01_البيانات_الاساسية_Master_Data.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "rowCount": 5,
+      "rows": [
+        {
+          "id": "cmp-p2-1-1-1",
+          "concept": "تعريف الصنف",
+          "dynamics": "Released Product",
+          "oracle": "Item",
+          "sap": "Material Master",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-1-1-2",
+          "concept": "السياق التنظيمي",
+          "dynamics": "Site / Warehouse / Location",
+          "oracle": "Inventory Organization / Subinventory / Locator",
+          "sap": "Plant / Storage Location",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-1-1-3",
+          "concept": "وحدة القياس",
+          "dynamics": "UoM and conversions",
+          "oracle": "UoM",
+          "sap": "Base UoM and conversions",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-1-1-4",
+          "concept": "التتبع",
+          "dynamics": "Tracking Dimensions",
+          "oracle": "Lot / Serial Control",
+          "sap": "Batch / Serial",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-1-1-5",
+          "concept": "إعدادات التكلفة",
+          "dynamics": "Item Group / Item Model Group",
+          "oracle": "Costing Enabled / Asset behavior",
+          "sap": "Valuation Class / Price Control / Costing Views",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cmp-p2-2-1",
+      "title": "كيف يظهر هذا في الأنظمة الثلاثة",
+      "sourceId": "p2-2",
+      "sourceTitle": "الدرس 2: بنية المنتج BOM",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/02_الدرس_02_بنية_المنتج_BOM_Formula_Item_Structure.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "rowCount": 5,
+      "rows": [
+        {
+          "id": "cmp-p2-2-1-1",
+          "concept": "البنية الأساسية",
+          "dynamics": "BOM / Formula",
+          "oracle": "Item Structure / BOM",
+          "sap": "BOM",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-2-1-2",
+          "concept": "النسخ",
+          "dynamics": "BOM Version",
+          "oracle": "Structure plus Work Definition versioning context",
+          "sap": "Alternative BOM / Validity",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-2-1-3",
+          "concept": "الهالك",
+          "dynamics": "Constant / Variable Scrap",
+          "oracle": "Depends on structure and execution design",
+          "sap": "Component / Assembly / Operation Scrap",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-2-1-4",
+          "concept": "المنتجات المشتركة",
+          "dynamics": "Formula with Co-products / By-products",
+          "oracle": "Process-oriented definitions and outputs",
+          "sap": "Process manufacturing concepts",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-2-1-5",
+          "concept": "Phantom",
+          "dynamics": "Phantom handling in BOM logic",
+          "oracle": "Structure behavior with design choices",
+          "sap": "Phantom Item",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cmp-p2-3-1",
+      "title": "كيف يظهر هذا في الأنظمة الثلاثة",
+      "sourceId": "p2-3",
+      "sourceTitle": "الدرس 3: طريقة التصنيع Route",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/03_الدرس_03_طريقة_التصنيع_Route_Work_Definition_Resources.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "rowCount": 6,
+      "rows": [
+        {
+          "id": "cmp-p2-3-1-1",
+          "concept": "طريقة التصنيع",
+          "dynamics": "Route",
+          "oracle": "Work Definition",
+          "sap": "Routing",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-3-1-2",
+          "concept": "العملية",
+          "dynamics": "Operation",
+          "oracle": "Operation",
+          "sap": "Operation",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-3-1-3",
+          "concept": "مورد التنفيذ",
+          "dynamics": "Resource",
+          "oracle": "Resource",
+          "sap": "Activity / Work Center related resource logic",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-3-1-4",
+          "concept": "مركز العمل",
+          "dynamics": "Resource Group / Work Center context",
+          "oracle": "Work Center",
+          "sap": "Work Center",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-3-1-5",
+          "concept": "الزمن القياسي",
+          "dynamics": "Setup / Run and related times",
+          "oracle": "Operation and resource usage logic",
+          "sap": "Standard Values",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-3-1-6",
+          "concept": "الربط بالتكلفة",
+          "dynamics": "Cost Categories",
+          "oracle": "Resource charges / costing priorities",
+          "sap": "Activity Types / Cost Center / KP26",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cmp-p2-4-1",
+      "title": "كيف يظهر هذا في الأنظمة الثلاثة",
+      "sourceId": "p2-4",
+      "sourceTitle": "الدرس 4: النسخ والاعتماد والحوكمة",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/04_الدرس_04_النسخ_الاعتماد_والحوكمة_Versions_Approvals_Governance.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "rowCount": 5,
+      "rows": [
+        {
+          "id": "cmp-p2-4-1-1",
+          "concept": "النسخ",
+          "dynamics": "BOM Version / Route Version",
+          "oracle": "Work Definition Version",
+          "sap": "Alternative BOM / Validity / Production Version",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-4-1-2",
+          "concept": "الاعتماد",
+          "dynamics": "Approved",
+          "oracle": "governed approval logic",
+          "sap": "release and validity logic",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-4-1-3",
+          "concept": "التفعيل",
+          "dynamics": "Active",
+          "oracle": "effective version selection",
+          "sap": "valid version selection via production rules",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-4-1-4",
+          "concept": "الصلاحية الزمنية",
+          "dynamics": "Valid dates",
+          "oracle": "Effective Start / End Dates",
+          "sap": "Validity Dates",
+          "note": ""
+        },
+        {
+          "id": "cmp-p2-4-1-5",
+          "concept": "البدائل",
+          "dynamics": "Alternative BOM / route possibilities",
+          "oracle": "Alternate Work Definitions",
+          "sap": "Alternative BOM and Production Version logic",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cmp-ap-r1-1",
+      "title": "المصفوفة الأساسية",
+      "sourceId": "ap-r1",
+      "sourceTitle": "مصفوفة المفاهيم بين الأنظمة",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/01_مصفوفة_المفاهيم_الاساسية_بين_الانظمة.md",
+      "sectionId": "app-refs",
+      "sectionTitle": "📚 مراجع سريعة",
+      "rowCount": 25,
+      "rows": [
+        {
+          "id": "cmp-ap-r1-1-1",
+          "concept": "البيانات الأساسية",
+          "dynamics": "Master Data / Released Products",
+          "oracle": "Items / Plant Data",
+          "sap": "Material Master",
+          "note": "كلها تمثل الأساس الذي تبنى عليه الدورة"
+        },
+        {
+          "id": "cmp-ap-r1-1-2",
+          "concept": "المنتج النهائي",
+          "dynamics": "Finished Good",
+          "oracle": "Finished Good / Output Item",
+          "sap": "Finished Product / Material",
+          "note": "اختلافات لفظية أكثر من كونها جذرية"
+        },
+        {
+          "id": "cmp-ap-r1-1-3",
+          "concept": "المواد الخام",
+          "dynamics": "Raw Materials",
+          "oracle": "Raw Materials / Components",
+          "sap": "Raw Materials / Components",
+          "note": "تدخل في BOM أو ما يعادلها"
+        },
+        {
+          "id": "cmp-ap-r1-1-4",
+          "concept": "قائمة المواد",
+          "dynamics": "BOM / Formula",
+          "oracle": "Item Structure / BOM",
+          "sap": "BOM",
+          "note": "Oracle يفصل بين Item Structure وWork Definition"
+        },
+        {
+          "id": "cmp-ap-r1-1-5",
+          "concept": "طريقة التصنيع",
+          "dynamics": "Route",
+          "oracle": "Work Definition",
+          "sap": "Routing",
+          "note": "Oracle يميل لدمج عناصر أكثر داخل Work Definition"
+        },
+        {
+          "id": "cmp-ap-r1-1-6",
+          "concept": "العملية",
+          "dynamics": "Operation",
+          "oracle": "Operation",
+          "sap": "Operation",
+          "note": "مفهوم مشترك بوضوح"
+        },
+        {
+          "id": "cmp-ap-r1-1-7",
+          "concept": "المورد",
+          "dynamics": "Resource",
+          "oracle": "Resource",
+          "sap": "Activity Type / Resource logic / Work Center context",
+          "note": "SAP أعمق في ربط المورد بالتكلفة"
+        },
+        {
+          "id": "cmp-ap-r1-1-8",
+          "concept": "مركز العمل",
+          "dynamics": "Resource Group / Work Center context",
+          "oracle": "Work Center",
+          "sap": "Work Center",
+          "note": "اللفظ متقارب لكن التكامل مع التكلفة يختلف"
+        },
+        {
+          "id": "cmp-ap-r1-1-9",
+          "concept": "أمر الإنتاج",
+          "dynamics": "Production Order",
+          "oracle": "Work Order",
+          "sap": "Production Order / Process Order",
+          "note": "Oracle يفضل Work Order، SAP يفرق بين Discrete وProcess"
+        },
+        {
+          "id": "cmp-ap-r1-1-10",
+          "concept": "إنشاء الأمر",
+          "dynamics": "Created",
+          "oracle": "Unreleased",
+          "sap": "Created / CRTD",
+          "note": "بداية وجود الأمر لا تعني بدء الحركات"
+        },
+        {
+          "id": "cmp-ap-r1-1-11",
+          "concept": "إطلاق الأمر",
+          "dynamics": "Released",
+          "oracle": "Released",
+          "sap": "Released / REL",
+          "note": "السماح بالتنفيذ يبدأ هنا غالبًا"
+        },
+        {
+          "id": "cmp-ap-r1-1-12",
+          "concept": "بدء التنفيذ",
+          "dynamics": "Started",
+          "oracle": "Execution begins after release",
+          "sap": "Confirmation and GI logic starts by process",
+          "note": "الفكرة العامة موجودة وإن اختلفت الصياغة"
+        },
+        {
+          "id": "cmp-ap-r1-1-13",
+          "concept": "صرف المواد",
+          "dynamics": "Material Issue / Picking List",
+          "oracle": "Material Issue",
+          "sap": "Goods Issue (GI)",
+          "note": "اسم SAP الأشهر هو GI"
+        },
+        {
+          "id": "cmp-ap-r1-1-14",
+          "concept": "تسجيل التشغيل",
+          "dynamics": "Route Card / Job Card",
+          "oracle": "Operation Execution / Resource Charging",
+          "sap": "Confirmation",
+          "note": "الفكرة العامة هي إثبات العمل الفعلي"
+        },
+        {
+          "id": "cmp-ap-r1-1-15",
+          "concept": "استلام الناتج",
+          "dynamics": "Report as Finished",
+          "oracle": "Product Completion",
+          "sap": "Goods Receipt (GR)",
+          "note": "لا تخلطها مع الإغلاق النهائي"
+        },
+        {
+          "id": "cmp-ap-r1-1-16",
+          "concept": "المنتج تحت الفحص",
+          "dynamics": "Quality Order related output",
+          "oracle": "Quality Issue / Inspection related output",
+          "sap": "QM-related stock / inspection context",
+          "note": "الجودة تحتاج فهمًا خاصًا في كل نظام"
+        },
+        {
+          "id": "cmp-ap-r1-1-17",
+          "concept": "تكلفة مقدرة",
+          "dynamics": "Estimated Cost",
+          "oracle": "Estimated / preliminary order cost logic",
+          "sap": "Planned / target cost context",
+          "note": "ليست دائمًا بنفس الآلية لكنها فكرة مشتركة"
+        },
+        {
+          "id": "cmp-ap-r1-1-18",
+          "concept": "تكلفة معيارية",
+          "dynamics": "Standard Cost",
+          "oracle": "Cost setup depending on method",
+          "sap": "Standard Price / standard cost logic",
+          "note": "SAP وDynamics أوضح في هذا المصطلح"
+        },
+        {
+          "id": "cmp-ap-r1-1-19",
+          "concept": "تكلفة فعلية",
+          "dynamics": "Actual Cost",
+          "oracle": "Actual Work Order Cost",
+          "sap": "Actual Cost",
+          "note": "لا تظهر قيمتها النهائية دائمًا قبل الإغلاق"
+        },
+        {
+          "id": "cmp-ap-r1-1-20",
+          "concept": "تكلفة تحت التشغيل",
+          "dynamics": "WIP",
+          "oracle": "WIP",
+          "sap": "WIP",
+          "note": "مفهوم مركزي في الأنظمة الثلاثة"
+        },
+        {
+          "id": "cmp-ap-r1-1-21",
+          "concept": "انحراف",
+          "dynamics": "Variance",
+          "oracle": "Variance",
+          "sap": "Variance",
+          "note": "الاختلاف في الأنواع والعمق، لا في أصل الفكرة"
+        },
+        {
+          "id": "cmp-ap-r1-1-22",
+          "concept": "إغلاق الأمر",
+          "dynamics": "End / Close",
+          "oracle": "Work Order Close",
+          "sap": "TECO / Settlement / CLSD بحسب السياق",
+          "note": "SAP يوزع الإغلاق على أكثر من مفهوم وحالة"
+        },
+        {
+          "id": "cmp-ap-r1-1-23",
+          "concept": "إغلاق الفترة",
+          "dynamics": "Period Close",
+          "oracle": "Period Close / GL Transfer readiness",
+          "sap": "Period-End Closing",
+          "note": "نقطة رقابية ومالية حساسة جدًا"
+        },
+        {
+          "id": "cmp-ap-r1-1-24",
+          "concept": "توزيع التكلفة",
+          "dynamics": "Posting / cost logic",
+          "oracle": "Cost Distribution",
+          "sap": "Settlement / cost postings",
+          "note": "Oracle يبرز Cost Distribution كمفهوم مستقل بقوة"
+        },
+        {
+          "id": "cmp-ap-r1-1-25",
+          "concept": "مقارنة النظام الحالي بالمرجع",
+          "dynamics": "Gap Analysis mindset",
+          "oracle": "Gap Analysis mindset",
+          "sap": "Gap Analysis mindset",
+          "note": "هذا مفهوم استشاري مشترك أكثر منه مصطلح نظام"
+        }
+      ]
+    }
+  ]
+}

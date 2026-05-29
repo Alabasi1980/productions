@@ -1,0 +1,3005 @@
+{
+  "generatedAt": "2026-05-25T20:20:21.863Z",
+  "questions": [
+    {
+      "id": "q-part-1-test-1",
+      "type": "open",
+      "text": "ما الفرق بين Production Module وProduction Order؟",
+      "section": "القسم الأول: أسئلة مفاهيمية قصيرة",
+      "sectionType": "concept",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-2",
+      "type": "open",
+      "text": "ما الفرق بين Product Structure وProduction Method؟",
+      "section": "القسم الأول: أسئلة مفاهيمية قصيرة",
+      "sectionType": "concept",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-3",
+      "type": "open",
+      "text": "ما المقصود بـ Work in Process (WIP)؟",
+      "section": "القسم الأول: أسئلة مفاهيمية قصيرة",
+      "sectionType": "concept",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-4",
+      "type": "open",
+      "text": "لماذا لا يساوي Finished Goods Receipt دائمًا خطوة Closing؟",
+      "section": "القسم الأول: أسئلة مفاهيمية قصيرة",
+      "sectionType": "concept",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-5",
+      "type": "open",
+      "text": "ما الفرق بين Generic Term وSystem-Specific Term؟",
+      "section": "القسم الأول: أسئلة مفاهيمية قصيرة",
+      "sectionType": "concept",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-6",
+      "type": "short-answer",
+      "text": "اشرح: BOM",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "term": "BOM",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-7",
+      "type": "short-answer",
+      "text": "اشرح: Work Definition",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "term": "Work Definition",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-8",
+      "type": "short-answer",
+      "text": "اشرح: Material Issue",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "term": "Material Issue",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-9",
+      "type": "short-answer",
+      "text": "اشرح: Actual Cost",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "term": "Actual Cost",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-10",
+      "type": "short-answer",
+      "text": "اشرح: Variance",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "term": "Variance",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-11",
+      "type": "short-answer",
+      "text": "اشرح: Work Center",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "term": "Work Center",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-12",
+      "type": "short-answer",
+      "text": "اشرح: Product Completion",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "term": "Product Completion",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-13",
+      "type": "short-answer",
+      "text": "اشرح: Routing",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "term": "Routing",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-14",
+      "type": "short-answer",
+      "text": "اشرح: Finished Good",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "term": "Finished Good",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-15",
+      "type": "short-answer",
+      "text": "اشرح: Master Data",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "term": "Master Data",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-16",
+      "type": "open",
+      "text": "اشرح الركائز الستة لأي موديول إنتاج قوي.؟",
+      "section": "القسم الثالث: أسئلة تحليلية",
+      "sectionType": "analysis",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-17",
+      "type": "open",
+      "text": "اذكر الكيانات الأساسية في موديول الإنتاج، ثم اشرح لماذا Order Entity ليس كافيًا وحده.؟",
+      "section": "القسم الثالث: أسئلة تحليلية",
+      "sectionType": "analysis",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-1-test-18",
+      "type": "open",
+      "text": "اكتب دورة الإنتاج العامة من البداية إلى النهاية بأسلوبك.؟",
+      "section": "القسم الثالث: أسئلة تحليلية",
+      "sectionType": "analysis",
+      "lessonId": "part-1-test",
+      "partId": "part-1",
+      "explanationLessonId": "part-1-test"
+    },
+    {
+      "id": "q-part-2-test-1",
+      "type": "open",
+      "text": "ما المقصود بـ Master Data في موديول الإنتاج؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-2",
+      "type": "open",
+      "text": "ما الفرق بين Product Structure وProduction Method؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-3",
+      "type": "open",
+      "text": "ما الفرق بين BOM وFormula وItem Structure من حيث الفكرة العامة؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-4",
+      "type": "open",
+      "text": "لماذا تعتبر UoM من أخطر عناصر البيانات الأساسية؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-5",
+      "type": "open",
+      "text": "ما الفرق بين Approved وActive أو Effective في منطق النسخ؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-6",
+      "type": "short-answer",
+      "text": "اشرح: Raw Material",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "term": "Raw Material",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-7",
+      "type": "short-answer",
+      "text": "اشرح: Finished Good",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "term": "Finished Good",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-8",
+      "type": "short-answer",
+      "text": "اشرح: Subassembly",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "term": "Subassembly",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-9",
+      "type": "short-answer",
+      "text": "اشرح: BOM Version",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "term": "BOM Version",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-10",
+      "type": "short-answer",
+      "text": "اشرح: Work Definition",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "term": "Work Definition",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-11",
+      "type": "short-answer",
+      "text": "اشرح: Routing",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "term": "Routing",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-12",
+      "type": "short-answer",
+      "text": "اشرح: Operation",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "term": "Operation",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-13",
+      "type": "short-answer",
+      "text": "اشرح: Resource",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "term": "Resource",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-14",
+      "type": "short-answer",
+      "text": "اشرح: Work Center",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "term": "Work Center",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-15",
+      "type": "short-answer",
+      "text": "اشرح: Effective Date",
+      "section": "القسم الثاني: تمييز المصطلحات",
+      "sectionType": "terminology",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "term": "Effective Date",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-16",
+      "type": "open",
+      "text": "اشرح كيف تؤثر Master Data الضعيفة على Planning وExecution وCosting؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-17",
+      "type": "open",
+      "text": "اشرح كيف تؤثر Product Structure الخاطئة على Material Issue وMaterial Cost؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-18",
+      "type": "open",
+      "text": "اشرح كيف تؤثر Production Method الضعيفة على Scheduling وExecution وOperation Cost؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-2-test-19",
+      "type": "open",
+      "text": "لماذا تعتبر الحوكمة Governance جزءًا من نضج الموديول وليس مجرد إجراء إداري؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-2-test",
+      "partId": "part-2",
+      "explanationLessonId": "part-2-test"
+    },
+    {
+      "id": "q-part-3-test-1",
+      "type": "open",
+      "text": "ما الفرق بين Demand وPlanned Order وProduction Order أو Work Order؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-2",
+      "type": "open",
+      "text": "لماذا لا يعني Release أن التنفيذ الفعلي قد بدأ؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-3",
+      "type": "open",
+      "text": "ما الفرق بين Material Issue وOperation Confirmation وGoods Receipt؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-4",
+      "type": "open",
+      "text": "لماذا لا يعد Goods Receipt النهاية الكاملة لدورة الأمر؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-5",
+      "type": "open",
+      "text": "ما الفرق بين Material Return وScrap وRework؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-6",
+      "type": "open",
+      "text": "بمجرد إنشاء أمر الإنتاج يبدأ WIP تلقائيًا؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-7",
+      "type": "open",
+      "text": "يمكن تنفيذ Confirmation دون أي أثر على التكلفة أو التحليل؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-8",
+      "type": "open",
+      "text": "Backflush قرار مناسب لكل المواد في كل المصانع؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-9",
+      "type": "open",
+      "text": "يمكن أن ينجز المصنع الكمية فعليًا على الأرض بينما لا تكون الكمية نفسها متاحة بعد في المخزون؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-10",
+      "type": "open",
+      "text": "ترك الأوامر مفتوحة لفترة طويلة بعد انتهاء التشغيل لا يسبب مشكلة مهمة إذا كان العميل يعرف واقع المصنع؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-11",
+      "type": "open",
+      "text": "عميل يريد تجاوز حالة Release لأن المشرفين يرونها خطوة زائدة. كيف ترد عليه من منظور رقابي وتشغيلي؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-12",
+      "type": "open",
+      "text": "عميل يقول إن الهالك Scrap لا يحتاج تسجيلًا مستقلًا لأنه يظهر ضمن فرق الكمية النهائي. لماذا يعد هذا الفهم ضعيفًا؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-13",
+      "type": "open",
+      "text": "ما المخاطر إذا كان العميل يسجل Goods Receipt مباشرة بعد نهاية التشغيل من دون فحص جودة أو مراجعة كمية فعلية؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-3-test-14",
+      "type": "open",
+      "text": "كيف تفسر وجود أوامر كثيرة في حالة شبه منتهية لكنها لم تصل إلى Close؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-3-test",
+      "partId": "part-3",
+      "explanationLessonId": "part-3-test"
+    },
+    {
+      "id": "q-part-4-test-1",
+      "type": "open",
+      "text": "ما المكونات الرئيسية التي تبني Cost Build Up للمنتج؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-2",
+      "type": "open",
+      "text": "لماذا لا تعد BOM وحدها كافية لفهم تكلفة المنتج في بيئة ERP متقدمة؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-3",
+      "type": "open",
+      "text": "ما معنى WIP ولماذا لا يعد مجرد رقم مالي منفصل عن الواقع التشغيلي؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-4",
+      "type": "open",
+      "text": "ما الفرق بين Standard Cost وActual Cost؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-5",
+      "type": "open",
+      "text": "ما الفرق بين Variance وSettlement؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-6",
+      "type": "open",
+      "text": "إذا كانت Master Data دقيقة، فلن تظهر Variances أبدًا؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-7",
+      "type": "open",
+      "text": "ارتفاع WIP قد يكون مؤشرًا على أوامر مفتوحة قديمة أو تأخر في الإغلاق؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-8",
+      "type": "open",
+      "text": "يمكن الاعتماد على Cost reports قبل اكتمال التسوية والإغلاق النهائي من دون مخاطرة حقيقية؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-9",
+      "type": "open",
+      "text": "Overhead جزء اختياري شكلي لا يغير المعنى الحقيقي لتكلفة المنتج؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-10",
+      "type": "open",
+      "text": "قد يكون Variance المرتفع سببه Routing أو Resource setup وليس فقط أسعار المواد؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-11",
+      "type": "open",
+      "text": "عميل يشكو من WIP مرتفع كل شهر. اذكر ثلاثة أسباب تشغيلية أو تنظيمية محتملة قبل أن تذهب مباشرة إلى التفسير المحاسبي؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-12",
+      "type": "open",
+      "text": "كيف تشرح للإدارة أن Variance ليس مجرد رقم سلبي، بل أداة لتشخيص الخلل؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-13",
+      "type": "open",
+      "text": "ما المخاطر إذا اعتمد العميل Standard Cost بينما لا يراجع BOM وRouting والتسعير بانتظام؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-4-test-14",
+      "type": "open",
+      "text": "ما التقارير الأساسية التي تنصح بمراجعتها قبل إغلاق الفترة Period Close؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-4-test",
+      "partId": "part-4",
+      "explanationLessonId": "part-4-test"
+    },
+    {
+      "id": "q-part-5-test-1",
+      "type": "open",
+      "text": "لماذا لا تعد الجودة Quality وظيفة منفصلة تمامًا عن دورة الإنتاج؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-2",
+      "type": "open",
+      "text": "ما الفرق بين Planning أو MRP وبين Production Order أو Work Order؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-3",
+      "type": "open",
+      "text": "ما الفرق بين Make to Stock وMake to Order؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-4",
+      "type": "open",
+      "text": "ما الفرق بين Lot Control وSerial Control؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-5",
+      "type": "open",
+      "text": "ما الفرق بين Subassembly وCo-product وBy-product؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-6",
+      "type": "open",
+      "text": "ما الفرق بين Discrete Manufacturing وProcess Manufacturing وRepetitive Manufacturing؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-7",
+      "type": "open",
+      "text": "يمكن اعتبار المنتج النهائي متاحًا مباشرة بعد انتهاء التشغيل الجسدي حتى لو كانت هناك سياسة Inspection إلزامية؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-8",
+      "type": "open",
+      "text": "كل Planned Order يجب أن يتحول مباشرة إلى أمر تنفيذ من دون مراجعة؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-9",
+      "type": "open",
+      "text": "كل المصانع إما MTS بالكامل أو MTO بالكامل ولا يوجد منطق مختلط عملي؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-10",
+      "type": "open",
+      "text": "Lot Traceability قد تكون ضرورية حتى لو لم تحتج المؤسسة Serial tracking؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-11",
+      "type": "open",
+      "text": "Co-products وBy-products نوعان من Scrap فقط؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-12",
+      "type": "open",
+      "text": "عميل يقول: لا نحتاج تتبع Lot أو Serial لأننا نعرف المواد المستخدمة عادة. لماذا هذا الفهم خطير؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-13",
+      "type": "open",
+      "text": "عميل آخر يريد MTO لكل المنتجات رغم أن أغلبها قياسي وسريع الحركة. ما المخاطر المحتملة؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-14",
+      "type": "open",
+      "text": "كيف تشرح للعميل أن مشكلة التخطيط قد تظهر لاحقًا على شكل تأخير تنفيذ أو Variance أو نقص مواد؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-5-test-15",
+      "type": "open",
+      "text": "متى يكون من الخطأ تصميم بيئة Process Manufacturing على أنها BOM تقليدية فقط؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-5-test",
+      "partId": "part-5",
+      "explanationLessonId": "part-5-test"
+    },
+    {
+      "id": "q-part-6-test-1",
+      "type": "open",
+      "text": "ما معنى Discovery الجيدة في مشروع Production Module؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-2",
+      "type": "open",
+      "text": "ما الفرق بين Training issue وConfiguration issue وData issue وReal gap؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-3",
+      "type": "open",
+      "text": "لماذا لا يعد UAT اختبار شاشة فقط؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-4",
+      "type": "open",
+      "text": "ما معنى Functional to Technical Translation؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-5",
+      "type": "open",
+      "text": "لماذا تعد مراقبة أول أسابيع Go-Live جزءًا من نجاح المشروع لا نشاطًا لاحقًا فقط؟",
+      "section": "القسم الأول: أسئلة مفاهيمية",
+      "sectionType": "concept",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-6",
+      "type": "open",
+      "text": "إذا طلب المستخدم شيئًا غير موجود في الشاشة الحالية، فهذا يعني مباشرة وجود Gap حقيقية؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-7",
+      "type": "open",
+      "text": "أفضل وقت لحسم التكلفة والتقارير هو بعد نهاية الإعداد وقبل Go-Live بقليل فقط؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-8",
+      "type": "open",
+      "text": "يمكن اعتبار Go-Live ناجحًا إذا دخل المستخدمون النظام حتى لو بقيت الدورة غير مختبرة End-to-End؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-9",
+      "type": "open",
+      "text": "الطلب التقني الجيد يجب أن يكون قابلًا للاختبار لا مجرد وصف عام للرغبة؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-10",
+      "type": "open",
+      "text": "كثرة المشكلات الصغيرة بعد Go-Live قد تكون مؤشرًا أقوى من وجود مشكلة كبيرة واحدة معزولة؟",
+      "section": "القسم الثاني: صح أم خطأ مع التفسير",
+      "sectionType": "general",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-11",
+      "type": "open",
+      "text": "عميل يقول: لا نريد إضاعة الوقت في Discovery طويلة، دعونا نبدأ بالإعداد مباشرة. كيف ترد عليه؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-12",
+      "type": "open",
+      "text": "كيف تشرح للعميل أن بعض طلباته ليست Gaps بل تحتاج Training أو Process discipline؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-13",
+      "type": "open",
+      "text": "ما العناصر التي تجعل قرار Go/No-Go قرارًا مهنيًا لا قرارًا متسرعًا؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-14",
+      "type": "open",
+      "text": "إذا أعطاك المستخدم طلبًا لتطوير تقرير أو validation، كيف تحوله إلى صياغة Functional to Technical واضحة؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-part-6-test-15",
+      "type": "open",
+      "text": "ما أول المؤشرات التي ستراقبها في أول أسبوعين بعد استلام أو تشغيل الموديول؟",
+      "section": "القسم الثالث: تحليل وظيفي",
+      "sectionType": "analysis",
+      "lessonId": "part-6-test",
+      "partId": "part-6",
+      "explanationLessonId": "part-6-test"
+    },
+    {
+      "id": "q-ap-tests-01-1",
+      "type": "open",
+      "text": "اشرح ما الذي يجعل نظامًا ما Production Module حقيقيًا، لا مجرد شاشة أمر إنتاج مع خصم مواد وإضافة منتج نهائي؟",
+      "section": "القسم الأول: المفاهيم المؤسسة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-2",
+      "type": "open",
+      "text": "ما الفرق بين Product Structure وProduction Method وExecution Cycle وCost Control؟",
+      "section": "القسم الأول: المفاهيم المؤسسة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-3",
+      "type": "open",
+      "text": "لماذا يجب الفصل ذهنيًا بين الكيانات الثلاثة التالية؟",
+      "section": "القسم الأول: المفاهيم المؤسسة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-4",
+      "type": "open",
+      "text": "اشرح لماذا لا يعني Finished Goods Receipt أو Product Completion أو RAF أن دورة الأمر انتهت بالكامل؟",
+      "section": "القسم الأول: المفاهيم المؤسسة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-5",
+      "type": "open",
+      "text": "ما أثر ضعف Master Data على التخطيط والتنفيذ والتكلفة؟",
+      "section": "القسم الثاني: البيانات الأساسية وتصميم المنتج",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-6",
+      "type": "open",
+      "text": "اشرح الفرق بين كيانات التصميم التالية؟",
+      "section": "القسم الثاني: البيانات الأساسية وتصميم المنتج",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-7",
+      "type": "open",
+      "text": "متى يصبح Version أو Approval أو Governance عنصرًا حاسمًا في نضج الموديول؟",
+      "section": "القسم الثاني: البيانات الأساسية وتصميم المنتج",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-8",
+      "type": "open",
+      "text": "اكتب دورة التنفيذ الإنتاجي الكاملة من بداية الطلب أو الخطة حتى Close بأسلوبك أنت؟",
+      "section": "القسم الثالث: دورة التنفيذ الإنتاجي",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-9",
+      "type": "open",
+      "text": "ما الفرق بين مراحل التنفيذ التالية؟",
+      "section": "القسم الثالث: دورة التنفيذ الإنتاجي",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-10",
+      "type": "open",
+      "text": "كيف تفسر حالات Return وScrap وRework من منظور تشغيلي وتكلفي؟",
+      "section": "القسم الثالث: دورة التنفيذ الإنتاجي",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-11",
+      "type": "open",
+      "text": "اشرح كيف تتكون تكلفة المنتج من منظور ERP؟",
+      "section": "القسم الرابع: التكاليف وWIP والانحرافات",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-12",
+      "type": "open",
+      "text": "ما معنى WIP؟ ولماذا يعد مؤشرًا تشغيليًا وماليًا في نفس الوقت؟",
+      "section": "القسم الرابع: التكاليف وWIP والانحرافات",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-13",
+      "type": "open",
+      "text": "ما الفرق بين Standard Cost وActual Cost؟ ومتى يصبح اختيار أحدهما قرارًا مؤثرًا على المشروع كله؟",
+      "section": "القسم الرابع: التكاليف وWIP والانحرافات",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-14",
+      "type": "open",
+      "text": "ما معنى Variance؟ وكيف تفرق بين Variance سببه Master Data وVariance سببه Execution؟",
+      "section": "القسم الرابع: التكاليف وWIP والانحرافات",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-15",
+      "type": "open",
+      "text": "لماذا تعد Quality جزءًا من دورة الإنتاج لا طبقة منفصلة عنها؟",
+      "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-16",
+      "type": "open",
+      "text": "كيف تشرح دور MRP أو Master Planning في توليد أوامر الإنتاج بدل النظر إلى الأوامر كأنها تبدأ من التنفيذ فقط؟",
+      "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-17",
+      "type": "open",
+      "text": "ما الفرق بين Make to Stock وMake to Order؟ ومتى تكون البيئة مختلطة بدل أن تكون واضحة تمامًا؟",
+      "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-18",
+      "type": "open",
+      "text": "ما الفرق بين Lot Traceability وSerial Traceability؟ ولماذا يؤثر ذلك على الجودة والتكلفة والتحقيق؟",
+      "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-19",
+      "type": "open",
+      "text": "اشرح الفرق بين الكيانات الإنتاجية التالية؟",
+      "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-20",
+      "type": "open",
+      "text": "متى يصبح من الخطأ تمثيل البيئة على أنها Discrete فقط بينما هي في الواقع أقرب إلى Process أو Repetitive أو Mixed-Mode؟",
+      "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+      "sectionType": "general",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-21",
+      "type": "open",
+      "text": "كيف تقود Discovery جيدة لموديول الإنتاج؟ وما المخرجات التي يجب أن تخرج بها؟",
+      "section": "القسم السادس: التفكير الاستشاري",
+      "sectionType": "scenario",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-22",
+      "type": "open",
+      "text": "ما الفرق بين أنواع المشكلات التالية؟",
+      "section": "القسم السادس: التفكير الاستشاري",
+      "sectionType": "scenario",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-23",
+      "type": "open",
+      "text": "ما الذي يجعل UAT قويًا فعليًا في مشروع إنتاج؟",
+      "section": "القسم السادس: التفكير الاستشاري",
+      "sectionType": "scenario",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-24",
+      "type": "open",
+      "text": "كيف تحول طلبًا وظيفيًا غامضًا إلى Functional to Technical specification قابلة للتنفيذ؟",
+      "section": "القسم السادس: التفكير الاستشاري",
+      "sectionType": "scenario",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-01-25",
+      "type": "open",
+      "text": "ما العلامات المبكرة التي تراقبها بعد Go-Live لتعرف أن الموديول مستقر أو غير مستقر؟",
+      "section": "القسم السادس: التفكير الاستشاري",
+      "sectionType": "scenario",
+      "lessonId": "ap-tests-01",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-01"
+    },
+    {
+      "id": "q-ap-tests-08-1",
+      "type": "open",
+      "text": "ما الفرق بين Demand وPlanned Order وProduction Order؟",
+      "section": "القسم الأول: المفاهيم الحرجة السريعة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-08",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-08"
+    },
+    {
+      "id": "q-ap-tests-08-2",
+      "type": "open",
+      "text": "ما الفرق بين Product Structure وProduction Method؟",
+      "section": "القسم الأول: المفاهيم الحرجة السريعة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-08",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-08"
+    },
+    {
+      "id": "q-ap-tests-08-3",
+      "type": "open",
+      "text": "ما الفرق بين completion وavailability وclose؟",
+      "section": "القسم الأول: المفاهيم الحرجة السريعة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-08",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-08"
+    },
+    {
+      "id": "q-ap-tests-08-4",
+      "type": "open",
+      "text": "متى يصبح WIP طبيعيًا، ومتى يصبح علامة خطر؟",
+      "section": "القسم الأول: المفاهيم الحرجة السريعة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-08",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-08"
+    },
+    {
+      "id": "q-ap-tests-08-5",
+      "type": "open",
+      "text": "ما الفرق بين Data issue وTraining issue وProcess issue وReal gap؟",
+      "section": "القسم الأول: المفاهيم الحرجة السريعة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-08",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-08"
+    },
+    {
+      "id": "q-ap-tests-09-1",
+      "type": "open",
+      "text": "ما الفرق بين Demand وPlanned Order وProduction Order؟",
+      "section": "القسم الأول: المفاهيم الحرجة السريعة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-09",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-09"
+    },
+    {
+      "id": "q-ap-tests-09-2",
+      "type": "open",
+      "text": "ما الفرق بين Product Structure وProduction Method؟",
+      "section": "القسم الأول: المفاهيم الحرجة السريعة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-09",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-09"
+    },
+    {
+      "id": "q-ap-tests-09-3",
+      "type": "open",
+      "text": "ما الفرق بين completion وavailability وclose؟",
+      "section": "القسم الأول: المفاهيم الحرجة السريعة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-09",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-09"
+    },
+    {
+      "id": "q-ap-tests-09-4",
+      "type": "open",
+      "text": "متى يصبح WIP طبيعيًا، ومتى يصبح علامة خطر؟",
+      "section": "القسم الأول: المفاهيم الحرجة السريعة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-09",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-09"
+    },
+    {
+      "id": "q-ap-tests-09-5",
+      "type": "open",
+      "text": "ما الفرق بين Data issue وTraining issue وProcess issue وReal gap؟",
+      "section": "القسم الأول: المفاهيم الحرجة السريعة",
+      "sectionType": "concept",
+      "lessonId": "ap-tests-09",
+      "partId": "appendix-tests",
+      "explanationLessonId": "ap-tests-09"
+    },
+    {
+      "id": "q-glossary-mcq-production",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: الإنتاج؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Production",
+        "Manufacturing",
+        "Production Module",
+        "Master Data"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "الإنتاج تقابلها Production، ومعناها: عملية تحويل المواد إلى منتج نهائي أو نصف مصنع",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-production",
+      "type": "true-false",
+      "text": "صح أم خطأ: Production يعني عملية تحويل المواد إلى منتج نهائي أو نصف مصنع",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Production تعني الإنتاج، ومعناها: عملية تحويل المواد إلى منتج نهائي أو نصف مصنع",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-manufacturing",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: التصنيع؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Production Module",
+        "Manufacturing",
+        "Master Data",
+        "Finished Good"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "التصنيع تقابلها Manufacturing، ومعناها: الإطار الأوسع لعمليات الإنتاج الصناعية",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-manufacturing",
+      "type": "true-false",
+      "text": "صح أم خطأ: Manufacturing يعني الجزء المسؤول عن دورة الإنتاج داخل ERP",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Manufacturing تعني التصنيع، ومعناها الصحيح: الإطار الأوسع لعمليات الإنتاج الصناعية",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-production-module",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: موديول الإنتاج؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Master Data",
+        "Finished Good",
+        "Production Module",
+        "Raw Material"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "موديول الإنتاج تقابلها Production Module، ومعناها: الجزء المسؤول عن دورة الإنتاج داخل ERP",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-production-module",
+      "type": "true-false",
+      "text": "صح أم خطأ: Production Module يعني الجزء المسؤول عن دورة الإنتاج داخل ERP",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Production Module تعني موديول الإنتاج، ومعناها: الجزء المسؤول عن دورة الإنتاج داخل ERP",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-master-data",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: البيانات الأساسية؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Finished Good",
+        "Raw Material",
+        "Semi-finished Good / Subassembly",
+        "Master Data"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "البيانات الأساسية تقابلها Master Data، ومعناها: البيانات الثابتة التي تقوم عليها دورة الإنتاج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-master-data",
+      "type": "true-false",
+      "text": "صح أم خطأ: Master Data يعني المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Master Data تعني البيانات الأساسية، ومعناها الصحيح: البيانات الثابتة التي تقوم عليها دورة الإنتاج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-finished-good",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: المنتج النهائي؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Finished Good",
+        "Raw Material",
+        "Semi-finished Good / Subassembly",
+        "Unit of Measure (UoM)"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "المنتج النهائي تقابلها Finished Good، ومعناها: المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-finished-good",
+      "type": "true-false",
+      "text": "صح أم خطأ: Finished Good يعني المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Finished Good تعني المنتج النهائي، ومعناها: المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-raw-material",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: مادة خام؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Semi-finished Good / Subassembly",
+        "Raw Material",
+        "Unit of Measure (UoM)",
+        "Warehouse"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "مادة خام تقابلها Raw Material، ومعناها: مادة تدخل في تصنيع المنتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-raw-material",
+      "type": "true-false",
+      "text": "صح أم خطأ: Raw Material يعني منتج وسيط قد يكون Input لأمر آخر",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Raw Material تعني مادة خام، ومعناها الصحيح: مادة تدخل في تصنيع المنتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-semi-finished-good",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: منتج نصف مصنع؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Unit of Measure (UoM)",
+        "Warehouse",
+        "Semi-finished Good / Subassembly",
+        "Location / Locator"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "منتج نصف مصنع تقابلها Semi-finished Good / Subassembly، ومعناها: منتج وسيط قد يكون Input لأمر آخر",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-semi-finished-good",
+      "type": "true-false",
+      "text": "صح أم خطأ: Semi-finished Good / Subassembly يعني منتج وسيط قد يكون Input لأمر آخر",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Semi-finished Good / Subassembly تعني منتج نصف مصنع، ومعناها: منتج وسيط قد يكون Input لأمر آخر",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-unit-of-measure",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: وحدة القياس؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Warehouse",
+        "Location / Locator",
+        "Bill of Material (BOM)",
+        "Unit of Measure (UoM)"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "وحدة القياس تقابلها Unit of Measure (UoM)، ومعناها: الوحدة المستخدمة للكميات مثل قطعة أو كجم",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-unit-of-measure",
+      "type": "true-false",
+      "text": "صح أم خطأ: Unit of Measure (UoM) يعني المكان المنطقي أو الفعلي لتخزين المواد",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Unit of Measure (UoM) تعني وحدة القياس، ومعناها الصحيح: الوحدة المستخدمة للكميات مثل قطعة أو كجم",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-warehouse",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: مستودع؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Warehouse",
+        "Location / Locator",
+        "Bill of Material (BOM)",
+        "Formula"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "مستودع تقابلها Warehouse، ومعناها: المكان المنطقي أو الفعلي لتخزين المواد",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-warehouse",
+      "type": "true-false",
+      "text": "صح أم خطأ: Warehouse يعني المكان المنطقي أو الفعلي لتخزين المواد",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Warehouse تعني مستودع، ومعناها: المكان المنطقي أو الفعلي لتخزين المواد",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-location",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: موقع؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Bill of Material (BOM)",
+        "Location / Locator",
+        "Formula",
+        "Item Structure"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "موقع تقابلها Location / Locator، ومعناها: موضع داخلي أدق من المستودع",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-location",
+      "type": "true-false",
+      "text": "صح أم خطأ: Location / Locator يعني قائمة المكونات والكميات المطلوبة لتصنيع المنتج",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Location / Locator تعني موقع، ومعناها الصحيح: موضع داخلي أدق من المستودع",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-bill-of-material",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: قائمة المواد؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Formula",
+        "Item Structure",
+        "Bill of Material (BOM)",
+        "Route / Routing"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "قائمة المواد تقابلها Bill of Material (BOM)، ومعناها: قائمة المكونات والكميات المطلوبة لتصنيع المنتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-bill-of-material",
+      "type": "true-false",
+      "text": "صح أم خطأ: Bill of Material (BOM) يعني قائمة المكونات والكميات المطلوبة لتصنيع المنتج",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Bill of Material (BOM) تعني قائمة المواد، ومعناها: قائمة المكونات والكميات المطلوبة لتصنيع المنتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-formula",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: وصفة؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Item Structure",
+        "Route / Routing",
+        "Operation",
+        "Formula"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "وصفة تقابلها Formula، ومعناها: بنية مكونات تستخدم غالبًا في التصنيع العملياتي",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-formula",
+      "type": "true-false",
+      "text": "صح أم خطأ: Formula يعني مصطلح Oracle للبنية المادية للمنتج",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Formula تعني وصفة، ومعناها الصحيح: بنية مكونات تستخدم غالبًا في التصنيع العملياتي",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-item-structure",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: هيكل الصنف؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Item Structure",
+        "Route / Routing",
+        "Operation",
+        "Resource"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "هيكل الصنف تقابلها Item Structure، ومعناها: مصطلح Oracle للبنية المادية للمنتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-item-structure",
+      "type": "true-false",
+      "text": "صح أم خطأ: Item Structure يعني مصطلح Oracle للبنية المادية للمنتج",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Item Structure تعني هيكل الصنف، ومعناها: مصطلح Oracle للبنية المادية للمنتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-route",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: مسار التصنيع؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Operation",
+        "Route / Routing",
+        "Resource",
+        "Work Center"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "مسار التصنيع تقابلها Route / Routing، ومعناها: الخطوات التي يمر بها المنتج أثناء التصنيع",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-route",
+      "type": "true-false",
+      "text": "صح أم خطأ: Route / Routing يعني خطوة تشغيلية داخل Route أو Work Definition",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Route / Routing تعني مسار التصنيع، ومعناها الصحيح: الخطوات التي يمر بها المنتج أثناء التصنيع",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-operation",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: عملية؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Resource",
+        "Work Center",
+        "Operation",
+        "Work Definition"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "عملية تقابلها Operation، ومعناها: خطوة تشغيلية داخل Route أو Work Definition",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-operation",
+      "type": "true-false",
+      "text": "صح أم خطأ: Operation يعني خطوة تشغيلية داخل Route أو Work Definition",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Operation تعني عملية، ومعناها: خطوة تشغيلية داخل Route أو Work Definition",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-resource",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: مورد؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Work Center",
+        "Work Definition",
+        "Scrap",
+        "Resource"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "مورد تقابلها Resource، ومعناها: عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-resource",
+      "type": "true-false",
+      "text": "صح أم خطأ: Resource يعني مكان أو وحدة تنفيذ للعمليات",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Resource تعني مورد، ومعناها الصحيح: عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-work-center",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: مركز عمل؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Work Center",
+        "Work Definition",
+        "Scrap",
+        "By-product"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "مركز عمل تقابلها Work Center، ومعناها: مكان أو وحدة تنفيذ للعمليات",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-work-center",
+      "type": "true-false",
+      "text": "صح أم خطأ: Work Center يعني مكان أو وحدة تنفيذ للعمليات",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Work Center تعني مركز عمل، ومعناها: مكان أو وحدة تنفيذ للعمليات",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-work-definition",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تعريف العمل؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Scrap",
+        "Work Definition",
+        "By-product",
+        "Co-product"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "تعريف العمل تقابلها Work Definition، ومعناها: قالب Oracle الذي يجمع المواد والعمليات والموارد",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-work-definition",
+      "type": "true-false",
+      "text": "صح أم خطأ: Work Definition يعني فاقد في المواد أو المنتج أو العملية",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Work Definition تعني تعريف العمل، ومعناها الصحيح: قالب Oracle الذي يجمع المواد والعمليات والموارد",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-scrap",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: هالك؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "By-product",
+        "Co-product",
+        "Scrap",
+        "Production Order"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "هالك تقابلها Scrap، ومعناها: فاقد في المواد أو المنتج أو العملية",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-scrap",
+      "type": "true-false",
+      "text": "صح أم خطأ: Scrap يعني فاقد في المواد أو المنتج أو العملية",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Scrap تعني هالك، ومعناها: فاقد في المواد أو المنتج أو العملية",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-by-product",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: منتج جانبي؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Co-product",
+        "Production Order",
+        "Work Order",
+        "By-product"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "منتج جانبي تقابلها By-product، ومعناها: مخرج ثانوي ينتج مع المنتج الرئيسي",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-by-product",
+      "type": "true-false",
+      "text": "صح أم خطأ: By-product يعني مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. By-product تعني منتج جانبي، ومعناها الصحيح: مخرج ثانوي ينتج مع المنتج الرئيسي",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-co-product",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: منتج مشترك؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Co-product",
+        "Production Order",
+        "Work Order",
+        "Created"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "منتج مشترك تقابلها Co-product، ومعناها: مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-co-product",
+      "type": "true-false",
+      "text": "صح أم خطأ: Co-product يعني مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Co-product تعني منتج مشترك، ومعناها: مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-production-order",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: أمر إنتاج؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Work Order",
+        "Production Order",
+        "Created",
+        "Released"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "أمر إنتاج تقابلها Production Order، ومعناها: أمر تنفيذ إنتاج في كثير من الأنظمة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-production-order",
+      "type": "true-false",
+      "text": "صح أم خطأ: Production Order يعني المصطلح التنفيذي الشائع خاصة في Oracle",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Production Order تعني أمر إنتاج، ومعناها الصحيح: أمر تنفيذ إنتاج في كثير من الأنظمة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-work-order",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: أمر عمل؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Created",
+        "Released",
+        "Work Order",
+        "Started"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "أمر عمل تقابلها Work Order، ومعناها: المصطلح التنفيذي الشائع خاصة في Oracle",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-work-order",
+      "type": "true-false",
+      "text": "صح أم خطأ: Work Order يعني المصطلح التنفيذي الشائع خاصة في Oracle",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Work Order تعني أمر عمل، ومعناها: المصطلح التنفيذي الشائع خاصة في Oracle",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-created",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: إنشاء؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Released",
+        "Started",
+        "Material Issue / Goods Issue",
+        "Created"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "إنشاء تقابلها Created، ومعناها: حالة إنشاء الأمر قبل التنفيذ",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-created",
+      "type": "true-false",
+      "text": "صح أم خطأ: Created يعني حالة يصبح فيها الأمر جاهزًا للتنفيذ",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Created تعني إنشاء، ومعناها الصحيح: حالة إنشاء الأمر قبل التنفيذ",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-released",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: إطلاق؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Released",
+        "Started",
+        "Material Issue / Goods Issue",
+        "Operation Execution / Reporting"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "إطلاق تقابلها Released، ومعناها: حالة يصبح فيها الأمر جاهزًا للتنفيذ",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-released",
+      "type": "true-false",
+      "text": "صح أم خطأ: Released يعني حالة يصبح فيها الأمر جاهزًا للتنفيذ",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Released تعني إطلاق، ومعناها: حالة يصبح فيها الأمر جاهزًا للتنفيذ",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-started",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: بدء؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Material Issue / Goods Issue",
+        "Started",
+        "Operation Execution / Reporting",
+        "Finished Goods Receipt"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "بدء تقابلها Started، ومعناها: بدء التنفيذ الفعلي للأمر",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-started",
+      "type": "true-false",
+      "text": "صح أم خطأ: Started يعني إخراج المواد من المخزون إلى الإنتاج",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Started تعني بدء، ومعناها الصحيح: بدء التنفيذ الفعلي للأمر",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-material-issue",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: صرف مواد؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Operation Execution / Reporting",
+        "Finished Goods Receipt",
+        "Material Issue / Goods Issue",
+        "Product Completion"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "صرف مواد تقابلها Material Issue / Goods Issue، ومعناها: إخراج المواد من المخزون إلى الإنتاج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-material-issue",
+      "type": "true-false",
+      "text": "صح أم خطأ: Material Issue / Goods Issue يعني إخراج المواد من المخزون إلى الإنتاج",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Material Issue / Goods Issue تعني صرف مواد، ومعناها: إخراج المواد من المخزون إلى الإنتاج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-operation-execution",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تسجيل تشغيل؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Finished Goods Receipt",
+        "Product Completion",
+        "Report as Finished",
+        "Operation Execution / Reporting"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "تسجيل تشغيل تقابلها Operation Execution / Reporting، ومعناها: تسجيل العمل أو الوقت أو التقدم",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-operation-execution",
+      "type": "true-false",
+      "text": "صح أم خطأ: Operation Execution / Reporting يعني دخول المنتج النهائي إلى المخزون",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Operation Execution / Reporting تعني تسجيل تشغيل، ومعناها الصحيح: تسجيل العمل أو الوقت أو التقدم",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-finished-goods-receipt",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: استلام منتج نهائي؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Finished Goods Receipt",
+        "Product Completion",
+        "Report as Finished",
+        "Material Return"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "استلام منتج نهائي تقابلها Finished Goods Receipt، ومعناها: دخول المنتج النهائي إلى المخزون",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-finished-goods-receipt",
+      "type": "true-false",
+      "text": "صح أم خطأ: Finished Goods Receipt يعني دخول المنتج النهائي إلى المخزون",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Finished Goods Receipt تعني استلام منتج نهائي، ومعناها: دخول المنتج النهائي إلى المخزون",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-product-completion",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: إكمال المنتج؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Report as Finished",
+        "Product Completion",
+        "Material Return",
+        "Close / Closing"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "إكمال المنتج تقابلها Product Completion، ومعناها: مصطلح Oracle لاستلام المنتج الناتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-product-completion",
+      "type": "true-false",
+      "text": "صح أم خطأ: Product Completion يعني مصطلح Dynamics لإثبات إنجاز المنتج",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Product Completion تعني إكمال المنتج، ومعناها الصحيح: مصطلح Oracle لاستلام المنتج الناتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-report-as-finished",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: الإبلاغ كمنجز؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Material Return",
+        "Close / Closing",
+        "Report as Finished",
+        "Estimated Cost"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "الإبلاغ كمنجز تقابلها Report as Finished، ومعناها: مصطلح Dynamics لإثبات إنجاز المنتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-report-as-finished",
+      "type": "true-false",
+      "text": "صح أم خطأ: Report as Finished يعني مصطلح Dynamics لإثبات إنجاز المنتج",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Report as Finished تعني الإبلاغ كمنجز، ومعناها: مصطلح Dynamics لإثبات إنجاز المنتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-material-return",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: إرجاع مواد؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Close / Closing",
+        "Estimated Cost",
+        "Standard Cost",
+        "Material Return"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "إرجاع مواد تقابلها Material Return، ومعناها: إعادة مواد من الأمر إلى المخزون",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-material-return",
+      "type": "true-false",
+      "text": "صح أم خطأ: Material Return يعني حسم الأمر تشغيليًا وماليًا بحسب النظام",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Material Return تعني إرجاع مواد، ومعناها الصحيح: إعادة مواد من الأمر إلى المخزون",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-close",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: إغلاق؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Close / Closing",
+        "Estimated Cost",
+        "Standard Cost",
+        "Actual Cost"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "إغلاق تقابلها Close / Closing، ومعناها: حسم الأمر تشغيليًا وماليًا بحسب النظام",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-close",
+      "type": "true-false",
+      "text": "صح أم خطأ: Close / Closing يعني حسم الأمر تشغيليًا وماليًا بحسب النظام",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Close / Closing تعني إغلاق، ومعناها: حسم الأمر تشغيليًا وماليًا بحسب النظام",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-estimated-cost",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تكلفة مقدرة؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Standard Cost",
+        "Estimated Cost",
+        "Actual Cost",
+        "Work in Process (WIP)"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "تكلفة مقدرة تقابلها Estimated Cost، ومعناها: تكلفة محسوبة قبل أو أثناء التنفيذ كمؤشر متوقع",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-estimated-cost",
+      "type": "true-false",
+      "text": "صح أم خطأ: Estimated Cost يعني تكلفة مرجعية ثابتة أو معتمدة للمقارنة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Estimated Cost تعني تكلفة مقدرة، ومعناها الصحيح: تكلفة محسوبة قبل أو أثناء التنفيذ كمؤشر متوقع",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-standard-cost",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تكلفة معيارية؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Actual Cost",
+        "Work in Process (WIP)",
+        "Standard Cost",
+        "Variance"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "تكلفة معيارية تقابلها Standard Cost، ومعناها: تكلفة مرجعية ثابتة أو معتمدة للمقارنة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-standard-cost",
+      "type": "true-false",
+      "text": "صح أم خطأ: Standard Cost يعني تكلفة مرجعية ثابتة أو معتمدة للمقارنة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Standard Cost تعني تكلفة معيارية، ومعناها: تكلفة مرجعية ثابتة أو معتمدة للمقارنة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-actual-cost",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تكلفة فعلية؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Work in Process (WIP)",
+        "Variance",
+        "Cost Posting / Cost Charging",
+        "Actual Cost"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "تكلفة فعلية تقابلها Actual Cost، ومعناها: التكلفة الحقيقية المبنية على الحركات الفعلية",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-actual-cost",
+      "type": "true-false",
+      "text": "صح أم خطأ: Actual Cost يعني قيمة ما صُرف أو سُجل على أمر لم يكتمل إغلاقه",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Actual Cost تعني تكلفة فعلية، ومعناها الصحيح: التكلفة الحقيقية المبنية على الحركات الفعلية",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-work-in-process",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تكلفة تحت التشغيل؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Work in Process (WIP)",
+        "Variance",
+        "Cost Posting / Cost Charging",
+        "Cost Distribution"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "تكلفة تحت التشغيل تقابلها Work in Process (WIP)، ومعناها: قيمة ما صُرف أو سُجل على أمر لم يكتمل إغلاقه",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-work-in-process",
+      "type": "true-false",
+      "text": "صح أم خطأ: Work in Process (WIP) يعني قيمة ما صُرف أو سُجل على أمر لم يكتمل إغلاقه",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Work in Process (WIP) تعني تكلفة تحت التشغيل، ومعناها: قيمة ما صُرف أو سُجل على أمر لم يكتمل إغلاقه",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-variance",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: انحراف؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Cost Posting / Cost Charging",
+        "Variance",
+        "Cost Distribution",
+        "Period Close"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "انحراف تقابلها Variance، ومعناها: الفرق بين المتوقع والمعياري والفعلي",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-variance",
+      "type": "true-false",
+      "text": "صح أم خطأ: Variance يعني ربط حدث تشغيلي بأثر تكلفة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Variance تعني انحراف، ومعناها الصحيح: الفرق بين المتوقع والمعياري والفعلي",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-cost-posting",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تحميل تكلفة؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Cost Distribution",
+        "Period Close",
+        "Cost Posting / Cost Charging",
+        "Control Reports"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "تحميل تكلفة تقابلها Cost Posting / Cost Charging، ومعناها: ربط حدث تشغيلي بأثر تكلفة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-cost-posting",
+      "type": "true-false",
+      "text": "صح أم خطأ: Cost Posting / Cost Charging يعني ربط حدث تشغيلي بأثر تكلفة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Cost Posting / Cost Charging تعني تحميل تكلفة، ومعناها: ربط حدث تشغيلي بأثر تكلفة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-cost-distribution",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: توزيع تكلفة؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Period Close",
+        "Control Reports",
+        "Quality",
+        "Cost Distribution"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "توزيع تكلفة تقابلها Cost Distribution، ومعناها: مصطلح Oracle لتحليل وربط التكلفة بالحركات",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-cost-distribution",
+      "type": "true-false",
+      "text": "صح أم خطأ: Cost Distribution يعني إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Cost Distribution تعني توزيع تكلفة، ومعناها الصحيح: مصطلح Oracle لتحليل وربط التكلفة بالحركات",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-period-close",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: إغلاق الفترة؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Period Close",
+        "Control Reports",
+        "Quality",
+        "Quality Order"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "إغلاق الفترة تقابلها Period Close، ومعناها: إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-period-close",
+      "type": "true-false",
+      "text": "صح أم خطأ: Period Close يعني إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Period Close تعني إغلاق الفترة، ومعناها: إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-control-reports",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تقارير رقابية؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Quality",
+        "Control Reports",
+        "Quality Order",
+        "Quality Issue"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "تقارير رقابية تقابلها Control Reports، ومعناها: تقارير لمتابعة الانحرافات والأوامر المفتوحة وWIP",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-control-reports",
+      "type": "true-false",
+      "text": "صح أم خطأ: Control Reports يعني التحقق من مطابقة المنتج أو العملية للمطلوب",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Control Reports تعني تقارير رقابية، ومعناها الصحيح: تقارير لمتابعة الانحرافات والأوامر المفتوحة وWIP",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-quality",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: جودة؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Quality Order",
+        "Quality Issue",
+        "Quality",
+        "Lot / Batch"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "جودة تقابلها Quality، ومعناها: التحقق من مطابقة المنتج أو العملية للمطلوب",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-quality",
+      "type": "true-false",
+      "text": "صح أم خطأ: Quality يعني التحقق من مطابقة المنتج أو العملية للمطلوب",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Quality تعني جودة، ومعناها: التحقق من مطابقة المنتج أو العملية للمطلوب",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-quality-order",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: أمر جودة؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Quality Issue",
+        "Lot / Batch",
+        "Serial Number",
+        "Quality Order"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "أمر جودة تقابلها Quality Order، ومعناها: كيان رقابي في بعض الأنظمة لفحص الجودة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-quality-order",
+      "type": "true-false",
+      "text": "صح أم خطأ: Quality Order يعني حالة انحراف أو خلل يحتاج متابعة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Quality Order تعني أمر جودة، ومعناها الصحيح: كيان رقابي في بعض الأنظمة لفحص الجودة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-quality-issue",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: مشكلة جودة؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Quality Issue",
+        "Lot / Batch",
+        "Serial Number",
+        "Traceability"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "مشكلة جودة تقابلها Quality Issue، ومعناها: حالة انحراف أو خلل يحتاج متابعة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-quality-issue",
+      "type": "true-false",
+      "text": "صح أم خطأ: Quality Issue يعني حالة انحراف أو خلل يحتاج متابعة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Quality Issue تعني مشكلة جودة، ومعناها: حالة انحراف أو خلل يحتاج متابعة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-lot",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: دفعة؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Serial Number",
+        "Lot / Batch",
+        "Traceability",
+        "Rework"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "دفعة تقابلها Lot / Batch، ومعناها: مجموعة متتبعة من مادة أو منتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-lot",
+      "type": "true-false",
+      "text": "صح أم خطأ: Lot / Batch يعني معرف منفرد لوحدة محددة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Lot / Batch تعني دفعة، ومعناها الصحيح: مجموعة متتبعة من مادة أو منتج",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-serial-number",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: رقم تسلسلي؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Traceability",
+        "Rework",
+        "Serial Number",
+        "Reject"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "رقم تسلسلي تقابلها Serial Number، ومعناها: معرف منفرد لوحدة محددة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-serial-number",
+      "type": "true-false",
+      "text": "صح أم خطأ: Serial Number يعني معرف منفرد لوحدة محددة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Serial Number تعني رقم تسلسلي، ومعناها: معرف منفرد لوحدة محددة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-traceability",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تتبع؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Rework",
+        "Reject",
+        "Gap Analysis",
+        "Traceability"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "تتبع تقابلها Traceability، ومعناها: القدرة على تتبع المادة أو المنتج عبر الدورة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-traceability",
+      "type": "true-false",
+      "text": "صح أم خطأ: Traceability يعني إعادة معالجة منتج أو كمية غير مطابقة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Traceability تعني تتبع، ومعناها الصحيح: القدرة على تتبع المادة أو المنتج عبر الدورة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-rework",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: إعادة تشغيل؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Rework",
+        "Reject",
+        "Gap Analysis",
+        "Functional Requirement"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "إعادة تشغيل تقابلها Rework، ومعناها: إعادة معالجة منتج أو كمية غير مطابقة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-rework",
+      "type": "true-false",
+      "text": "صح أم خطأ: Rework يعني إعادة معالجة منتج أو كمية غير مطابقة",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Rework تعني إعادة تشغيل، ومعناها: إعادة معالجة منتج أو كمية غير مطابقة",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-reject",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: رفض؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Gap Analysis",
+        "Reject",
+        "Functional Requirement",
+        "Functional to Technical Design"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "رفض تقابلها Reject، ومعناها: كمية مرفوضة لا تقبل كمنتج جيد",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-reject",
+      "type": "true-false",
+      "text": "صح أم خطأ: Reject يعني مقارنة النظام الحالي بالمرجع المطلوب",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Reject تعني رفض، ومعناها الصحيح: كمية مرفوضة لا تقبل كمنتج جيد",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-gap-analysis",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تحليل الفجوات؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Functional Requirement",
+        "Functional to Technical Design",
+        "Gap Analysis",
+        "Implementation Readiness"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "تحليل الفجوات تقابلها Gap Analysis، ومعناها: مقارنة النظام الحالي بالمرجع المطلوب",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-gap-analysis",
+      "type": "true-false",
+      "text": "صح أم خطأ: Gap Analysis يعني مقارنة النظام الحالي بالمرجع المطلوب",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Gap Analysis تعني تحليل الفجوات، ومعناها: مقارنة النظام الحالي بالمرجع المطلوب",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-functional-requirement",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: متطلب وظيفي؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Functional to Technical Design",
+        "Implementation Readiness",
+        "User Acceptance Testing (UAT)",
+        "Functional Requirement"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "متطلب وظيفي تقابلها Functional Requirement، ومعناها: ما يجب أن يحققه النظام من منظور العمل",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-functional-requirement",
+      "type": "true-false",
+      "text": "صح أم خطأ: Functional Requirement يعني ترجمة المنطق الوظيفي إلى منطق قابل للتطوير",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Functional Requirement تعني متطلب وظيفي، ومعناها الصحيح: ما يجب أن يحققه النظام من منظور العمل",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-functional-to-technical-design",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تصميم وظيفي إلى تقني؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Functional to Technical Design",
+        "Implementation Readiness",
+        "User Acceptance Testing (UAT)",
+        "Go-Live"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "تصميم وظيفي إلى تقني تقابلها Functional to Technical Design، ومعناها: ترجمة المنطق الوظيفي إلى منطق قابل للتطوير",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-functional-to-technical-design",
+      "type": "true-false",
+      "text": "صح أم خطأ: Functional to Technical Design يعني ترجمة المنطق الوظيفي إلى منطق قابل للتطوير",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. Functional to Technical Design تعني تصميم وظيفي إلى تقني، ومعناها: ترجمة المنطق الوظيفي إلى منطق قابل للتطوير",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-implementation-readiness",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: جاهزية التطبيق؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "User Acceptance Testing (UAT)",
+        "Implementation Readiness",
+        "Go-Live",
+        "Production"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "جاهزية التطبيق تقابلها Implementation Readiness، ومعناها: مدى استعداد البيانات والإعدادات والفرق للتشغيل",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-implementation-readiness",
+      "type": "true-false",
+      "text": "صح أم خطأ: Implementation Readiness يعني اختبار الدورة الحقيقية قبل التشغيل الرسمي",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Implementation Readiness تعني جاهزية التطبيق، ومعناها الصحيح: مدى استعداد البيانات والإعدادات والفرق للتشغيل",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-user-acceptance-testing",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: اختبار قبول المستخدم؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Go-Live",
+        "Production",
+        "User Acceptance Testing (UAT)",
+        "Manufacturing"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "اختبار قبول المستخدم تقابلها User Acceptance Testing (UAT)، ومعناها: اختبار الدورة الحقيقية قبل التشغيل الرسمي",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-user-acceptance-testing",
+      "type": "true-false",
+      "text": "صح أم خطأ: User Acceptance Testing (UAT) يعني اختبار الدورة الحقيقية قبل التشغيل الرسمي",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": true,
+      "explanation": "العبارة صحيحة. User Acceptance Testing (UAT) تعني اختبار قبول المستخدم، ومعناها: اختبار الدورة الحقيقية قبل التشغيل الرسمي",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-mcq-go-live",
+      "type": "multiple-choice",
+      "text": "ما المقابل الإنجليزي الصحيح للمصطلح: تشغيل فعلي؟",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "options": [
+        "Production",
+        "Manufacturing",
+        "Production Module",
+        "Go-Live"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "تشغيل فعلي تقابلها Go-Live، ومعناها: بداية استخدام النظام في الواقع",
+      "explanationLessonId": "meta-05"
+    },
+    {
+      "id": "q-glossary-tf-go-live",
+      "type": "true-false",
+      "text": "صح أم خطأ: Go-Live يعني عملية تحويل المواد إلى منتج نهائي أو نصف مصنع",
+      "section": "القاموس التأسيسي",
+      "sectionType": "terminology",
+      "lessonId": "meta-05",
+      "partId": "meta",
+      "correctBoolean": false,
+      "explanation": "العبارة خاطئة. Go-Live تعني تشغيل فعلي، ومعناها الصحيح: بداية استخدام النظام في الواقع",
+      "explanationLessonId": "meta-05"
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+@page {
+  size: A4;
+  margin: 18mm 16mm 18mm 16mm;
+
+  @top-right {
+    content: "الكتاب الشامل لموديول الإنتاج والتصنيع في ERP";
+    font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+    font-size: 8.5pt;
+    color: #5b6472;
+  }
+
+  @top-left {
+    content: "Majed H Khaireddin";
+    font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+    font-size: 8.5pt;
+    color: #5b6472;
+  }
+
+  @bottom-center {
+    content: counter(page);
+    font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+    font-size: 9pt;
+    color: #5b6472;
+  }
+}
+
+@page :first {
+  size: A4;
+  margin: 0;
+}
+
+:root {
+  --ink: #18181b;
+  --muted: #5b6472;
+  --line: #d6d9df;
+  --line-strong: #a7afbb;
+  --accent: #173b6b;
+  --accent-soft: #eef3fb;
+}
+
+html {
+  direction: rtl;
+  lang: ar;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: white;
+  font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+  font-size: 11.2pt;
+  line-height: 1.75;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.book {
+  width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.cover-image-page,
+.cover-title-page,
+.imprint-page,
+.toc-page,
+.part-page,
+.backmatter-page,
+.chapter {
+  break-after: page;
+}
+
+.cover-image-page {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 210mm;
+  height: 297mm;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: white;
+}
+
+.cover-image-fullpage {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.cover-title-page {
+  min-height: 257mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 14mm 16mm 16mm;
+  border: 2px solid var(--line-strong);
+  background:
+    radial-gradient(circle at top right, rgba(23, 59, 107, 0.16), transparent 28%),
+    linear-gradient(145deg, #ffffff 0%, #f7f9fc 100%);
+}
+
+.cover-badge {
+  align-self: flex-start;
+  margin-bottom: 7mm;
+  padding: 1.2mm 3.2mm;
+  border-radius: 999px;
+  background: var(--accent);
+  color: white;
+  font-size: 9pt;
+  font-weight: 700;
+}
+
+.cover-art {
+  position: relative;
+  height: 44mm;
+  margin-bottom: 9mm;
+  overflow: hidden;
+  border: 1px solid rgba(23, 59, 107, 0.14);
+  background: linear-gradient(135deg, rgba(23, 59, 107, 0.1), rgba(23, 59, 107, 0.02));
+}
+
+.cover-art-grid {
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(23, 59, 107, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(23, 59, 107, 0.08) 1px, transparent 1px);
+  background-size: 11mm 11mm;
+}
+
+.cover-art-ring {
+  position: absolute;
+  border: 2px solid rgba(23, 59, 107, 0.24);
+  border-radius: 50%;
+}
+
+.cover-art-ring-a {
+  width: 52mm;
+  height: 52mm;
+  top: -8mm;
+  left: 10mm;
+}
+
+.cover-art-ring-b {
+  width: 74mm;
+  height: 74mm;
+  bottom: -22mm;
+  right: 12mm;
+}
+
+.cover-title-page h1 {
+  margin: 0 0 10mm;
+  font-size: 24pt;
+  line-height: 1.35;
+  color: var(--accent);
+}
+
+.cover-title-page p {
+  margin: 0 0 5mm;
+  font-size: 12pt;
+}
+
+.cover-subtitle {
+  font-size: 13pt;
+  color: var(--muted);
+}
+
+.cover-meta-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2mm 6mm;
+  margin-bottom: 6mm;
+}
+
+.cover-meta-grid p,
+.cover-purpose {
+  font-size: 10.5pt;
+}
+
+.cover-title-page ul {
+  margin: 4mm 0 0;
+  padding-right: 5mm;
+}
+
+.imprint-page {
+  min-height: 257mm;
+  padding: 16mm;
+  border: 1px solid var(--line-strong);
+}
+
+.backmatter-page {
+  min-height: 257mm;
+  padding: 8mm 0 0;
+}
+
+.backmatter-page h1 {
+  margin: 0 0 8mm;
+  color: var(--accent);
+  font-size: 20pt;
+}
+
+.imprint-page h1 {
+  margin: 0 0 8mm;
+  color: var(--accent);
+  font-size: 20pt;
+}
+
+.imprint-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 3mm 8mm;
+  margin-bottom: 8mm;
+}
+
+.imprint-grid p,
+.imprint-note {
+  margin: 0 0 3mm;
+  font-size: 10.5pt;
+}
+
+.toc-page h1,
+.part-page h1,
+.chapter-title {
+  color: var(--accent);
+}
+
+.toc-page h1,
+.part-page h1 {
+  margin: 0 0 8mm;
+  font-size: 20pt;
+}
+
+.part-page {
+  min-height: 257mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 18mm 12mm;
+  border-top: 5px solid var(--accent);
+}
+
+.part-kind {
+  display: inline-block;
+  margin-bottom: 6mm;
+  color: var(--muted);
+  font-size: 10pt;
+  font-weight: 700;
+}
+
+.part-page p {
+  margin: 0;
+  font-size: 12pt;
+}
+
+.toc-section {
+  margin-bottom: 8mm;
+}
+
+.toc-section h2 {
+  margin: 0 0 3mm;
+  font-size: 13.5pt;
+}
+
+.toc-section-link {
+  color: var(--accent);
+}
+
+.toc-section ul {
+  margin: 0;
+  padding-right: 6mm;
+}
+
+.toc-section li {
+  margin-bottom: 1.5mm;
+}
+
+.toc-index {
+  display: inline-block;
+  min-width: 9mm;
+  margin-left: 2mm;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.toc-link {
+  display: inline-block;
+}
+
+.toc-link:hover,
+.toc-section-link:hover {
+  text-decoration: underline;
+}
+
+.chapter {
+  padding-top: 2mm;
+}
+
+.chapter-header {
+  margin-bottom: 7mm;
+  padding-bottom: 4mm;
+  border-bottom: 1px solid var(--line-strong);
+}
+
+.chapter-kicker {
+  color: var(--muted);
+  font-size: 9.5pt;
+  font-weight: 700;
+}
+
+.chapter-title {
+  margin: 2mm 0 2mm;
+  font-size: 18pt;
+  line-height: 1.35;
+}
+
+.chapter-number {
+  display: inline-block;
+  margin-top: 2mm;
+  margin-bottom: 2mm;
+  padding: 1mm 2.5mm;
+  border: 1px solid var(--line-strong);
+  color: var(--accent);
+  font-size: 9.5pt;
+  font-weight: 700;
+}
+
+.chapter-meta {
+  color: var(--muted);
+  font-size: 9.5pt;
+}
+
+.chapter-outline {
+  margin: 0 0 6mm;
+  padding: 3mm 4mm;
+  border: 1px solid var(--line);
+  background: #f8fafc;
+  break-inside: avoid;
+}
+
+.chapter-outline h2 {
+  margin: 0 0 2mm;
+  font-size: 11pt;
+  color: var(--accent);
+}
+
+.chapter-outline ul {
+  margin: 0;
+  padding-right: 5mm;
+}
+
+.chapter-outline li {
+  margin-bottom: 1mm;
+  font-size: 9.8pt;
+}
+
+.chapter-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3mm 5mm;
+  margin-top: 6mm;
+  padding-top: 3mm;
+  border-top: 1px dashed var(--line-strong);
+  font-size: 9.5pt;
+}
+
+.chapter-navigation a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.chapter-body h1 {
+  display: none;
+}
+
+.chapter-body h2,
+.chapter-body h3,
+.chapter-body h4 {
+  break-after: avoid;
+  break-inside: avoid;
+}
+
+.chapter-body h2 {
+  margin: 8mm 0 3mm;
+  padding-bottom: 1.5mm;
+  border-bottom: 1px solid var(--line);
+  font-size: 14.5pt;
+}
+
+.chapter-body h3 {
+  margin: 6mm 0 2mm;
+  font-size: 12.5pt;
+}
+
+.chapter-body h4 {
+  margin: 4mm 0 2mm;
+  font-size: 11.5pt;
+}
+
+.chapter-body p,
+.chapter-body ul,
+.chapter-body ol,
+.chapter-body table,
+.chapter-body blockquote {
+  margin: 0 0 4mm;
+}
+
+.chapter-body ul,
+.chapter-body ol {
+  padding-right: 6mm;
+}
+
+.chapter-body li {
+  margin-bottom: 1.4mm;
+}
+
+.chapter-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 9.3pt;
+  break-inside: avoid;
+}
+
+.chapter-body th,
+.chapter-body td {
+  border: 1px solid var(--line);
+  padding: 2.2mm 2.5mm;
+  vertical-align: top;
+}
+
+.chapter-body th {
+  background: var(--accent-soft);
+}
+
+.chapter-body blockquote {
+  margin-right: 0;
+  padding: 3mm 4mm;
+  border-right: 3px solid var(--accent);
+  background: #f7f9fc;
+}
+
+.chapter-summary,
+.chapter-references {
+  margin-top: 7mm;
+  padding: 4mm 4.5mm;
+  border: 1px solid var(--line);
+  break-inside: avoid;
+}
+
+.chapter-summary {
+  background: #fafbfd;
+}
+
+.chapter-references {
+  background: #fdfdfd;
+}
+
+.chapter-summary h2,
+.chapter-references h2 {
+  margin: 0 0 2mm;
+  font-size: 12pt;
+  color: var(--accent);
+}
+
+.chapter-summary p,
+.chapter-references p,
+.chapter-references li {
+  margin: 0 0 2mm;
+  font-size: 10pt;
+}
+
+.chapter-references ul {
+  margin: 0;
+  padding-right: 5mm;
+}
+
+.book-footer-note {
+  color: var(--muted);
+  font-size: 9pt;
+}
+
+.index-block {
+  margin-top: 8mm;
+  break-inside: avoid;
+}
+
+.index-block h2 {
+  margin: 0 0 3mm;
+  color: var(--accent);
+  font-size: 13pt;
+}
+
+.index-intro {
+  margin: 0 0 5mm;
+  color: var(--muted);
+  font-size: 10pt;
+}
+
+.index-list,
+.subject-index-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 4mm 6mm;
+}
+
+.index-entry,
+.subject-index-entry {
+  padding: 3mm 3.5mm;
+  border: 1px solid var(--line);
+  background: #fbfcfe;
+  break-inside: avoid;
+}
+
+.index-entry h3,
+.subject-index-entry h3 {
+  margin: 0 0 1.5mm;
+  font-size: 11pt;
+}
+
+.index-entry p,
+.subject-index-entry p {
+  margin: 0 0 1.5mm;
+  font-size: 9.5pt;
+}
+
+.index-english {
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.index-refs a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+@media screen {
+  body {
+    background: #e8ebf1;
+    padding: 12px;
+  }
+
+  .book {
+    width: 210mm;
+    min-height: 297mm;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 0 10px 32px rgba(0, 0, 0, 0.14);
+    padding: 0;
+  }
+}

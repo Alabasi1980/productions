@@ -165,3 +165,6 @@ const BOOK = {
     },
   ]
 };
+
+// Node.js compatibility (for build scripts)
+if (typeof module !== 'undefined') module.exports = BOOK;

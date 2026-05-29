@@ -1,0 +1,1385 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-28T20:19:51.334Z",
+  "domainId": "erp-production",
+  "contentPackId": "erp-production-v1",
+  "lessons": {
+    "m2": {
+      "id": "m2",
+      "title": "الخطة الرئيسية قبل الوظيفة",
+      "docType": "document",
+      "sourcePath": "01_الخطة_الرئيسية_قبل_الوظيفة.md",
+      "sectionId": "meta",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "foundational",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "m5": {
+      "id": "m5",
+      "title": "📖 القاموس التأسيسي",
+      "docType": "glossary",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "sectionId": "meta",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "foundational",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "p1-1": {
+      "id": "p1-1",
+      "title": "الدرس 1: جوهر الإنتاج في ERP",
+      "docType": "lesson",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "foundational",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 1: جوهر الإنتاج في ERP؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p1-2": {
+      "id": "p1-2",
+      "title": "الدرس 2: الخريطة الثنائية للمصطلحات",
+      "docType": "lesson",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/02_الدرس_02_الخريطة_الثنائية_للمصطلحات_الاساسية.md",
+      "sectionId": "part1",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "foundational",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 2: الخريطة الثنائية للمصطلحات؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p1-3": {
+      "id": "p1-3",
+      "title": "الدرس 3: الكيانات الرئيسية",
+      "docType": "lesson",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/03_الدرس_03_الكيانات_الرئيسية_في_موديول_الانتاج.md",
+      "sectionId": "part1",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "foundational",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 3: الكيانات الرئيسية؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p1-4": {
+      "id": "p1-4",
+      "title": "الدرس 4: الصورة الكاملة لدورة الإنتاج",
+      "docType": "lesson",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/04_الدرس_04_الصورة_الكاملة_لدورة_الانتاج.md",
+      "sectionId": "part1",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "foundational",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 4: الصورة الكاملة لدورة الإنتاج؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p1-t": {
+      "id": "p1-t",
+      "title": "🧪 اختبار الجزء الأول",
+      "docType": "test",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+      "sectionId": "part1",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما المفاهيم التي يجب أن أراجعها قبل محاولة هذا الاختبار؟"
+      ],
+      "recallPrompts": [
+        "ما الخطأ أو التردد الذي ظهر أثناء الاختبار؟"
+      ],
+      "reviewWeight": 1.25
+    },
+    "p2-1": {
+      "id": "p2-1",
+      "title": "الدرس 1: البيانات الأساسية Master Data",
+      "docType": "lesson",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/01_الدرس_01_البيانات_الاساسية_Master_Data.md",
+      "sectionId": "part2",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "foundational",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 1: البيانات الأساسية Master Data؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p2-2": {
+      "id": "p2-2",
+      "title": "الدرس 2: بنية المنتج BOM",
+      "docType": "lesson",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/02_الدرس_02_بنية_المنتج_BOM_Formula_Item_Structure.md",
+      "sectionId": "part2",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "foundational",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 2: بنية المنتج BOM؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p2-3": {
+      "id": "p2-3",
+      "title": "الدرس 3: طريقة التصنيع Route",
+      "docType": "lesson",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/03_الدرس_03_طريقة_التصنيع_Route_Work_Definition_Resources.md",
+      "sectionId": "part2",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "foundational",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 3: طريقة التصنيع Route؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p2-4": {
+      "id": "p2-4",
+      "title": "الدرس 4: النسخ والاعتماد والحوكمة",
+      "docType": "lesson",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/04_الدرس_04_النسخ_الاعتماد_والحوكمة_Versions_Approvals_Governance.md",
+      "sectionId": "part2",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "foundational",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 4: النسخ والاعتماد والحوكمة؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p2-t": {
+      "id": "p2-t",
+      "title": "🧪 اختبار الجزء الثاني",
+      "docType": "test",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+      "sectionId": "part2",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما المفاهيم التي يجب أن أراجعها قبل محاولة هذا الاختبار؟"
+      ],
+      "recallPrompts": [
+        "ما الخطأ أو التردد الذي ظهر أثناء الاختبار؟"
+      ],
+      "reviewWeight": 1.25
+    },
+    "p3-1": {
+      "id": "p3-1",
+      "title": "الدرس 1: من الطلب إلى أمر الإنتاج",
+      "docType": "lesson",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/01_الدرس_01_من_الطلب_الى_امر_الانتاج_Production_Order_and_Statuses.md",
+      "sectionId": "part3",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 1: من الطلب إلى أمر الإنتاج؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p3-2": {
+      "id": "p3-2",
+      "title": "الدرس 2: الإطلاق والبدء والصرف",
+      "docType": "lesson",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/02_الدرس_02_الاطلاق_والبدء_والصرف_Release_Start_Material_Issue.md",
+      "sectionId": "part3",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 2: الإطلاق والبدء والصرف؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p3-3": {
+      "id": "p3-3",
+      "title": "الدرس 3: تنفيذ العمليات والتأكيد",
+      "docType": "lesson",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/03_الدرس_03_تنفيذ_العمليات_والتأكيد_Operation_Execution_Confirmation.md",
+      "sectionId": "part3",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 3: تنفيذ العمليات والتأكيد؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p3-4": {
+      "id": "p3-4",
+      "title": "الدرس 4: استلام المنتج النهائي",
+      "docType": "lesson",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/04_الدرس_04_استلام_المنتج_النهائي_RAF_Product_Completion_Goods_Receipt.md",
+      "sectionId": "part3",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 4: استلام المنتج النهائي؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p3-5": {
+      "id": "p3-5",
+      "title": "الدرس 5: المرتجعات والهالك وإعادة التشغيل",
+      "docType": "lesson",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/05_الدرس_05_المرتجعات_والهالك_واعادة_التشغيل_Return_Scrap_Rework.md",
+      "sectionId": "part3",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 5: المرتجعات والهالك وإعادة التشغيل؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p3-6": {
+      "id": "p3-6",
+      "title": "الدرس 6: الإغلاق ونقل الأثر إلى WIP",
+      "docType": "lesson",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/06_الدرس_06_الاغلاق_ونقل_الاثر_الى_WIP_Variance_Close.md",
+      "sectionId": "part3",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 6: الإغلاق ونقل الأثر إلى WIP؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p3-t": {
+      "id": "p3-t",
+      "title": "🧪 اختبار الجزء الثالث",
+      "docType": "test",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+      "sectionId": "part3",
+      "skills": [
+        "erp-production-core",
+        "production-execution",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما المفاهيم التي يجب أن أراجعها قبل محاولة هذا الاختبار؟"
+      ],
+      "recallPrompts": [
+        "ما الخطأ أو التردد الذي ظهر أثناء الاختبار؟"
+      ],
+      "reviewWeight": 1.25
+    },
+    "p4-1": {
+      "id": "p4-1",
+      "title": "الدرس 1: كيف تتكون تكلفة المنتج",
+      "docType": "lesson",
+      "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/01_الدرس_01_كيف_تتكون_تكلفة_المنتج_Cost_Build_Up.md",
+      "sectionId": "part4",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 1: كيف تتكون تكلفة المنتج؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p4-2": {
+      "id": "p4-2",
+      "title": "الدرس 2: WIP وجسر الانتقال المالي",
+      "docType": "lesson",
+      "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/02_الدرس_02_WIP_وجسر_الانتقال_المالي_Work_in_Process.md",
+      "sectionId": "part4",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 2: WIP وجسر الانتقال المالي؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p4-3": {
+      "id": "p4-3",
+      "title": "الدرس 3: التكلفة المعيارية والفعلية",
+      "docType": "lesson",
+      "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/03_الدرس_03_التكلفة_المعيارية_والفعلية_Standard_vs_Actual_Cost.md",
+      "sectionId": "part4",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 3: التكلفة المعيارية والفعلية؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p4-4": {
+      "id": "p4-4",
+      "title": "الدرس 4: الانحرافات وكيف تقرأها",
+      "docType": "lesson",
+      "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/04_الدرس_04_الانحرافات_Variances_وكيف_تقرأها.md",
+      "sectionId": "part4",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 4: الانحرافات وكيف تقرأها؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p4-5": {
+      "id": "p4-5",
+      "title": "الدرس 5: التسوية والإغلاق والتقارير",
+      "docType": "lesson",
+      "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/05_الدرس_05_التسوية_والاغلاق_والتقارير_Settlement_Close_Reports.md",
+      "sectionId": "part4",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "intermediate",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 5: التسوية والإغلاق والتقارير؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p4-t": {
+      "id": "p4-t",
+      "title": "🧪 اختبار الجزء الرابع",
+      "docType": "test",
+      "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+      "sectionId": "part4",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما المفاهيم التي يجب أن أراجعها قبل محاولة هذا الاختبار؟"
+      ],
+      "recallPrompts": [
+        "ما الخطأ أو التردد الذي ظهر أثناء الاختبار؟"
+      ],
+      "reviewWeight": 1.25
+    },
+    "p5-1": {
+      "id": "p5-1",
+      "title": "الدرس 1: الجودة في التصنيع",
+      "docType": "lesson",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/01_الدرس_01_الجودة_في_التصنيع_Quality_in_Manufacturing.md",
+      "sectionId": "part5",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 1: الجودة في التصنيع؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p5-2": {
+      "id": "p5-2",
+      "title": "الدرس 2: التخطيط ومولد الطلب MRP",
+      "docType": "lesson",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/02_الدرس_02_التخطيط_ومولد_الطلب_Planning_MRP_Master_Planning.md",
+      "sectionId": "part5",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 2: التخطيط ومولد الطلب MRP؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p5-3": {
+      "id": "p5-3",
+      "title": "الدرس 3: الإنتاج للمخزون وحسب الطلب MTS/MTO",
+      "docType": "lesson",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/03_الدرس_03_الانتاج_للمخزون_والانتاج_حسب_الطلب_MTS_MTO.md",
+      "sectionId": "part5",
+      "skills": [
+        "erp-production-core",
+        "production-execution",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 3: الإنتاج للمخزون وحسب الطلب MTS/MTO؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p5-4": {
+      "id": "p5-4",
+      "title": "الدرس 4: التتبع بالدفعات والسيريال",
+      "docType": "lesson",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/04_الدرس_04_التتبع_بالدفعات_والسيريال_Lot_Serial_Traceability.md",
+      "sectionId": "part5",
+      "skills": [
+        "erp-production-core",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 4: التتبع بالدفعات والسيريال؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p5-5": {
+      "id": "p5-5",
+      "title": "الدرس 5: التصنيع متعدد المستويات",
+      "docType": "lesson",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/05_الدرس_05_التصنيع_متعدد_المستويات_والمخرجات_المتعددة_Multi_Level_Process_Outputs.md",
+      "sectionId": "part5",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 5: التصنيع متعدد المستويات؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p5-6": {
+      "id": "p5-6",
+      "title": "الدرس 6: الأنماط المتقدمة Discrete/Process/Lean",
+      "docType": "lesson",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/06_الدرس_06_الانماط_المتقدمة_Discrete_Process_Repetitive_Lean.md",
+      "sectionId": "part5",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 6: الأنماط المتقدمة Discrete/Process/Lean؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p5-7": {
+      "id": "p5-7",
+      "title": "الدرس 7: Subcontracting والتصنيع الخارجي",
+      "docType": "lesson",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/07_الدرس_07_Subcontracting_والتصنيع_الخارجي.md",
+      "sectionId": "part5",
+      "skills": [
+        "erp-production-core",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 7: Subcontracting والتصنيع الخارجي؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p5-t": {
+      "id": "p5-t",
+      "title": "🧪 اختبار الجزء الخامس",
+      "docType": "test",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+      "sectionId": "part5",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما المفاهيم التي يجب أن أراجعها قبل محاولة هذا الاختبار؟"
+      ],
+      "recallPrompts": [
+        "ما الخطأ أو التردد الذي ظهر أثناء الاختبار؟"
+      ],
+      "reviewWeight": 1.25
+    },
+    "p6-1": {
+      "id": "p6-1",
+      "title": "الدرس 1: كيف تقود Discovery فعلي",
+      "docType": "lesson",
+      "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/01_الدرس_01_كيف_تقود_Discovery_فعلي.md",
+      "sectionId": "part6",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 1: كيف تقود Discovery فعلي؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p6-2": {
+      "id": "p6-2",
+      "title": "الدرس 2: كيف تبني Gap Analysis",
+      "docType": "lesson",
+      "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/02_الدرس_02_كيف_تبني_Gap_Analysis_محترم.md",
+      "sectionId": "part6",
+      "skills": [
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 2: كيف تبني Gap Analysis؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p6-3": {
+      "id": "p6-3",
+      "title": "الدرس 3: الجاهزية وUAT وقرار Go/No-Go",
+      "docType": "lesson",
+      "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/03_الدرس_03_الجاهزية_وال_UAT_وقرار_Go_No_Go.md",
+      "sectionId": "part6",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 3: الجاهزية وUAT وقرار Go/No-Go؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p6-4": {
+      "id": "p6-4",
+      "title": "الدرس 4: الترجمة من وظيفي إلى تقني",
+      "docType": "lesson",
+      "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/04_الدرس_04_الترجمة_من_وظيفي_الى_تقني_Functional_to_Technical.md",
+      "sectionId": "part6",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 4: الترجمة من وظيفي إلى تقني؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p6-5": {
+      "id": "p6-5",
+      "title": "الدرس 5: علامات الفشل المبكر بعد Go-Live",
+      "docType": "lesson",
+      "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/05_الدرس_05_علامات_الفشل_المبكر_بعد_Go_Live.md",
+      "sectionId": "part6",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 5: علامات الفشل المبكر بعد Go-Live؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p6-6": {
+      "id": "p6-6",
+      "title": "الدرس 6: أول 30 يوم في استلام الموديول",
+      "docType": "lesson",
+      "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/06_الدرس_06_اول_30_يوما_في_استلام_الموديول.md",
+      "sectionId": "part6",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما الذي أتوقع أن أتعلمه من: الدرس 6: أول 30 يوم في استلام الموديول؟"
+      ],
+      "recallPrompts": [
+        "ما أهم فكرة أستطيع شرحها من هذا الدرس؟",
+        "ما المصطلح الإنجليزي أو المهني الذي يجب تثبيته؟"
+      ],
+      "reviewWeight": 1
+    },
+    "p6-t": {
+      "id": "p6-t",
+      "title": "🧪 اختبار الجزء السادس",
+      "docType": "test",
+      "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+      "sectionId": "part6",
+      "skills": [
+        "erp-production-core",
+        "costing-wip",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما المفاهيم التي يجب أن أراجعها قبل محاولة هذا الاختبار؟"
+      ],
+      "recallPrompts": [
+        "ما الخطأ أو التردد الذي ظهر أثناء الاختبار؟"
+      ],
+      "reviewWeight": 1.25
+    },
+    "ap-r1": {
+      "id": "ap-r1",
+      "title": "مصفوفة المفاهيم بين الأنظمة",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/01_مصفوفة_المفاهيم_الاساسية_بين_الانظمة.md",
+      "sectionId": "app-refs",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-r2": {
+      "id": "ap-r2",
+      "title": "قائمة مراجعة يومية",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/02_قائمة_مراجعة_يومية_لموديول_الانتاج.md",
+      "sectionId": "app-refs",
+      "skills": [
+        "erp-production-core",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-r3": {
+      "id": "ap-r3",
+      "title": "ورقة Discovery سريعة",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/03_ورقة_Discovery_سريعة_لموديول_الانتاج.md",
+      "sectionId": "app-refs",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-r4": {
+      "id": "ap-r4",
+      "title": "خريطة التقارير الأساسية",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/04_خريطة_التقارير_الاساسية_للمستشار.md",
+      "sectionId": "app-refs",
+      "skills": [
+        "erp-production-core",
+        "production-execution",
+        "costing-wip",
+        "quality-planning"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-r5": {
+      "id": "ap-r5",
+      "title": "خريطة تكامل موديول الإنتاج",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/05_خريطة_تكامل_موديول_الانتاج_مع_باقي_الموديولات.md",
+      "sectionId": "app-refs",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-r6": {
+      "id": "ap-r6",
+      "title": "مؤشرات الأداء KPIs",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/06_مؤشرات_الاداء_KPIs_في_الانتاج.md",
+      "sectionId": "app-refs",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-s1": {
+      "id": "ap-s1",
+      "title": "دراسة حالة مصنع مختلط",
+      "docType": "exercise",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/01_دراسة_حالة_مصنع_مختلط_Mixed_Model_Case_Study.md",
+      "sectionId": "app-scenarios",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-s2": {
+      "id": "ap-s2",
+      "title": "ثلاثة سيناريوهات إنتاج كاملة",
+      "docType": "exercise",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/02_ثلاثة_سيناريوهات_انتاج_كاملة_من_الطلب_الى_الاغلاق.md",
+      "sectionId": "app-scenarios",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-s3": {
+      "id": "ap-s3",
+      "title": "تمارين التشخيص",
+      "docType": "exercise",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/03_تمارين_التشخيص_Diagnosis_Exercises.md",
+      "sectionId": "app-scenarios",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-s4": {
+      "id": "ap-s4",
+      "title": "محادثات Discovery محاكاة",
+      "docType": "exercise",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/04_محادثات_Discovery_محاكاة.md",
+      "sectionId": "app-scenarios",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-s5": {
+      "id": "ap-s5",
+      "title": "تمارين قراءة التقارير",
+      "docType": "exercise",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/05_تمارين_قراءة_التقارير_Report_Reading_Exercises.md",
+      "sectionId": "app-scenarios",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-s6": {
+      "id": "ap-s6",
+      "title": "قالب تقييم نظام ERP محلي",
+      "docType": "exercise",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/06_قالب_تقييم_نظام_ERP_محلي_لموديول_الانتاج.md",
+      "sectionId": "app-scenarios",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-t1": {
+      "id": "ap-t1",
+      "title": "الاختبار التجميعي النهائي",
+      "docType": "test",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+      "sectionId": "app-tests",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما المفاهيم التي يجب أن أراجعها قبل محاولة هذا الاختبار؟"
+      ],
+      "recallPrompts": [
+        "ما الخطأ أو التردد الذي ظهر أثناء الاختبار؟"
+      ],
+      "reviewWeight": 1.25
+    },
+    "ap-t8": {
+      "id": "ap-t8",
+      "title": "اختبار الجاهزية المهني النهائي",
+      "docType": "test",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/08_اختبار_الجاهزية_المهني_النهائي.md",
+      "sectionId": "app-tests",
+      "skills": [
+        "erp-production-core",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [
+        "ما المفاهيم التي يجب أن أراجعها قبل محاولة هذا الاختبار؟"
+      ],
+      "recallPrompts": [
+        "ما الخطأ أو التردد الذي ظهر أثناء الاختبار؟"
+      ],
+      "reviewWeight": 1.25
+    },
+    "ap-o1": {
+      "id": "ap-o1",
+      "title": "قائمة ما قبل Go-Live",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/01_قائمة_ما_قبل_Go_Live_لموديول_الانتاج.md",
+      "sectionId": "app-tools",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-o2": {
+      "id": "ap-o2",
+      "title": "كتالوج أخطاء المستخدمين",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/02_كتالوج_اخطاء_المستخدمين_الشائعة.md",
+      "sectionId": "app-tools",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-o3": {
+      "id": "ap-o3",
+      "title": "إغلاق نهاية الشهر خطوة بخطوة",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/03_اغلاق_نهاية_الشهر_خطوة_بخطوة.md",
+      "sectionId": "app-tools",
+      "skills": [
+        "erp-production-core",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-o4": {
+      "id": "ap-o4",
+      "title": "دليل تدريب المستخدم النهائي",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/04_دليل_تدريب_المستخدم_النهائي.md",
+      "sectionId": "app-tools",
+      "skills": [
+        "erp-production-core",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-o5": {
+      "id": "ap-o5",
+      "title": "قالب كتابة طلب تطوير للمبرمج",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/05_قالب_كتابة_طلب_تطوير_للمبرمج.md",
+      "sectionId": "app-tools",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-o6": {
+      "id": "ap-o6",
+      "title": "تخطيط Data Migration وCutover",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/06_تخطيط_Data_Migration_وCutover_لموديول_الانتاج.md",
+      "sectionId": "app-tools",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "production-execution",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    },
+    "ap-st5": {
+      "id": "ap-st5",
+      "title": "برنامج تدريب عملي 4 أسابيع",
+      "docType": "reference",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/50_مسارات_الدراسة/05_برنامج_تدريب_عملي_لمدة_4_اسابيع.md",
+      "sectionId": "app-study",
+      "skills": [
+        "erp-production-core",
+        "master-data",
+        "costing-wip",
+        "quality-planning",
+        "consulting-readiness"
+      ],
+      "difficulty": "advanced",
+      "prerequisites": [],
+      "preReadingPrompts": [],
+      "recallPrompts": [],
+      "reviewWeight": 1
+    }
+  }
+}

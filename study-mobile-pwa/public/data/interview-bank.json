@@ -1,0 +1,230 @@
+{
+  "generatedAt": "2026-05-25T20:20:21.865Z",
+  "guides": [
+    {
+      "id": "ig-ما-الذي-يجعل-النظام-production-module-حقيقيًا؟",
+      "title": "ما الذي يجعل النظام Production Module حقيقيًا؟",
+      "matchKey": "ما الذي يجعل النظام production module حقيقيًا",
+      "points": [
+        "Master Data",
+        "Product structure",
+        "Production method",
+        "Order lifecycle",
+        "Material issue and execution control",
+        "Finished goods receipt",
+        "WIP and costing",
+        "Variance and closing",
+        "Reporting and governance"
+      ]
+    },
+    {
+      "id": "ig-الفرق-بين-demand-وplanned-order-وproduction-order",
+      "title": "الفرق بين Demand وPlanned Order وProduction Order",
+      "matchKey": "الفرق بين demand وplanned order وproduction order",
+      "points": [
+        "Demand هو الحاجة التجارية أو التخطيطية",
+        "Planned Order أو ما يعادله هو اقتراح تخطيطي",
+        "Production Order أو Work Order هو كائن تنفيذي",
+        "الخلط بينها يؤدي إلى سوء فهم التخطيط والتنفيذ والرقابة"
+      ]
+    },
+    {
+      "id": "ig-أثر-ضعف-master-data",
+      "title": "أثر ضعف Master Data",
+      "matchKey": "أثر ضعف master data",
+      "points": [
+        "MRP أو Master Planning",
+        "Material Issue",
+        "Operation execution",
+        "Costing",
+        "WIP",
+        "Variances",
+        "Quality and traceability عند الحاجة"
+      ]
+    },
+    {
+      "id": "ig-الفرق-بين-bom-وformula-وitem-structure-وroute-وrouting-وwork-definition",
+      "title": "الفرق بين BOM وFormula وItem Structure وRoute وRouting وWork Definition",
+      "matchKey": "الفرق بين bom وformula وitem structure وroute وrouting وwork definition",
+      "points": [
+        "BOM أو Item Structure أو Formula تجيب: ماذا يدخل في المنتج",
+        "Route أو Routing أو Work Definition تجيب: كيف يصنع المنتج",
+        "Formula وProcess concepts أوسع من BOM التقليدية",
+        "Work Definition في Oracle أكثر تركيبًا من مجرد BOM"
+      ]
+    },
+    {
+      "id": "ig-دورة-التنفيذ-الكاملة",
+      "title": "دورة التنفيذ الكاملة",
+      "matchKey": "دورة التنفيذ الكاملة",
+      "points": [
+        "Demand or plan",
+        "Planned order or supply recommendation",
+        "Production order or work order creation",
+        "Release",
+        "Start or first execution step",
+        "Material issue",
+        "Operation execution or confirmation",
+        "Product completion or goods receipt",
+        "Quality or exception handling",
+        "Close and cost settlement"
+      ]
+    },
+    {
+      "id": "ig-فهم-wip",
+      "title": "فهم WIP",
+      "matchKey": "فهم wip",
+      "points": [
+        "قيمة تحت التشغيل",
+        "يزيد مع المواد والموارد والتكاليف المحملة",
+        "ينخفض مع الاستلام والمرتجعات والتسوية",
+        "ليس رقمًا ماليًا فقط بل إشارة تشغيلية أيضًا"
+      ]
+    },
+    {
+      "id": "ig-standard-cost-vs-actual-cost",
+      "title": "Standard Cost vs Actual Cost",
+      "matchKey": "standard cost vs actual cost",
+      "points": [
+        "Standard Cost كمرجع معياري وتحليل للفروقات",
+        "Actual Cost كقيمة ناتجة عن الحركات الفعلية",
+        "أثر كل نموذج على المخزون والـ variances",
+        "أن القرار يعتمد على نضج البيانات وسياسة المؤسسة"
+      ]
+    },
+    {
+      "id": "ig-variance-وكيفية-قراءتها",
+      "title": "Variance وكيفية قراءتها",
+      "matchKey": "variance وكيفية قراءتها",
+      "points": [
+        "Variance ناتج عن Master Data",
+        "Variance ناتج عن Execution",
+        "Variance ناتج عن policy أو pricing"
+      ]
+    },
+    {
+      "id": "ig-quality-في-التصنيع",
+      "title": "Quality في التصنيع",
+      "matchKey": "quality في التصنيع",
+      "points": [
+        "قبل الصرف",
+        "أثناء التشغيل",
+        "بعد الاستلام",
+        "Inspection",
+        "Reject",
+        "Rework",
+        "Scrap",
+        "Availability",
+        "Lot/Serial traceability"
+      ]
+    },
+    {
+      "id": "ig-planning-وmrp",
+      "title": "Planning وMRP",
+      "matchKey": "planning وmrp",
+      "points": [
+        "أن التخطيط يولد supply suggestions أو planned orders",
+        "أن الأوامر التنفيذية لا يجب أن تخلق من فراغ",
+        "أن التخطيط يعتمد على demand والstock والlead times والlot sizes وغيرها",
+        "أن ضعف التخطيط يظهر لاحقًا كنقص أو فائض أو أوامر غير منطقية"
+      ]
+    },
+    {
+      "id": "ig-mts-وmto",
+      "title": "MTS وMTO",
+      "matchKey": "mts وmto",
+      "points": [
+        "MTS = إنتاج مسبق للمخزون",
+        "MTO = إنتاج مرتبط بطلب فعلي",
+        "أن البيئات المختلطة شائعة جدًا",
+        "أن الاختيار يؤثر على المخزون والخدمة والتخطيط"
+      ]
+    },
+    {
+      "id": "ig-lot-وserial-وtraceability",
+      "title": "Lot وSerial وTraceability",
+      "matchKey": "lot وserial وtraceability",
+      "points": [
+        "Lot للتتبع على مستوى الدفعة",
+        "Serial للتتبع على مستوى الوحدة",
+        "Traceability وGenealogy",
+        "أثر ذلك على الجودة والتحقيق والتكلفة والامتثال"
+      ]
+    },
+    {
+      "id": "ig-subassembly-وco-product-وby-product-وscrap",
+      "title": "Subassembly وCo-product وBy-product وScrap",
+      "matchKey": "subassembly وco-product وby-product وscrap",
+      "points": [
+        "Subassembly = مكوّن أو منتج وسيط يدخل في منتج أعلى",
+        "Co-product = مخرج رئيسي إضافي من نفس العملية",
+        "By-product = مخرج ثانوي ذي قيمة ما",
+        "Scrap = فقد أو مخرج غير مرغوب لا يعامل كمخرج إنتاجي طبيعي"
+      ]
+    },
+    {
+      "id": "ig-discovery",
+      "title": "Discovery",
+      "matchKey": "discovery",
+      "points": [
+        "process understanding",
+        "decisions",
+        "data requirements",
+        "gaps",
+        "reports",
+        "UAT scenarios",
+        "ownership"
+      ]
+    },
+    {
+      "id": "ig-الفرق-بين-training-وdata-وconfiguration-وgap",
+      "title": "الفرق بين Training وData وConfiguration وGap",
+      "matchKey": "الفرق بين training وdata وconfiguration وgap",
+      "points": [
+        "Training issue: النظام يدعم المطلوب لكن المستخدم أو الفريق لا يعرف كيف يعمل به",
+        "Data issue: البيانات ناقصة أو غير صحيحة",
+        "Configuration issue: الإعداد يمكنه حل المشكلة لكن لم يضبط بعد",
+        "Real gap: الاحتياج لا يغطيه النظام القياسي كما يجب"
+      ]
+    },
+    {
+      "id": "ig-uat-وgono-go",
+      "title": "UAT وGo/No-Go",
+      "matchKey": "uat وgo/no-go",
+      "points": [
+        "UAT ليس اختبار شاشة فقط",
+        "يجب أن يكون End-to-End",
+        "يجب إشراك الإنتاج والمستودعات والجودة والمالية",
+        "Go/No-Go قرار مبني على readiness وgaps والمخاطر"
+      ]
+    },
+    {
+      "id": "ig-functional-to-technical",
+      "title": "Functional to Technical",
+      "matchKey": "functional to technical",
+      "points": [
+        "business context",
+        "use case",
+        "inputs",
+        "rules",
+        "exceptions",
+        "outputs",
+        "owner",
+        "UAT proof of success"
+      ]
+    },
+    {
+      "id": "ig-أول-30-يومًا-في-استلام-الموديول",
+      "title": "أول 30 يومًا في استلام الموديول",
+      "matchKey": "أول 30 يومًا في استلام الموديول",
+      "points": [
+        "فهم الوضع الحالي",
+        "تصنيف المشكلات",
+        "قراءة التقارير",
+        "تحديد الأولويات",
+        "بناء backlog",
+        "منع القفز المبكر إلى التطوير"
+      ]
+    }
+  ]
+}

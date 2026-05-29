@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "domainId": "erp-production",
+  "contentPackId": "erp-production-v1",
+  "appTitle": "منهج موديول الإنتاج في ERP",
+  "trackTitle": "ERP Production and Manufacturing",
+  "locale": "ar",
+  "direction": "rtl",
+  "storagePrefix": "erp-production.erp-production-v1",
+  "readingWordsPerMinute": 170,
+  "features": {
+    "readingToc": true,
+    "readingProgress": true,
+    "fontControls": true,
+    "focusMode": true,
+    "glossaryTooltips": true,
+    "systemComparison": true,
+    "mockInterview": true,
+    "selfRating": false,
+    "reviewQueue": false,
+    "flashcards": true,
+    "quizzes": true
+  },
+  "terminology": {
+    "lesson": "درس",
+    "test": "اختبار",
+    "review": "مراجعة",
+    "completed": "منتهي",
+    "inProgress": "قيد الدراسة"
+  }
+}

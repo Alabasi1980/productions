@@ -1,0 +1,1056 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-28T20:19:54.112Z",
+  "domainId": "erp-production",
+  "contentPackId": "erp-production-v1",
+  "atomCount": 56,
+  "edgeCount": 53,
+  "atoms": [
+    {
+      "id": "gl-001",
+      "arabic": "الإنتاج",
+      "english": "Production",
+      "category": "مصطلحات الجوهر العام",
+      "definition": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع",
+      "sourceId": "m5",
+      "mentions": 354
+    },
+    {
+      "id": "gl-002",
+      "arabic": "التصنيع",
+      "english": "Manufacturing",
+      "category": "مصطلحات الجوهر العام",
+      "definition": "الإطار الأوسع لعمليات الإنتاج الصناعية",
+      "sourceId": "m5",
+      "mentions": 71
+    },
+    {
+      "id": "gl-003",
+      "arabic": "موديول الإنتاج",
+      "english": "Production Module",
+      "category": "مصطلحات الجوهر العام",
+      "definition": "الجزء المسؤول عن دورة الإنتاج داخل ERP",
+      "sourceId": "m5",
+      "mentions": 49
+    },
+    {
+      "id": "gl-004",
+      "arabic": "البيانات الأساسية",
+      "english": "Master Data",
+      "category": "مصطلحات الجوهر العام",
+      "definition": "البيانات الثابتة التي تقوم عليها دورة الإنتاج",
+      "sourceId": "m5",
+      "mentions": 101
+    },
+    {
+      "id": "gl-005",
+      "arabic": "المنتج النهائي",
+      "english": "Finished Good",
+      "category": "مصطلحات الجوهر العام",
+      "definition": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي",
+      "sourceId": "m5",
+      "mentions": 45
+    },
+    {
+      "id": "gl-006",
+      "arabic": "مادة خام",
+      "english": "Raw Material",
+      "category": "مصطلحات الجوهر العام",
+      "definition": "مادة تدخل في تصنيع المنتج",
+      "sourceId": "m5",
+      "mentions": 9
+    },
+    {
+      "id": "gl-007",
+      "arabic": "منتج نصف مصنع",
+      "english": "Semi-finished Good / Subassembly",
+      "category": "مصطلحات الجوهر العام",
+      "definition": "منتج وسيط قد يكون Input لأمر آخر",
+      "sourceId": "m5",
+      "mentions": 2
+    },
+    {
+      "id": "gl-008",
+      "arabic": "وحدة القياس",
+      "english": "Unit of Measure (UoM)",
+      "category": "مصطلحات الجوهر العام",
+      "definition": "الوحدة المستخدمة للكميات مثل قطعة أو كجم",
+      "sourceId": "m5",
+      "mentions": 5
+    },
+    {
+      "id": "gl-009",
+      "arabic": "مستودع",
+      "english": "Warehouse",
+      "category": "مصطلحات الجوهر العام",
+      "definition": "المكان المنطقي أو الفعلي لتخزين المواد",
+      "sourceId": "m5",
+      "mentions": 12
+    },
+    {
+      "id": "gl-010",
+      "arabic": "موقع",
+      "english": "Location / Locator",
+      "category": "مصطلحات الجوهر العام",
+      "definition": "موضع داخلي أدق من المستودع",
+      "sourceId": "m5",
+      "mentions": 9
+    },
+    {
+      "id": "gl-011",
+      "arabic": "قائمة المواد",
+      "english": "Bill of Material (BOM)",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "قائمة المكونات والكميات المطلوبة لتصنيع المنتج",
+      "sourceId": "m5",
+      "mentions": 0
+    },
+    {
+      "id": "gl-012",
+      "arabic": "وصفة",
+      "english": "Formula",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي",
+      "sourceId": "m5",
+      "mentions": 28
+    },
+    {
+      "id": "gl-013",
+      "arabic": "هيكل الصنف",
+      "english": "Item Structure",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "مصطلح Oracle للبنية المادية للمنتج",
+      "sourceId": "m5",
+      "mentions": 21
+    },
+    {
+      "id": "gl-014",
+      "arabic": "مسار التصنيع",
+      "english": "Route / Routing",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "الخطوات التي يمر بها المنتج أثناء التصنيع",
+      "sourceId": "m5",
+      "mentions": 6
+    },
+    {
+      "id": "gl-015",
+      "arabic": "عملية",
+      "english": "Operation",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "خطوة تشغيلية داخل Route أو Work Definition",
+      "sourceId": "m5",
+      "mentions": 79
+    },
+    {
+      "id": "gl-016",
+      "arabic": "مورد",
+      "english": "Resource",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ",
+      "sourceId": "m5",
+      "mentions": 24
+    },
+    {
+      "id": "gl-017",
+      "arabic": "مركز عمل",
+      "english": "Work Center",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "مكان أو وحدة تنفيذ للعمليات",
+      "sourceId": "m5",
+      "mentions": 10
+    },
+    {
+      "id": "gl-018",
+      "arabic": "تعريف العمل",
+      "english": "Work Definition",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "قالب Oracle الذي يجمع المواد والعمليات والموارد",
+      "sourceId": "m5",
+      "mentions": 65
+    },
+    {
+      "id": "gl-019",
+      "arabic": "هالك",
+      "english": "Scrap",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "فاقد في المواد أو المنتج أو العملية",
+      "sourceId": "m5",
+      "mentions": 89
+    },
+    {
+      "id": "gl-020",
+      "arabic": "منتج جانبي",
+      "english": "By-product",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "مخرج ثانوي ينتج مع المنتج الرئيسي",
+      "sourceId": "m5",
+      "mentions": 4
+    },
+    {
+      "id": "gl-021",
+      "arabic": "منتج مشترك",
+      "english": "Co-product",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "definition": "مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة",
+      "sourceId": "m5",
+      "mentions": 19
+    },
+    {
+      "id": "gl-022",
+      "arabic": "أمر إنتاج",
+      "english": "Production Order",
+      "category": "مصطلحات التنفيذ",
+      "definition": "أمر تنفيذ إنتاج في كثير من الأنظمة",
+      "sourceId": "m5",
+      "mentions": 70
+    },
+    {
+      "id": "gl-023",
+      "arabic": "أمر عمل",
+      "english": "Work Order",
+      "category": "مصطلحات التنفيذ",
+      "definition": "المصطلح التنفيذي الشائع خاصة في Oracle",
+      "sourceId": "m5",
+      "mentions": 40
+    },
+    {
+      "id": "gl-024",
+      "arabic": "إنشاء",
+      "english": "Created",
+      "category": "مصطلحات التنفيذ",
+      "definition": "حالة إنشاء الأمر قبل التنفيذ",
+      "sourceId": "m5",
+      "mentions": 25
+    },
+    {
+      "id": "gl-025",
+      "arabic": "إطلاق",
+      "english": "Released",
+      "category": "مصطلحات التنفيذ",
+      "definition": "حالة يصبح فيها الأمر جاهزًا للتنفيذ",
+      "sourceId": "m5",
+      "mentions": 22
+    },
+    {
+      "id": "gl-026",
+      "arabic": "بدء",
+      "english": "Started",
+      "category": "مصطلحات التنفيذ",
+      "definition": "بدء التنفيذ الفعلي للأمر",
+      "sourceId": "m5",
+      "mentions": 20
+    },
+    {
+      "id": "gl-027",
+      "arabic": "صرف مواد",
+      "english": "Material Issue / Goods Issue",
+      "category": "مصطلحات التنفيذ",
+      "definition": "إخراج المواد من المخزون إلى الإنتاج",
+      "sourceId": "m5",
+      "mentions": 16
+    },
+    {
+      "id": "gl-028",
+      "arabic": "تسجيل تشغيل",
+      "english": "Operation Execution / Reporting",
+      "category": "مصطلحات التنفيذ",
+      "definition": "تسجيل العمل أو الوقت أو التقدم",
+      "sourceId": "m5",
+      "mentions": 1
+    },
+    {
+      "id": "gl-029",
+      "arabic": "استلام منتج نهائي",
+      "english": "Finished Goods Receipt",
+      "category": "مصطلحات التنفيذ",
+      "definition": "دخول المنتج النهائي إلى المخزون",
+      "sourceId": "m5",
+      "mentions": 20
+    },
+    {
+      "id": "gl-030",
+      "arabic": "إكمال المنتج",
+      "english": "Product Completion",
+      "category": "مصطلحات التنفيذ",
+      "definition": "مصطلح Oracle لاستلام المنتج الناتج",
+      "sourceId": "m5",
+      "mentions": 29
+    },
+    {
+      "id": "gl-031",
+      "arabic": "الإبلاغ كمنجز",
+      "english": "Report as Finished",
+      "category": "مصطلحات التنفيذ",
+      "definition": "مصطلح Dynamics لإثبات إنجاز المنتج",
+      "sourceId": "m5",
+      "mentions": 22
+    },
+    {
+      "id": "gl-032",
+      "arabic": "إرجاع مواد",
+      "english": "Material Return",
+      "category": "مصطلحات التنفيذ",
+      "definition": "إعادة مواد من الأمر إلى المخزون",
+      "sourceId": "m5",
+      "mentions": 10
+    },
+    {
+      "id": "gl-033",
+      "arabic": "إغلاق",
+      "english": "Close / Closing",
+      "category": "مصطلحات التنفيذ",
+      "definition": "حسم الأمر تشغيليًا وماليًا بحسب النظام",
+      "sourceId": "m5",
+      "mentions": 18
+    },
+    {
+      "id": "gl-034",
+      "arabic": "تكلفة مقدرة",
+      "english": "Estimated Cost",
+      "category": "مصطلحات التكلفة والرقابة",
+      "definition": "تكلفة محسوبة قبل أو أثناء التنفيذ كمؤشر متوقع",
+      "sourceId": "m5",
+      "mentions": 7
+    },
+    {
+      "id": "gl-035",
+      "arabic": "تكلفة معيارية",
+      "english": "Standard Cost",
+      "category": "مصطلحات التكلفة والرقابة",
+      "definition": "تكلفة مرجعية ثابتة أو معتمدة للمقارنة",
+      "sourceId": "m5",
+      "mentions": 34
+    },
+    {
+      "id": "gl-036",
+      "arabic": "تكلفة فعلية",
+      "english": "Actual Cost",
+      "category": "مصطلحات التكلفة والرقابة",
+      "definition": "التكلفة الحقيقية المبنية على الحركات الفعلية",
+      "sourceId": "m5",
+      "mentions": 19
+    },
+    {
+      "id": "gl-037",
+      "arabic": "تكلفة تحت التشغيل",
+      "english": "Work in Process (WIP)",
+      "category": "مصطلحات التكلفة والرقابة",
+      "definition": "قيمة ما صُرف أو سُجل على أمر لم يكتمل إغلاقه",
+      "sourceId": "m5",
+      "mentions": 4
+    },
+    {
+      "id": "gl-038",
+      "arabic": "انحراف",
+      "english": "Variance",
+      "category": "مصطلحات التكلفة والرقابة",
+      "definition": "الفرق بين المتوقع والمعياري والفعلي",
+      "sourceId": "m5",
+      "mentions": 110
+    },
+    {
+      "id": "gl-039",
+      "arabic": "تحميل تكلفة",
+      "english": "Cost Posting / Cost Charging",
+      "category": "مصطلحات التكلفة والرقابة",
+      "definition": "ربط حدث تشغيلي بأثر تكلفة",
+      "sourceId": "m5",
+      "mentions": 0
+    },
+    {
+      "id": "gl-040",
+      "arabic": "توزيع تكلفة",
+      "english": "Cost Distribution",
+      "category": "مصطلحات التكلفة والرقابة",
+      "definition": "مصطلح Oracle لتحليل وربط التكلفة بالحركات",
+      "sourceId": "m5",
+      "mentions": 5
+    },
+    {
+      "id": "gl-041",
+      "arabic": "إغلاق الفترة",
+      "english": "Period Close",
+      "category": "مصطلحات التكلفة والرقابة",
+      "definition": "إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة",
+      "sourceId": "m5",
+      "mentions": 5
+    },
+    {
+      "id": "gl-042",
+      "arabic": "تقارير رقابية",
+      "english": "Control Reports",
+      "category": "مصطلحات التكلفة والرقابة",
+      "definition": "تقارير لمتابعة الانحرافات والأوامر المفتوحة وWIP",
+      "sourceId": "m5",
+      "mentions": 3
+    },
+    {
+      "id": "gl-043",
+      "arabic": "جودة",
+      "english": "Quality",
+      "category": "مصطلحات الجودة والتتبع",
+      "definition": "التحقق من مطابقة المنتج أو العملية للمطلوب",
+      "sourceId": "m5",
+      "mentions": 139
+    },
+    {
+      "id": "gl-044",
+      "arabic": "أمر جودة",
+      "english": "Quality Order",
+      "category": "مصطلحات الجودة والتتبع",
+      "definition": "كيان رقابي في بعض الأنظمة لفحص الجودة",
+      "sourceId": "m5",
+      "mentions": 2
+    },
+    {
+      "id": "gl-045",
+      "arabic": "مشكلة جودة",
+      "english": "Quality Issue",
+      "category": "مصطلحات الجودة والتتبع",
+      "definition": "حالة انحراف أو خلل يحتاج متابعة",
+      "sourceId": "m5",
+      "mentions": 5
+    },
+    {
+      "id": "gl-046",
+      "arabic": "دفعة",
+      "english": "Lot / Batch",
+      "category": "مصطلحات الجودة والتتبع",
+      "definition": "مجموعة متتبعة من مادة أو منتج",
+      "sourceId": "m5",
+      "mentions": 8
+    },
+    {
+      "id": "gl-047",
+      "arabic": "رقم تسلسلي",
+      "english": "Serial Number",
+      "category": "مصطلحات الجودة والتتبع",
+      "definition": "معرف منفرد لوحدة محددة",
+      "sourceId": "m5",
+      "mentions": 3
+    },
+    {
+      "id": "gl-048",
+      "arabic": "تتبع",
+      "english": "Traceability",
+      "category": "مصطلحات الجودة والتتبع",
+      "definition": "القدرة على تتبع المادة أو المنتج عبر الدورة",
+      "sourceId": "m5",
+      "mentions": 64
+    },
+    {
+      "id": "gl-049",
+      "arabic": "إعادة تشغيل",
+      "english": "Rework",
+      "category": "مصطلحات الجودة والتتبع",
+      "definition": "إعادة معالجة منتج أو كمية غير مطابقة",
+      "sourceId": "m5",
+      "mentions": 61
+    },
+    {
+      "id": "gl-050",
+      "arabic": "رفض",
+      "english": "Reject",
+      "category": "مصطلحات الجودة والتتبع",
+      "definition": "كمية مرفوضة لا تقبل كمنتج جيد",
+      "sourceId": "m5",
+      "mentions": 10
+    },
+    {
+      "id": "gl-051",
+      "arabic": "تحليل الفجوات",
+      "english": "Gap Analysis",
+      "category": "مصطلحات استشارية مهمة",
+      "definition": "مقارنة النظام الحالي بالمرجع المطلوب",
+      "sourceId": "m5",
+      "mentions": 6
+    },
+    {
+      "id": "gl-052",
+      "arabic": "متطلب وظيفي",
+      "english": "Functional Requirement",
+      "category": "مصطلحات استشارية مهمة",
+      "definition": "ما يجب أن يحققه النظام من منظور العمل",
+      "sourceId": "m5",
+      "mentions": 1
+    },
+    {
+      "id": "gl-053",
+      "arabic": "تصميم وظيفي إلى تقني",
+      "english": "Functional to Technical Design",
+      "category": "مصطلحات استشارية مهمة",
+      "definition": "ترجمة المنطق الوظيفي إلى منطق قابل للتطوير",
+      "sourceId": "m5",
+      "mentions": 0
+    },
+    {
+      "id": "gl-054",
+      "arabic": "جاهزية التطبيق",
+      "english": "Implementation Readiness",
+      "category": "مصطلحات استشارية مهمة",
+      "definition": "مدى استعداد البيانات والإعدادات والفرق للتشغيل",
+      "sourceId": "m5",
+      "mentions": 1
+    },
+    {
+      "id": "gl-055",
+      "arabic": "اختبار قبول المستخدم",
+      "english": "User Acceptance Testing (UAT)",
+      "category": "مصطلحات استشارية مهمة",
+      "definition": "اختبار الدورة الحقيقية قبل التشغيل الرسمي",
+      "sourceId": "m5",
+      "mentions": 0
+    },
+    {
+      "id": "gl-056",
+      "arabic": "تشغيل فعلي",
+      "english": "Go-Live",
+      "category": "مصطلحات استشارية مهمة",
+      "definition": "بداية استخدام النظام في الواقع",
+      "sourceId": "m5",
+      "mentions": 35
+    }
+  ],
+  "edges": [
+    {
+      "from": "gl-001",
+      "to": "gl-022",
+      "weight": 58,
+      "sources": [
+        "m1",
+        "m4",
+        "p1-1",
+        "p1-2",
+        "p1-3"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-003",
+      "weight": 49,
+      "sources": [
+        "m2",
+        "m4",
+        "p1-0",
+        "p1-1",
+        "p1-2"
+      ]
+    },
+    {
+      "from": "gl-019",
+      "to": "gl-049",
+      "weight": 27,
+      "sources": [
+        "m4",
+        "p1-2",
+        "p1-4",
+        "p3-3",
+        "p3-5"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-023",
+      "weight": 22,
+      "sources": [
+        "m4",
+        "p1-1",
+        "p1-2",
+        "p1-3",
+        "p1-4"
+      ]
+    },
+    {
+      "from": "gl-022",
+      "to": "gl-023",
+      "weight": 22,
+      "sources": [
+        "m4",
+        "p1-1",
+        "p1-2",
+        "p1-3",
+        "p1-4"
+      ]
+    },
+    {
+      "from": "gl-043",
+      "to": "gl-048",
+      "weight": 10,
+      "sources": [
+        "p5-4",
+        "ap-s2",
+        "ap-s3",
+        "ap-s6",
+        "ap-t2"
+      ]
+    },
+    {
+      "from": "gl-029",
+      "to": "gl-030",
+      "weight": 9,
+      "sources": [
+        "m4",
+        "p1-1",
+        "p1-3",
+        "p1-4",
+        "p3-4"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-024",
+      "weight": 9,
+      "sources": [
+        "p1-4",
+        "p2-1",
+        "p2-t",
+        "p3-0",
+        "p3-1"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-004",
+      "weight": 8,
+      "sources": [
+        "m2",
+        "p2-1",
+        "p2-t",
+        "p4-t",
+        "ap-st1"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-002",
+      "weight": 7,
+      "sources": [
+        "m1",
+        "p1-1",
+        "p1-3",
+        "p1-4",
+        "p5-1"
+      ]
+    },
+    {
+      "from": "gl-012",
+      "to": "gl-013",
+      "weight": 7,
+      "sources": [
+        "m4",
+        "p1-4",
+        "p2-2",
+        "ap-t2",
+        "ap-t9"
+      ]
+    },
+    {
+      "from": "gl-049",
+      "to": "gl-050",
+      "weight": 7,
+      "sources": [
+        "p1-2",
+        "p5-1",
+        "p6-1",
+        "ap-r3",
+        "ap-r4"
+      ]
+    },
+    {
+      "from": "gl-035",
+      "to": "gl-036",
+      "weight": 7,
+      "sources": [
+        "p2-3",
+        "p4-1",
+        "p4-3",
+        "ap-r3",
+        "ap-r5"
+      ]
+    },
+    {
+      "from": "gl-030",
+      "to": "gl-031",
+      "weight": 6,
+      "sources": [
+        "m3",
+        "p1-1",
+        "p1-3",
+        "p1-4",
+        "p3-4"
+      ]
+    },
+    {
+      "from": "gl-022",
+      "to": "gl-024",
+      "weight": 6,
+      "sources": [
+        "p1-4",
+        "p2-1",
+        "p3-0",
+        "p3-1",
+        "ap-s2"
+      ]
+    },
+    {
+      "from": "gl-025",
+      "to": "gl-026",
+      "weight": 6,
+      "sources": [
+        "ap-r4",
+        "ap-s3",
+        "ap-t3",
+        "ap-t4",
+        "ap-o2"
+      ]
+    },
+    {
+      "from": "gl-029",
+      "to": "gl-031",
+      "weight": 5,
+      "sources": [
+        "p1-1",
+        "p1-3",
+        "p1-4",
+        "p3-4"
+      ]
+    },
+    {
+      "from": "gl-043",
+      "to": "gl-045",
+      "weight": 5,
+      "sources": [
+        "p1-3",
+        "p4-1",
+        "p5-4",
+        "ap-s4"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-043",
+      "weight": 5,
+      "sources": [
+        "p2-1",
+        "p5-0",
+        "p5-1",
+        "p5-t",
+        "ap-t1"
+      ]
+    },
+    {
+      "from": "gl-002",
+      "to": "gl-043",
+      "weight": 4,
+      "sources": [
+        "m4",
+        "p5-1",
+        "ap-t2"
+      ]
+    },
+    {
+      "from": "gl-005",
+      "to": "gl-030",
+      "weight": 4,
+      "sources": [
+        "p1-1",
+        "p3-4",
+        "ap-t3"
+      ]
+    },
+    {
+      "from": "gl-019",
+      "to": "gl-050",
+      "weight": 4,
+      "sources": [
+        "p1-2",
+        "p5-1",
+        "ap-r3",
+        "ap-r4"
+      ]
+    },
+    {
+      "from": "gl-002",
+      "to": "gl-018",
+      "weight": 4,
+      "sources": [
+        "p1-3",
+        "p2-3",
+        "ap-t3"
+      ]
+    },
+    {
+      "from": "gl-004",
+      "to": "gl-038",
+      "weight": 4,
+      "sources": [
+        "p4-4",
+        "ap-t1",
+        "ap-t2",
+        "ap-st1"
+      ]
+    },
+    {
+      "from": "gl-015",
+      "to": "gl-016",
+      "weight": 3,
+      "sources": [
+        "p1-1",
+        "p1-4",
+        "p2-3"
+      ]
+    },
+    {
+      "from": "gl-023",
+      "to": "gl-024",
+      "weight": 3,
+      "sources": [
+        "p1-4",
+        "p2-1",
+        "p3-0"
+      ]
+    },
+    {
+      "from": "gl-003",
+      "to": "gl-043",
+      "weight": 3,
+      "sources": [
+        "p2-1",
+        "p5-0",
+        "p5-1"
+      ]
+    },
+    {
+      "from": "gl-002",
+      "to": "gl-012",
+      "weight": 3,
+      "sources": [
+        "p2-2",
+        "p5-5"
+      ]
+    },
+    {
+      "from": "gl-015",
+      "to": "gl-019",
+      "weight": 3,
+      "sources": [
+        "p2-2",
+        "p3-5",
+        "p4-4"
+      ]
+    },
+    {
+      "from": "gl-024",
+      "to": "gl-026",
+      "weight": 3,
+      "sources": [
+        "ap-t3"
+      ]
+    },
+    {
+      "from": "gl-015",
+      "to": "gl-043",
+      "weight": 2,
+      "sources": [
+        "m4",
+        "ap-s5"
+      ]
+    },
+    {
+      "from": "gl-005",
+      "to": "gl-029",
+      "weight": 2,
+      "sources": [
+        "p1-1",
+        "p3-4"
+      ]
+    },
+    {
+      "from": "gl-005",
+      "to": "gl-031",
+      "weight": 2,
+      "sources": [
+        "p1-1",
+        "p3-4"
+      ]
+    },
+    {
+      "from": "gl-005",
+      "to": "gl-043",
+      "weight": 2,
+      "sources": [
+        "p1-1",
+        "p3-4"
+      ]
+    },
+    {
+      "from": "gl-005",
+      "to": "gl-007",
+      "weight": 2,
+      "sources": [
+        "p1-2",
+        "p2-1"
+      ]
+    },
+    {
+      "from": "gl-043",
+      "to": "gl-044",
+      "weight": 2,
+      "sources": [
+        "p1-3",
+        "p5-1"
+      ]
+    },
+    {
+      "from": "gl-036",
+      "to": "gl-038",
+      "weight": 2,
+      "sources": [
+        "p1-4",
+        "p4-3"
+      ]
+    },
+    {
+      "from": "gl-003",
+      "to": "gl-004",
+      "weight": 2,
+      "sources": [
+        "p2-1",
+        "p2-t"
+      ]
+    },
+    {
+      "from": "gl-002",
+      "to": "gl-004",
+      "weight": 2,
+      "sources": [
+        "p2-1",
+        "ap-t3"
+      ]
+    },
+    {
+      "from": "gl-009",
+      "to": "gl-010",
+      "weight": 2,
+      "sources": [
+        "p2-1",
+        "ap-r5"
+      ]
+    },
+    {
+      "from": "gl-020",
+      "to": "gl-021",
+      "weight": 2,
+      "sources": [
+        "p2-2",
+        "ap-t3"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-027",
+      "weight": 2,
+      "sources": [
+        "p3-3",
+        "ap-t3"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-015",
+      "weight": 2,
+      "sources": [
+        "p3-3",
+        "p6-6"
+      ]
+    },
+    {
+      "from": "gl-005",
+      "to": "gl-019",
+      "weight": 2,
+      "sources": [
+        "p3-5"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-049",
+      "weight": 2,
+      "sources": [
+        "p3-5",
+        "ap-o2"
+      ]
+    },
+    {
+      "from": "gl-019",
+      "to": "gl-038",
+      "weight": 2,
+      "sources": [
+        "p3-6",
+        "ap-t6"
+      ]
+    },
+    {
+      "from": "gl-004",
+      "to": "gl-019",
+      "weight": 2,
+      "sources": [
+        "p4-4",
+        "ap-o2"
+      ]
+    },
+    {
+      "from": "gl-015",
+      "to": "gl-049",
+      "weight": 2,
+      "sources": [
+        "p5-1",
+        "ap-t4"
+      ]
+    },
+    {
+      "from": "gl-015",
+      "to": "gl-026",
+      "weight": 2,
+      "sources": [
+        "ap-s3",
+        "ap-t4"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-006",
+      "weight": 2,
+      "sources": [
+        "ap-s5",
+        "ap-t4"
+      ]
+    },
+    {
+      "from": "gl-003",
+      "to": "gl-022",
+      "weight": 2,
+      "sources": [
+        "ap-t1",
+        "ap-t3"
+      ]
+    },
+    {
+      "from": "gl-019",
+      "to": "gl-021",
+      "weight": 2,
+      "sources": [
+        "ap-t6"
+      ]
+    },
+    {
+      "from": "gl-001",
+      "to": "gl-033",
+      "weight": 2,
+      "sources": [
+        "ap-t9",
+        "ap-o3"
+      ]
+    }
+  ]
+}

@@ -4,8 +4,17 @@ import { registerSW } from 'virtual:pwa-register'
 import './index.css'
 import App from './App.tsx'
 
-registerSW({
+const updateSW = registerSW({
   immediate: true,
+  onNeedRefresh() {
+    updateSW(true)
+  },
+  onOfflineReady() {
+    updateSW(true)
+  },
+  onRegisteredSW(_swUrl, registration) {
+    registration?.update()
+  },
 })
 
 createRoot(document.getElementById('root')!).render(

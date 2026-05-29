@@ -7,7 +7,9 @@
       "PowerShell(Get-ChildItem -Path \"d:\\\\New Work\\\\productions\\\\00_مسار الدراسة المهنية\" -Recurse | ForEach-Object { if \\($_.PSIsContainer\\) { \"[DIR]  $\\($_.FullName\\)\" } else { \"[FILE] $\\($_.FullName\\)\" } })",
       "Bash(Get-ChildItem -Path \"d:\\\\New Work\\\\productions\\\\00_مسار الدراسة المهنية\" -Recurse -File)",
       "Bash(Select-Object FullName)",
-      "Bash(Sort-Object FullName)"
+      "Bash(Sort-Object FullName)",
+      "Bash(python -m http.server 8765)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8765/)"
     ]
   }
 }

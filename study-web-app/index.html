@@ -13,7 +13,7 @@
 
   <!-- Top bar -->
   <header id="topbar">
-    <div class="topbar-group">
+    <div class="topbar-group topbar-brand">
       <button id="btn-toggle-sidebar" title="إخفاء/إظهار القائمة" aria-label="تبديل القائمة الجانبية">☰</button>
       <span id="book-title">منهج موديول الإنتاج في ERP</span>
     </div>
@@ -23,9 +23,33 @@
       </div>
       <span id="progress-text">0%</span>
     </div>
-    <div class="topbar-group">
+    <div class="topbar-group topbar-mobile-trigger">
+      <button id="btn-mobile-tools" title="أدوات سريعة" aria-label="فتح أدوات التطبيق">⋯</button>
+    </div>
+    <div class="topbar-group topbar-actions" id="topbar-actions">
+      <div id="mobile-reading-tools" class="mobile-reading-tools hidden">
+        <div class="mobile-tools-section-title">أدوات القراءة</div>
+        <div id="mobile-reading-tools-slot"></div>
+      </div>
+      <button id="btn-dashboard" title="لوحة الدراسة">Dashboard</button>
+      <button id="btn-ai" title="المساعد الذكي الهجين">AI</button>
       <button id="btn-search" title="بحث في المحتوى (Ctrl+K)">🔍</button>
-      <button id="btn-notes" title="ملاحظاتي على هذا الدرس">📝</button>
+      <button id="btn-notes" title="دفتر الملاحظات والأسئلة" aria-label="فتح دفتر الملاحظات والأسئلة">
+        <span class="topbar-btn-icon">📝</span>
+        <span class="topbar-btn-label">دفتر</span>
+        <span class="topbar-btn-count" data-notes-count>0</span>
+      </button>
+      <button id="btn-cards" title="البطاقات التعليمية">Cards</button>
+      <button id="btn-quiz" title="الاختبارات">Quiz</button>
+      <button id="btn-systems" title="مقارنة الأنظمة">Systems</button>
+      <button id="btn-interview" title="محاكي المقابلة">Interview</button>
+      <button id="btn-cheatsheets" title="ورقة المراجعة السريعة">📄</button>
+      <button id="btn-mindmap" title="خريطة المفاهيم">🧭</button>
+      <button id="btn-compare" title="قارن مفهومين">⚖️</button>
+      <button id="btn-scenarios" title="سيناريوهات تطبيقية">🎬</button>
+      <button id="btn-presleep" title="وضع ما قبل النوم">🌙✨</button>
+      <button id="btn-review" title="قائمة المراجعة">R</button>
+      <button id="btn-mistakes" title="دفتر الأخطاء">Mistakes</button>
       <button id="btn-dark" title="تبديل الوضع الليلي">🌙</button>
     </div>
   </header>
@@ -39,9 +63,22 @@
 
   <!-- Main content -->
   <main id="main">
+    <div id="lesson-reading-progress">
+      <div id="lesson-reading-progress-bar"></div>
+    </div>
+
     <div id="content-topbar">
-      <div id="content-breadcrumb"></div>
-      <button id="btn-done" class="hidden">✓ علّم منتهياً</button>
+      <div id="content-title-wrap">
+        <div id="content-breadcrumb"></div>
+        <div id="content-meta"></div>
+      </div>
+      <div id="lesson-tools">
+        <button id="btn-font-smaller" title="تصغير الخط">A-</button>
+        <button id="btn-font-larger" title="تكبير الخط">A+</button>
+        <button id="btn-focus-mode" title="وضع التركيز">Focus</button>
+        <button id="btn-two-pass" title="تمريرة أولى: عناوين وملخصات فقط">👀 تمريرة</button>
+        <button id="btn-done" class="hidden">✓ علّم منتهياً</button>
+      </div>
     </div>
 
     <article id="content">
@@ -63,12 +100,11 @@
   <!-- Notes drawer -->
   <aside id="notes-drawer" class="hidden">
     <div id="notes-header">
-      <span>📝 ملاحظاتي</span>
+      <span>📝 دفتر الملاحظات والأسئلة</span>
       <button id="btn-close-notes">✕</button>
     </div>
     <div id="notes-file-title"></div>
-    <textarea id="notes-area" placeholder="اكتب ملاحظاتك هنا... يحفظ تلقائياً"></textarea>
-    <div id="notes-saved-indicator"></div>
+    <div id="notes-body"></div>
   </aside>
 
   <!-- Search modal -->
@@ -84,7 +120,9 @@
     </div>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js"></script>
+  <script src="node_modules/@capacitor/core/dist/capacitor.js"></script>
+  <script src="node_modules/@aparajita/capacitor-secure-storage/dist/plugin.js"></script>
+  <script src="node_modules/marked/marked.min.js"></script>
   <script src="book-config.js"></script>
   <script src="app.js"></script>
 </body>

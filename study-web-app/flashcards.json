@@ -1,0 +1,906 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-28T20:19:51.334Z",
+  "domainId": "erp-production",
+  "contentPackId": "erp-production-v1",
+  "source": "glossary",
+  "count": 56,
+  "cards": [
+    {
+      "id": "fc-001",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجوهر العام",
+      "type": "term",
+      "front": "الإنتاج",
+      "back": "Production",
+      "hint": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-002",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجوهر العام",
+      "type": "term",
+      "front": "التصنيع",
+      "back": "Manufacturing",
+      "hint": "الإطار الأوسع لعمليات الإنتاج الصناعية",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-003",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجوهر العام",
+      "type": "term",
+      "front": "موديول الإنتاج",
+      "back": "Production Module",
+      "hint": "الجزء المسؤول عن دورة الإنتاج داخل ERP",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-004",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجوهر العام",
+      "type": "term",
+      "front": "البيانات الأساسية",
+      "back": "Master Data",
+      "hint": "البيانات الثابتة التي تقوم عليها دورة الإنتاج",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-005",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجوهر العام",
+      "type": "term",
+      "front": "المنتج النهائي",
+      "back": "Finished Good",
+      "hint": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-006",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجوهر العام",
+      "type": "term",
+      "front": "مادة خام",
+      "back": "Raw Material",
+      "hint": "مادة تدخل في تصنيع المنتج",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-007",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجوهر العام",
+      "type": "term",
+      "front": "منتج نصف مصنع",
+      "back": "Semi-finished Good / Subassembly",
+      "hint": "منتج وسيط قد يكون Input لأمر آخر",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-008",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجوهر العام",
+      "type": "term",
+      "front": "وحدة القياس",
+      "back": "Unit of Measure (UoM)",
+      "hint": "الوحدة المستخدمة للكميات مثل قطعة أو كجم",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-009",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجوهر العام",
+      "type": "term",
+      "front": "مستودع",
+      "back": "Warehouse",
+      "hint": "المكان المنطقي أو الفعلي لتخزين المواد",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-010",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجوهر العام",
+      "type": "term",
+      "front": "موقع",
+      "back": "Location / Locator",
+      "hint": "موضع داخلي أدق من المستودع",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-011",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "قائمة المواد",
+      "back": "Bill of Material (BOM)",
+      "hint": "قائمة المكونات والكميات المطلوبة لتصنيع المنتج",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-012",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "وصفة",
+      "back": "Formula",
+      "hint": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-013",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "هيكل الصنف",
+      "back": "Item Structure",
+      "hint": "مصطلح Oracle للبنية المادية للمنتج",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-014",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "مسار التصنيع",
+      "back": "Route / Routing",
+      "hint": "الخطوات التي يمر بها المنتج أثناء التصنيع",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-015",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "عملية",
+      "back": "Operation",
+      "hint": "خطوة تشغيلية داخل Route أو Work Definition",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-016",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "مورد",
+      "back": "Resource",
+      "hint": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-017",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "مركز عمل",
+      "back": "Work Center",
+      "hint": "مكان أو وحدة تنفيذ للعمليات",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-018",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "تعريف العمل",
+      "back": "Work Definition",
+      "hint": "قالب Oracle الذي يجمع المواد والعمليات والموارد",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-019",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "هالك",
+      "back": "Scrap",
+      "hint": "فاقد في المواد أو المنتج أو العملية",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-020",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "منتج جانبي",
+      "back": "By-product",
+      "hint": "مخرج ثانوي ينتج مع المنتج الرئيسي",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-021",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "type": "term",
+      "front": "منتج مشترك",
+      "back": "Co-product",
+      "hint": "مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-022",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "أمر إنتاج",
+      "back": "Production Order",
+      "hint": "أمر تنفيذ إنتاج في كثير من الأنظمة",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-023",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "أمر عمل",
+      "back": "Work Order",
+      "hint": "المصطلح التنفيذي الشائع خاصة في Oracle",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-024",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "إنشاء",
+      "back": "Created",
+      "hint": "حالة إنشاء الأمر قبل التنفيذ",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-025",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "إطلاق",
+      "back": "Released",
+      "hint": "حالة يصبح فيها الأمر جاهزًا للتنفيذ",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-026",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "بدء",
+      "back": "Started",
+      "hint": "بدء التنفيذ الفعلي للأمر",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-027",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "صرف مواد",
+      "back": "Material Issue / Goods Issue",
+      "hint": "إخراج المواد من المخزون إلى الإنتاج",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-028",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "تسجيل تشغيل",
+      "back": "Operation Execution / Reporting",
+      "hint": "تسجيل العمل أو الوقت أو التقدم",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-029",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "استلام منتج نهائي",
+      "back": "Finished Goods Receipt",
+      "hint": "دخول المنتج النهائي إلى المخزون",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-030",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "إكمال المنتج",
+      "back": "Product Completion",
+      "hint": "مصطلح Oracle لاستلام المنتج الناتج",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-031",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "الإبلاغ كمنجز",
+      "back": "Report as Finished",
+      "hint": "مصطلح Dynamics لإثبات إنجاز المنتج",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-032",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "إرجاع مواد",
+      "back": "Material Return",
+      "hint": "إعادة مواد من الأمر إلى المخزون",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-033",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التنفيذ",
+      "type": "term",
+      "front": "إغلاق",
+      "back": "Close / Closing",
+      "hint": "حسم الأمر تشغيليًا وماليًا بحسب النظام",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-034",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التكلفة والرقابة",
+      "type": "term",
+      "front": "تكلفة مقدرة",
+      "back": "Estimated Cost",
+      "hint": "تكلفة محسوبة قبل أو أثناء التنفيذ كمؤشر متوقع",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-035",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التكلفة والرقابة",
+      "type": "term",
+      "front": "تكلفة معيارية",
+      "back": "Standard Cost",
+      "hint": "تكلفة مرجعية ثابتة أو معتمدة للمقارنة",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-036",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التكلفة والرقابة",
+      "type": "term",
+      "front": "تكلفة فعلية",
+      "back": "Actual Cost",
+      "hint": "التكلفة الحقيقية المبنية على الحركات الفعلية",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-037",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التكلفة والرقابة",
+      "type": "term",
+      "front": "تكلفة تحت التشغيل",
+      "back": "Work in Process (WIP)",
+      "hint": "قيمة ما صُرف أو سُجل على أمر لم يكتمل إغلاقه",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-038",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التكلفة والرقابة",
+      "type": "term",
+      "front": "انحراف",
+      "back": "Variance",
+      "hint": "الفرق بين المتوقع والمعياري والفعلي",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-039",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التكلفة والرقابة",
+      "type": "term",
+      "front": "تحميل تكلفة",
+      "back": "Cost Posting / Cost Charging",
+      "hint": "ربط حدث تشغيلي بأثر تكلفة",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-040",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التكلفة والرقابة",
+      "type": "term",
+      "front": "توزيع تكلفة",
+      "back": "Cost Distribution",
+      "hint": "مصطلح Oracle لتحليل وربط التكلفة بالحركات",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-041",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التكلفة والرقابة",
+      "type": "term",
+      "front": "إغلاق الفترة",
+      "back": "Period Close",
+      "hint": "إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-042",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات التكلفة والرقابة",
+      "type": "term",
+      "front": "تقارير رقابية",
+      "back": "Control Reports",
+      "hint": "تقارير لمتابعة الانحرافات والأوامر المفتوحة وWIP",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-043",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجودة والتتبع",
+      "type": "term",
+      "front": "جودة",
+      "back": "Quality",
+      "hint": "التحقق من مطابقة المنتج أو العملية للمطلوب",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-044",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجودة والتتبع",
+      "type": "term",
+      "front": "أمر جودة",
+      "back": "Quality Order",
+      "hint": "كيان رقابي في بعض الأنظمة لفحص الجودة",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-045",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجودة والتتبع",
+      "type": "term",
+      "front": "مشكلة جودة",
+      "back": "Quality Issue",
+      "hint": "حالة انحراف أو خلل يحتاج متابعة",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-046",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجودة والتتبع",
+      "type": "term",
+      "front": "دفعة",
+      "back": "Lot / Batch",
+      "hint": "مجموعة متتبعة من مادة أو منتج",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-047",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجودة والتتبع",
+      "type": "term",
+      "front": "رقم تسلسلي",
+      "back": "Serial Number",
+      "hint": "معرف منفرد لوحدة محددة",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-048",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجودة والتتبع",
+      "type": "term",
+      "front": "تتبع",
+      "back": "Traceability",
+      "hint": "القدرة على تتبع المادة أو المنتج عبر الدورة",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-049",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجودة والتتبع",
+      "type": "term",
+      "front": "إعادة تشغيل",
+      "back": "Rework",
+      "hint": "إعادة معالجة منتج أو كمية غير مطابقة",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-050",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات الجودة والتتبع",
+      "type": "term",
+      "front": "رفض",
+      "back": "Reject",
+      "hint": "كمية مرفوضة لا تقبل كمنتج جيد",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-051",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات استشارية مهمة",
+      "type": "term",
+      "front": "تحليل الفجوات",
+      "back": "Gap Analysis",
+      "hint": "مقارنة النظام الحالي بالمرجع المطلوب",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-052",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات استشارية مهمة",
+      "type": "term",
+      "front": "متطلب وظيفي",
+      "back": "Functional Requirement",
+      "hint": "ما يجب أن يحققه النظام من منظور العمل",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-053",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات استشارية مهمة",
+      "type": "term",
+      "front": "تصميم وظيفي إلى تقني",
+      "back": "Functional to Technical Design",
+      "hint": "ترجمة المنطق الوظيفي إلى منطق قابل للتطوير",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-054",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات استشارية مهمة",
+      "type": "term",
+      "front": "جاهزية التطبيق",
+      "back": "Implementation Readiness",
+      "hint": "مدى استعداد البيانات والإعدادات والفرق للتشغيل",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-055",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات استشارية مهمة",
+      "type": "term",
+      "front": "اختبار قبول المستخدم",
+      "back": "User Acceptance Testing (UAT)",
+      "hint": "اختبار الدورة الحقيقية قبل التشغيل الرسمي",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    },
+    {
+      "id": "fc-056",
+      "sourceId": "m5",
+      "sourcePath": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+      "category": "مصطلحات استشارية مهمة",
+      "type": "term",
+      "front": "تشغيل فعلي",
+      "back": "Go-Live",
+      "hint": "بداية استخدام النظام في الواقع",
+      "direction": "ar-to-en",
+      "difficulty": "foundational",
+      "tags": [
+        "glossary",
+        "terminology"
+      ]
+    }
+  ]
+}

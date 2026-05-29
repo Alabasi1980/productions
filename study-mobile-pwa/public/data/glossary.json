@@ -1,0 +1,397 @@
+{
+  "generatedAt": "2026-05-25T20:20:21.859Z",
+  "entries": [
+    {
+      "id": "production",
+      "arabic": "الإنتاج",
+      "english": "Production",
+      "meaning": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع",
+      "category": "مصطلحات الجوهر العام"
+    },
+    {
+      "id": "manufacturing",
+      "arabic": "التصنيع",
+      "english": "Manufacturing",
+      "meaning": "الإطار الأوسع لعمليات الإنتاج الصناعية",
+      "category": "مصطلحات الجوهر العام"
+    },
+    {
+      "id": "production-module",
+      "arabic": "موديول الإنتاج",
+      "english": "Production Module",
+      "meaning": "الجزء المسؤول عن دورة الإنتاج داخل ERP",
+      "category": "مصطلحات الجوهر العام"
+    },
+    {
+      "id": "master-data",
+      "arabic": "البيانات الأساسية",
+      "english": "Master Data",
+      "meaning": "البيانات الثابتة التي تقوم عليها دورة الإنتاج",
+      "category": "مصطلحات الجوهر العام"
+    },
+    {
+      "id": "finished-good",
+      "arabic": "المنتج النهائي",
+      "english": "Finished Good",
+      "meaning": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي",
+      "category": "مصطلحات الجوهر العام"
+    },
+    {
+      "id": "raw-material",
+      "arabic": "مادة خام",
+      "english": "Raw Material",
+      "meaning": "مادة تدخل في تصنيع المنتج",
+      "category": "مصطلحات الجوهر العام"
+    },
+    {
+      "id": "semi-finished-good",
+      "arabic": "منتج نصف مصنع",
+      "english": "Semi-finished Good / Subassembly",
+      "meaning": "منتج وسيط قد يكون Input لأمر آخر",
+      "category": "مصطلحات الجوهر العام"
+    },
+    {
+      "id": "unit-of-measure",
+      "arabic": "وحدة القياس",
+      "english": "Unit of Measure (UoM)",
+      "meaning": "الوحدة المستخدمة للكميات مثل قطعة أو كجم",
+      "category": "مصطلحات الجوهر العام"
+    },
+    {
+      "id": "warehouse",
+      "arabic": "مستودع",
+      "english": "Warehouse",
+      "meaning": "المكان المنطقي أو الفعلي لتخزين المواد",
+      "category": "مصطلحات الجوهر العام"
+    },
+    {
+      "id": "location",
+      "arabic": "موقع",
+      "english": "Location / Locator",
+      "meaning": "موضع داخلي أدق من المستودع",
+      "category": "مصطلحات الجوهر العام"
+    },
+    {
+      "id": "bill-of-material",
+      "arabic": "قائمة المواد",
+      "english": "Bill of Material (BOM)",
+      "meaning": "قائمة المكونات والكميات المطلوبة لتصنيع المنتج",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "formula",
+      "arabic": "وصفة",
+      "english": "Formula",
+      "meaning": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "item-structure",
+      "arabic": "هيكل الصنف",
+      "english": "Item Structure",
+      "meaning": "مصطلح Oracle للبنية المادية للمنتج",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "route",
+      "arabic": "مسار التصنيع",
+      "english": "Route / Routing",
+      "meaning": "الخطوات التي يمر بها المنتج أثناء التصنيع",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "operation",
+      "arabic": "عملية",
+      "english": "Operation",
+      "meaning": "خطوة تشغيلية داخل Route أو Work Definition",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "resource",
+      "arabic": "مورد",
+      "english": "Resource",
+      "meaning": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "work-center",
+      "arabic": "مركز عمل",
+      "english": "Work Center",
+      "meaning": "مكان أو وحدة تنفيذ للعمليات",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "work-definition",
+      "arabic": "تعريف العمل",
+      "english": "Work Definition",
+      "meaning": "قالب Oracle الذي يجمع المواد والعمليات والموارد",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "scrap",
+      "arabic": "هالك",
+      "english": "Scrap",
+      "meaning": "فاقد في المواد أو المنتج أو العملية",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "by-product",
+      "arabic": "منتج جانبي",
+      "english": "By-product",
+      "meaning": "مخرج ثانوي ينتج مع المنتج الرئيسي",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "co-product",
+      "arabic": "منتج مشترك",
+      "english": "Co-product",
+      "meaning": "مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة",
+      "category": "مصطلحات تصميم المنتج والتصنيع"
+    },
+    {
+      "id": "production-order",
+      "arabic": "أمر إنتاج",
+      "english": "Production Order",
+      "meaning": "أمر تنفيذ إنتاج في كثير من الأنظمة",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "work-order",
+      "arabic": "أمر عمل",
+      "english": "Work Order",
+      "meaning": "المصطلح التنفيذي الشائع خاصة في Oracle",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "created",
+      "arabic": "إنشاء",
+      "english": "Created",
+      "meaning": "حالة إنشاء الأمر قبل التنفيذ",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "released",
+      "arabic": "إطلاق",
+      "english": "Released",
+      "meaning": "حالة يصبح فيها الأمر جاهزًا للتنفيذ",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "started",
+      "arabic": "بدء",
+      "english": "Started",
+      "meaning": "بدء التنفيذ الفعلي للأمر",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "material-issue",
+      "arabic": "صرف مواد",
+      "english": "Material Issue / Goods Issue",
+      "meaning": "إخراج المواد من المخزون إلى الإنتاج",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "operation-execution",
+      "arabic": "تسجيل تشغيل",
+      "english": "Operation Execution / Reporting",
+      "meaning": "تسجيل العمل أو الوقت أو التقدم",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "finished-goods-receipt",
+      "arabic": "استلام منتج نهائي",
+      "english": "Finished Goods Receipt",
+      "meaning": "دخول المنتج النهائي إلى المخزون",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "product-completion",
+      "arabic": "إكمال المنتج",
+      "english": "Product Completion",
+      "meaning": "مصطلح Oracle لاستلام المنتج الناتج",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "report-as-finished",
+      "arabic": "الإبلاغ كمنجز",
+      "english": "Report as Finished",
+      "meaning": "مصطلح Dynamics لإثبات إنجاز المنتج",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "material-return",
+      "arabic": "إرجاع مواد",
+      "english": "Material Return",
+      "meaning": "إعادة مواد من الأمر إلى المخزون",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "close",
+      "arabic": "إغلاق",
+      "english": "Close / Closing",
+      "meaning": "حسم الأمر تشغيليًا وماليًا بحسب النظام",
+      "category": "مصطلحات التنفيذ"
+    },
+    {
+      "id": "estimated-cost",
+      "arabic": "تكلفة مقدرة",
+      "english": "Estimated Cost",
+      "meaning": "تكلفة محسوبة قبل أو أثناء التنفيذ كمؤشر متوقع",
+      "category": "مصطلحات التكلفة والرقابة"
+    },
+    {
+      "id": "standard-cost",
+      "arabic": "تكلفة معيارية",
+      "english": "Standard Cost",
+      "meaning": "تكلفة مرجعية ثابتة أو معتمدة للمقارنة",
+      "category": "مصطلحات التكلفة والرقابة"
+    },
+    {
+      "id": "actual-cost",
+      "arabic": "تكلفة فعلية",
+      "english": "Actual Cost",
+      "meaning": "التكلفة الحقيقية المبنية على الحركات الفعلية",
+      "category": "مصطلحات التكلفة والرقابة"
+    },
+    {
+      "id": "work-in-process",
+      "arabic": "تكلفة تحت التشغيل",
+      "english": "Work in Process (WIP)",
+      "meaning": "قيمة ما صُرف أو سُجل على أمر لم يكتمل إغلاقه",
+      "category": "مصطلحات التكلفة والرقابة"
+    },
+    {
+      "id": "variance",
+      "arabic": "انحراف",
+      "english": "Variance",
+      "meaning": "الفرق بين المتوقع والمعياري والفعلي",
+      "category": "مصطلحات التكلفة والرقابة"
+    },
+    {
+      "id": "cost-posting",
+      "arabic": "تحميل تكلفة",
+      "english": "Cost Posting / Cost Charging",
+      "meaning": "ربط حدث تشغيلي بأثر تكلفة",
+      "category": "مصطلحات التكلفة والرقابة"
+    },
+    {
+      "id": "cost-distribution",
+      "arabic": "توزيع تكلفة",
+      "english": "Cost Distribution",
+      "meaning": "مصطلح Oracle لتحليل وربط التكلفة بالحركات",
+      "category": "مصطلحات التكلفة والرقابة"
+    },
+    {
+      "id": "period-close",
+      "arabic": "إغلاق الفترة",
+      "english": "Period Close",
+      "meaning": "إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة",
+      "category": "مصطلحات التكلفة والرقابة"
+    },
+    {
+      "id": "control-reports",
+      "arabic": "تقارير رقابية",
+      "english": "Control Reports",
+      "meaning": "تقارير لمتابعة الانحرافات والأوامر المفتوحة وWIP",
+      "category": "مصطلحات التكلفة والرقابة"
+    },
+    {
+      "id": "quality",
+      "arabic": "جودة",
+      "english": "Quality",
+      "meaning": "التحقق من مطابقة المنتج أو العملية للمطلوب",
+      "category": "مصطلحات الجودة والتتبع"
+    },
+    {
+      "id": "quality-order",
+      "arabic": "أمر جودة",
+      "english": "Quality Order",
+      "meaning": "كيان رقابي في بعض الأنظمة لفحص الجودة",
+      "category": "مصطلحات الجودة والتتبع"
+    },
+    {
+      "id": "quality-issue",
+      "arabic": "مشكلة جودة",
+      "english": "Quality Issue",
+      "meaning": "حالة انحراف أو خلل يحتاج متابعة",
+      "category": "مصطلحات الجودة والتتبع"
+    },
+    {
+      "id": "lot",
+      "arabic": "دفعة",
+      "english": "Lot / Batch",
+      "meaning": "مجموعة متتبعة من مادة أو منتج",
+      "category": "مصطلحات الجودة والتتبع"
+    },
+    {
+      "id": "serial-number",
+      "arabic": "رقم تسلسلي",
+      "english": "Serial Number",
+      "meaning": "معرف منفرد لوحدة محددة",
+      "category": "مصطلحات الجودة والتتبع"
+    },
+    {
+      "id": "traceability",
+      "arabic": "تتبع",
+      "english": "Traceability",
+      "meaning": "القدرة على تتبع المادة أو المنتج عبر الدورة",
+      "category": "مصطلحات الجودة والتتبع"
+    },
+    {
+      "id": "rework",
+      "arabic": "إعادة تشغيل",
+      "english": "Rework",
+      "meaning": "إعادة معالجة منتج أو كمية غير مطابقة",
+      "category": "مصطلحات الجودة والتتبع"
+    },
+    {
+      "id": "reject",
+      "arabic": "رفض",
+      "english": "Reject",
+      "meaning": "كمية مرفوضة لا تقبل كمنتج جيد",
+      "category": "مصطلحات الجودة والتتبع"
+    },
+    {
+      "id": "gap-analysis",
+      "arabic": "تحليل الفجوات",
+      "english": "Gap Analysis",
+      "meaning": "مقارنة النظام الحالي بالمرجع المطلوب",
+      "category": "مصطلحات استشارية مهمة"
+    },
+    {
+      "id": "functional-requirement",
+      "arabic": "متطلب وظيفي",
+      "english": "Functional Requirement",
+      "meaning": "ما يجب أن يحققه النظام من منظور العمل",
+      "category": "مصطلحات استشارية مهمة"
+    },
+    {
+      "id": "functional-to-technical-design",
+      "arabic": "تصميم وظيفي إلى تقني",
+      "english": "Functional to Technical Design",
+      "meaning": "ترجمة المنطق الوظيفي إلى منطق قابل للتطوير",
+      "category": "مصطلحات استشارية مهمة"
+    },
+    {
+      "id": "implementation-readiness",
+      "arabic": "جاهزية التطبيق",
+      "english": "Implementation Readiness",
+      "meaning": "مدى استعداد البيانات والإعدادات والفرق للتشغيل",
+      "category": "مصطلحات استشارية مهمة"
+    },
+    {
+      "id": "user-acceptance-testing",
+      "arabic": "اختبار قبول المستخدم",
+      "english": "User Acceptance Testing (UAT)",
+      "meaning": "اختبار الدورة الحقيقية قبل التشغيل الرسمي",
+      "category": "مصطلحات استشارية مهمة"
+    },
+    {
+      "id": "go-live",
+      "arabic": "تشغيل فعلي",
+      "english": "Go-Live",
+      "meaning": "بداية استخدام النظام في الواقع",
+      "category": "مصطلحات استشارية مهمة"
+    }
+  ]
+}

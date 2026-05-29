@@ -1,1 +1,4 @@
 /00_مسار الدراسة المهنية.rar
+*.zip
+# Local Netlify folder
+.netlify

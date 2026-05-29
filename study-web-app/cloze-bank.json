@@ -1,0 +1,991 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-28T20:19:53.121Z",
+  "domainId": "erp-production",
+  "contentPackId": "erp-production-v1",
+  "source": "glossary+lessons",
+  "count": 49,
+  "skipped": 7,
+  "cards": [
+    {
+      "id": "cz-001",
+      "type": "cloze",
+      "termId": "gl-001",
+      "category": "مصطلحات الجوهر العام",
+      "front": "وهذا المجلد ليس مادة عبور إلى مقابلة أو بداية وظيفة فقط، بل كتاب عمل ومرجع مهني دائم قابل للتحول إلى مرجع متكامل في ERP _____ and Manufacturing.",
+      "back": "Production",
+      "hint": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع",
+      "sourceId": "m1",
+      "sourceTitle": "دليل المجلد",
+      "sourcePath": "00_دليل_المجلد.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-002",
+      "type": "cloze",
+      "termId": "gl-002",
+      "category": "مصطلحات الجوهر العام",
+      "front": "وهذا المجلد ليس مادة عبور إلى مقابلة أو بداية وظيفة فقط، بل كتاب عمل ومرجع مهني دائم قابل للتحول إلى مرجع متكامل في ERP Production and _____.",
+      "back": "Manufacturing",
+      "hint": "الإطار الأوسع لعمليات الإنتاج الصناعية",
+      "sourceId": "m1",
+      "sourceTitle": "دليل المجلد",
+      "sourcePath": "00_دليل_المجلد.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-003",
+      "type": "cloze",
+      "termId": "gl-003",
+      "category": "مصطلحات الجوهر العام",
+      "front": "- الفهم العام لموديول الإنتاج _____.",
+      "back": "Production Module",
+      "hint": "الجزء المسؤول عن دورة الإنتاج داخل ERP",
+      "sourceId": "m4",
+      "sourceTitle": "فهرس الكتاب الشامل",
+      "sourcePath": "03_فهرس_الكتاب_الشامل.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-004",
+      "type": "cloze",
+      "termId": "gl-004",
+      "category": "مصطلحات الجوهر العام",
+      "front": "- البيانات الأساسية _____",
+      "back": "Master Data",
+      "hint": "البيانات الثابتة التي تقوم عليها دورة الإنتاج",
+      "sourceId": "m1",
+      "sourceTitle": "دليل المجلد",
+      "sourcePath": "00_دليل_المجلد.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-005",
+      "type": "cloze",
+      "termId": "gl-005",
+      "category": "مصطلحات الجوهر العام",
+      "front": "- المنتج النهائي _____",
+      "back": "Finished Good",
+      "hint": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-006",
+      "type": "cloze",
+      "termId": "gl-006",
+      "category": "مصطلحات الجوهر العام",
+      "front": "- المادة الخام _____ ليست حدثًا، بل تعريف أساسي.",
+      "back": "Raw Material",
+      "hint": "مادة تدخل في تصنيع المنتج",
+      "sourceId": "p2-1",
+      "sourceTitle": "الدرس 1: البيانات الأساسية Master Data",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/01_الدرس_01_البيانات_الاساسية_Master_Data.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-007",
+      "type": "cloze",
+      "termId": "gl-007",
+      "category": "مصطلحات الجوهر العام",
+      "front": "- منتج نصف مصنع _____",
+      "back": "Semi-finished Good / Subassembly",
+      "hint": "منتج وسيط قد يكون Input لأمر آخر",
+      "sourceId": "p1-2",
+      "sourceTitle": "الدرس 2: الخريطة الثنائية للمصطلحات",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/02_الدرس_02_الخريطة_الثنائية_للمصطلحات_الاساسية.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-008",
+      "type": "cloze",
+      "termId": "gl-008",
+      "category": "مصطلحات الجوهر العام",
+      "front": "- وحدة قياس _____",
+      "back": "Unit of Measure (UoM)",
+      "hint": "الوحدة المستخدمة للكميات مثل قطعة أو كجم",
+      "sourceId": "p1-2",
+      "sourceTitle": "الدرس 2: الخريطة الثنائية للمصطلحات",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/02_الدرس_02_الخريطة_الثنائية_للمصطلحات_الاساسية.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-009",
+      "type": "cloze",
+      "termId": "gl-009",
+      "category": "مصطلحات الجوهر العام",
+      "front": "- المستودع _____ / Storage Location / Subinventory",
+      "back": "Warehouse",
+      "hint": "المكان المنطقي أو الفعلي لتخزين المواد",
+      "sourceId": "p2-1",
+      "sourceTitle": "الدرس 1: البيانات الأساسية Master Data",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/01_الدرس_01_البيانات_الاساسية_Master_Data.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-010",
+      "type": "cloze",
+      "termId": "gl-010",
+      "category": "مصطلحات الجوهر العام",
+      "front": "- إلى أي مستودع أو _____ يستلم الناتج؟",
+      "back": "موقع",
+      "hint": "موضع داخلي أدق من المستودع",
+      "sourceId": "p2-1",
+      "sourceTitle": "الدرس 1: البيانات الأساسية Master Data",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/01_الدرس_01_البيانات_الاساسية_Master_Data.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-011",
+      "type": "cloze",
+      "termId": "gl-012",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "front": "- BOM / _____ / Item Structure",
+      "back": "Formula",
+      "hint": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي",
+      "sourceId": "m4",
+      "sourceTitle": "فهرس الكتاب الشامل",
+      "sourcePath": "03_فهرس_الكتاب_الشامل.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-012",
+      "type": "cloze",
+      "termId": "gl-013",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "front": "- BOM / Formula / _____",
+      "back": "Item Structure",
+      "hint": "مصطلح Oracle للبنية المادية للمنتج",
+      "sourceId": "m4",
+      "sourceTitle": "فهرس الكتاب الشامل",
+      "sourcePath": "03_فهرس_الكتاب_الشامل.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-013",
+      "type": "cloze",
+      "termId": "gl-014",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "front": "- _____ / Operations / Resources",
+      "back": "Route / Routing",
+      "hint": "الخطوات التي يمر بها المنتج أثناء التصنيع",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-014",
+      "type": "cloze",
+      "termId": "gl-015",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "front": "→ _____ Execution / Reporting",
+      "back": "Operation",
+      "hint": "خطوة تشغيلية داخل Route أو Work Definition",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-015",
+      "type": "cloze",
+      "termId": "gl-016",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "front": "- تسجيل التشغيل Operation Reporting / _____ Charging / Confirmation",
+      "back": "Resource",
+      "hint": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-016",
+      "type": "cloze",
+      "termId": "gl-017",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "front": "في SAP قد يكون المفهوم موزعًا أكثر بين _____ وActivity Type وCost Center.",
+      "back": "Work Center",
+      "hint": "مكان أو وحدة تنفيذ للعمليات",
+      "sourceId": "p2-3",
+      "sourceTitle": "الدرس 3: طريقة التصنيع Route",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/03_الدرس_03_طريقة_التصنيع_Route_Work_Definition_Resources.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-017",
+      "type": "cloze",
+      "termId": "gl-018",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "front": "- فهم Master Data وBOM وRoute أو _____.",
+      "back": "Work Definition",
+      "hint": "قالب Oracle الذي يجمع المواد والعمليات والموارد",
+      "sourceId": "m2",
+      "sourceTitle": "الخطة الرئيسية قبل الوظيفة",
+      "sourcePath": "01_الخطة_الرئيسية_قبل_الوظيفة.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-018",
+      "type": "cloze",
+      "termId": "gl-019",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "front": "- Returns / _____ / Rework Basics",
+      "back": "Scrap",
+      "hint": "فاقد في المواد أو المنتج أو العملية",
+      "sourceId": "m4",
+      "sourceTitle": "فهرس الكتاب الشامل",
+      "sourcePath": "03_فهرس_الكتاب_الشامل.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-019",
+      "type": "cloze",
+      "termId": "gl-020",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "front": "- _____: ناتج جانبي ثانوي قد يؤثر على التكلفة أو المخزون",
+      "back": "By-product",
+      "hint": "مخرج ثانوي ينتج مع المنتج الرئيسي",
+      "sourceId": "p2-2",
+      "sourceTitle": "الدرس 2: بنية المنتج BOM",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/02_الدرس_02_بنية_المنتج_BOM_Formula_Item_Structure.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-020",
+      "type": "cloze",
+      "termId": "gl-021",
+      "category": "مصطلحات تصميم المنتج والتصنيع",
+      "front": "- _____: ناتج رئيسي إضافي يشارك في التكلفة",
+      "back": "Co-product",
+      "hint": "مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة",
+      "sourceId": "p2-2",
+      "sourceTitle": "الدرس 2: بنية المنتج BOM",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/02_الدرس_02_بنية_المنتج_BOM_Formula_Item_Structure.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-021",
+      "type": "cloze",
+      "termId": "gl-022",
+      "category": "مصطلحات التنفيذ",
+      "front": "- أمر الإنتاج _____",
+      "back": "Production Order",
+      "hint": "أمر تنفيذ إنتاج في كثير من الأنظمة",
+      "sourceId": "m1",
+      "sourceTitle": "دليل المجلد",
+      "sourcePath": "00_دليل_المجلد.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-022",
+      "type": "cloze",
+      "termId": "gl-023",
+      "category": "مصطلحات التنفيذ",
+      "front": "- Production Order / _____ Lifecycle",
+      "back": "Work Order",
+      "hint": "المصطلح التنفيذي الشائع خاصة في Oracle",
+      "sourceId": "m4",
+      "sourceTitle": "فهرس الكتاب الشامل",
+      "sourcePath": "03_فهرس_الكتاب_الشامل.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-023",
+      "type": "cloze",
+      "termId": "gl-024",
+      "category": "مصطلحات التنفيذ",
+      "front": "- فهم الحالات الأساسية مثل _____ وUnreleased وReleased وStarted وCompleted وClosed.",
+      "back": "Created",
+      "hint": "حالة إنشاء الأمر قبل التنفيذ",
+      "sourceId": "p3-1",
+      "sourceTitle": "الدرس 1: من الطلب إلى أمر الإنتاج",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/01_الدرس_01_من_الطلب_الى_امر_الانتاج_Production_Order_and_Statuses.md",
+      "sectionId": "part3",
+      "sectionTitle": "الجزء الثالث: دورة التنفيذ الإنتاجي",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-024",
+      "type": "cloze",
+      "termId": "gl-025",
+      "category": "مصطلحات التنفيذ",
+      "front": "- _____ Product in Dynamics",
+      "back": "Released",
+      "hint": "حالة يصبح فيها الأمر جاهزًا للتنفيذ",
+      "sourceId": "p1-3",
+      "sourceTitle": "الدرس 3: الكيانات الرئيسية",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/03_الدرس_03_الكيانات_الرئيسية_في_موديول_الانتاج.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-025",
+      "type": "cloze",
+      "termId": "gl-026",
+      "category": "مصطلحات التنفيذ",
+      "front": "- Released orders كثيرة لكن _____ قليل.",
+      "back": "Started",
+      "hint": "بدء التنفيذ الفعلي للأمر",
+      "sourceId": "ap-s3",
+      "sourceTitle": "تمارين التشخيص",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/03_تمارين_التشخيص_Diagnosis_Exercises.md",
+      "sectionId": "app-scenarios",
+      "sectionTitle": "🎯 سيناريوهات وتمارين",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-026",
+      "type": "cloze",
+      "termId": "gl-027",
+      "category": "مصطلحات التنفيذ",
+      "front": "→ _____",
+      "back": "Material Issue / Goods Issue",
+      "hint": "إخراج المواد من المخزون إلى الإنتاج",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-027",
+      "type": "cloze",
+      "termId": "gl-028",
+      "category": "مصطلحات التنفيذ",
+      "front": "→ _____",
+      "back": "Operation Execution / Reporting",
+      "hint": "تسجيل العمل أو الوقت أو التقدم",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-028",
+      "type": "cloze",
+      "termId": "gl-029",
+      "category": "مصطلحات التنفيذ",
+      "front": "- _____ / Product Completion",
+      "back": "Finished Goods Receipt",
+      "hint": "دخول المنتج النهائي إلى المخزون",
+      "sourceId": "m4",
+      "sourceTitle": "فهرس الكتاب الشامل",
+      "sourcePath": "03_فهرس_الكتاب_الشامل.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-029",
+      "type": "cloze",
+      "termId": "gl-030",
+      "category": "مصطلحات التنفيذ",
+      "front": "- Finished Goods Receipt / _____",
+      "back": "Product Completion",
+      "hint": "مصطلح Oracle لاستلام المنتج الناتج",
+      "sourceId": "m4",
+      "sourceTitle": "فهرس الكتاب الشامل",
+      "sourcePath": "03_فهرس_الكتاب_الشامل.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-030",
+      "type": "cloze",
+      "termId": "gl-031",
+      "category": "مصطلحات التنفيذ",
+      "front": "- استلام المنتج النهائي Finished Goods Receipt / Product Completion / _____",
+      "back": "Report as Finished",
+      "hint": "مصطلح Dynamics لإثبات إنجاز المنتج",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-031",
+      "type": "cloze",
+      "termId": "gl-032",
+      "category": "مصطلحات التنفيذ",
+      "front": "- شرح الفرق بين _____ وScrap وRework.",
+      "back": "Material Return",
+      "hint": "إعادة مواد من الأمر إلى المخزون",
+      "sourceId": "p3-5",
+      "sourceTitle": "الدرس 5: المرتجعات والهالك وإعادة التشغيل",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/05_الدرس_05_المرتجعات_والهالك_واعادة_التشغيل_Return_Scrap_Rework.md",
+      "sectionId": "part3",
+      "sectionTitle": "الجزء الثالث: دورة التنفيذ الإنتاجي",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-032",
+      "type": "cloze",
+      "termId": "gl-033",
+      "category": "مصطلحات التنفيذ",
+      "front": "_____ الأمر Close / Settlement / Final Status",
+      "back": "إغلاق",
+      "hint": "حسم الأمر تشغيليًا وماليًا بحسب النظام",
+      "sourceId": "p1-4",
+      "sourceTitle": "الدرس 4: الصورة الكاملة لدورة الإنتاج",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/04_الدرس_04_الصورة_الكاملة_لدورة_الانتاج.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-033",
+      "type": "cloze",
+      "termId": "gl-034",
+      "category": "مصطلحات التكلفة والرقابة",
+      "front": "- فهم _____ وActual Cost وVariance.",
+      "back": "Estimated Cost",
+      "hint": "تكلفة محسوبة قبل أو أثناء التنفيذ كمؤشر متوقع",
+      "sourceId": "m2",
+      "sourceTitle": "الخطة الرئيسية قبل الوظيفة",
+      "sourcePath": "01_الخطة_الرئيسية_قبل_الوظيفة.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-034",
+      "type": "cloze",
+      "termId": "gl-035",
+      "category": "مصطلحات التكلفة والرقابة",
+      "front": "إذن أي ضعف في Route أو Work Definition أو Resources سيعطي Actual Cost أو _____ غير موثوقة.",
+      "back": "Standard Cost",
+      "hint": "تكلفة مرجعية ثابتة أو معتمدة للمقارنة",
+      "sourceId": "p2-3",
+      "sourceTitle": "الدرس 3: طريقة التصنيع Route",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/03_الدرس_03_طريقة_التصنيع_Route_Work_Definition_Resources.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-035",
+      "type": "cloze",
+      "termId": "gl-036",
+      "category": "مصطلحات التكلفة والرقابة",
+      "front": "- التكلفة الفعلية والانحرافات _____ and Variances",
+      "back": "Actual Cost",
+      "hint": "التكلفة الحقيقية المبنية على الحركات الفعلية",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-036",
+      "type": "cloze",
+      "termId": "gl-037",
+      "category": "مصطلحات التكلفة والرقابة",
+      "front": "- التكلفة تحت التشغيل _____",
+      "back": "Work in Process (WIP)",
+      "hint": "قيمة ما صُرف أو سُجل على أمر لم يكتمل إغلاقه",
+      "sourceId": "m1",
+      "sourceTitle": "دليل المجلد",
+      "sourcePath": "00_دليل_المجلد.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-037",
+      "type": "cloze",
+      "termId": "gl-038",
+      "category": "مصطلحات التكلفة والرقابة",
+      "front": "- لا توجد تقارير _____ أو WIP مفيدة",
+      "back": "Variance",
+      "hint": "الفرق بين المتوقع والمعياري والفعلي",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-038",
+      "type": "cloze",
+      "termId": "gl-041",
+      "category": "مصطلحات التكلفة والرقابة",
+      "front": "ما التقارير الأساسية التي تنصح بمراجعتها قبل إغلاق الفترة _____؟",
+      "back": "Period Close",
+      "hint": "إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة",
+      "sourceId": "p4-t",
+      "sourceTitle": "🧪 اختبار الجزء الرابع",
+      "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+      "sectionId": "part4",
+      "sectionTitle": "الجزء الرابع: التكاليف والانحرافات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-039",
+      "type": "cloze",
+      "termId": "gl-043",
+      "category": "مصطلحات الجودة والتتبع",
+      "front": "الجودة والتخطيط والسيناريوهات المتقدمة _____, Planning, and Advanced Scenarios",
+      "back": "Quality",
+      "hint": "التحقق من مطابقة المنتج أو العملية للمطلوب",
+      "sourceId": "m2",
+      "sourceTitle": "الخطة الرئيسية قبل الوظيفة",
+      "sourcePath": "01_الخطة_الرئيسية_قبل_الوظيفة.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-040",
+      "type": "cloze",
+      "termId": "gl-044",
+      "category": "مصطلحات الجودة والتتبع",
+      "front": "في Dynamics يظهر أثر الجودة بوضوح بعد Report as Finished أو أثناء التحكم في التوفر، من خلال _____ وحالات المخزون غير المتاح والمراجعات المرتبطة بالقبول أو الرفض.",
+      "back": "Quality Order",
+      "hint": "كيان رقابي في بعض الأنظمة لفحص الجودة",
+      "sourceId": "p5-1",
+      "sourceTitle": "الدرس 1: الجودة في التصنيع",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/01_الدرس_01_الجودة_في_التصنيع_Quality_in_Manufacturing.md",
+      "sectionId": "part5",
+      "sectionTitle": "الجزء الخامس: الجودة والتخطيط",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-041",
+      "type": "cloze",
+      "termId": "gl-045",
+      "category": "مصطلحات الجودة والتتبع",
+      "front": "الهالك ليس _____ فقط، بل جزء من التكلفة.",
+      "back": "مشكلة جودة",
+      "hint": "حالة انحراف أو خلل يحتاج متابعة",
+      "sourceId": "p4-1",
+      "sourceTitle": "الدرس 1: كيف تتكون تكلفة المنتج",
+      "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/01_الدرس_01_كيف_تتكون_تكلفة_المنتج_Cost_Build_Up.md",
+      "sectionId": "part4",
+      "sectionTitle": "الجزء الرابع: التكاليف والانحرافات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-042",
+      "type": "cloze",
+      "termId": "gl-046",
+      "category": "مصطلحات الجودة والتتبع",
+      "front": "- التتبع Tracking مثل _____ / Serial",
+      "back": "Lot / Batch",
+      "hint": "مجموعة متتبعة من مادة أو منتج",
+      "sourceId": "p1-1",
+      "sourceTitle": "الدرس 1: جوهر الإنتاج في ERP",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-043",
+      "type": "cloze",
+      "termId": "gl-047",
+      "category": "مصطلحات الجودة والتتبع",
+      "front": "_____ يمثل تتبعًا على مستوى الوحدة الفردية.",
+      "back": "Serial Number",
+      "hint": "معرف منفرد لوحدة محددة",
+      "sourceId": "p5-4",
+      "sourceTitle": "الدرس 4: التتبع بالدفعات والسيريال",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/04_الدرس_04_التتبع_بالدفعات_والسيريال_Lot_Serial_Traceability.md",
+      "sectionId": "part5",
+      "sectionTitle": "الجزء الخامس: الجودة والتخطيط",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-044",
+      "type": "cloze",
+      "termId": "gl-048",
+      "category": "مصطلحات الجودة والتتبع",
+      "front": "لأن التتبع _____ ليس رفاهية.",
+      "back": "Traceability",
+      "hint": "القدرة على تتبع المادة أو المنتج عبر الدورة",
+      "sourceId": "p5-4",
+      "sourceTitle": "الدرس 4: التتبع بالدفعات والسيريال",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/04_الدرس_04_التتبع_بالدفعات_والسيريال_Lot_Serial_Traceability.md",
+      "sectionId": "part5",
+      "sectionTitle": "الجزء الخامس: الجودة والتخطيط",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-045",
+      "type": "cloze",
+      "termId": "gl-049",
+      "category": "مصطلحات الجودة والتتبع",
+      "front": "- Returns / Scrap / _____ Basics",
+      "back": "Rework",
+      "hint": "إعادة معالجة منتج أو كمية غير مطابقة",
+      "sourceId": "m4",
+      "sourceTitle": "فهرس الكتاب الشامل",
+      "sourcePath": "03_فهرس_الكتاب_الشامل.md",
+      "sectionId": "meta",
+      "sectionTitle": "📋 البداية والخطة",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-046",
+      "type": "cloze",
+      "termId": "gl-050",
+      "category": "مصطلحات الجودة والتتبع",
+      "front": "_____ = كمية مرفوضة غير مقبولة.",
+      "back": "Reject",
+      "hint": "كمية مرفوضة لا تقبل كمنتج جيد",
+      "sourceId": "p1-2",
+      "sourceTitle": "الدرس 2: الخريطة الثنائية للمصطلحات",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/02_الدرس_02_الخريطة_الثنائية_للمصطلحات_الاساسية.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-047",
+      "type": "cloze",
+      "termId": "gl-051",
+      "category": "مصطلحات استشارية مهمة",
+      "front": "ومن زاوية _____، يجب الانتباه إلى أن بعض العملاء يقولون:",
+      "back": "Gap Analysis",
+      "hint": "مقارنة النظام الحالي بالمرجع المطلوب",
+      "sourceId": "p3-1",
+      "sourceTitle": "الدرس 1: من الطلب إلى أمر الإنتاج",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/01_الدرس_01_من_الطلب_الى_امر_الانتاج_Production_Order_and_Statuses.md",
+      "sectionId": "part3",
+      "sectionTitle": "الجزء الثالث: دورة التنفيذ الإنتاجي",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-048",
+      "type": "cloze",
+      "termId": "gl-052",
+      "category": "مصطلحات استشارية مهمة",
+      "front": "- كتابة _____ بصيغة قابلة للتنفيذ التقني.",
+      "back": "متطلب وظيفي",
+      "hint": "ما يجب أن يحققه النظام من منظور العمل",
+      "sourceId": "p6-4",
+      "sourceTitle": "الدرس 4: الترجمة من وظيفي إلى تقني",
+      "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/04_الدرس_04_الترجمة_من_وظيفي_الى_تقني_Functional_to_Technical.md",
+      "sectionId": "part6",
+      "sectionTitle": "الجزء السادس: الاستشارات والتطبيق",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    },
+    {
+      "id": "cz-049",
+      "type": "cloze",
+      "termId": "gl-056",
+      "category": "مصطلحات استشارية مهمة",
+      "front": "- ما الذي يجب اختباره في UAT قبل _____؟",
+      "back": "Go-Live",
+      "hint": "بداية استخدام النظام في الواقع",
+      "sourceId": "p6-1",
+      "sourceTitle": "الدرس 1: كيف تقود Discovery فعلي",
+      "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/01_الدرس_01_كيف_تقود_Discovery_فعلي.md",
+      "sectionId": "part6",
+      "sectionTitle": "الجزء السادس: الاستشارات والتطبيق",
+      "direction": "cloze",
+      "difficulty": "medium",
+      "tags": [
+        "cloze",
+        "glossary"
+      ]
+    }
+  ]
+}

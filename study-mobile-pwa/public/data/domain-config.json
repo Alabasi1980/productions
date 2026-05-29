@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-05-25T00:00:00.000Z",
+  "domainId": "erp-production",
+  "contentPackId": "default",
+  "appTitle": "مسار الدراسة المهنية",
+  "sidebarEyebrow": "دراسة متنقلة",
+  "readerEyebrow": "تصفح مباشر للمحتوى",
+  "searchPlaceholder": "ابحث عن درس أو ملحق أو اختبار",
+  "features": {
+    "flashcards": true,
+    "quizzes": true,
+    "dashboard": true,
+    "systemMap": true,
+    "mockInterview": true,
+    "readingProgress": true,
+    "tableOfContents": true,
+    "focusMode": true,
+    "preread": true,
+    "selfAssess": true,
+    "glossaryTooltip": true
+  },
+  "launchers": {
+    "flashcards": { "label": "بطاقات", "title": "البطاقات التعليمية" },
+    "quizzes": { "label": "اختبارات", "title": "الاختبارات والتقييم" },
+    "lessonQuiz": { "label": "اختبر هذا الدرس", "title": "اختبر هذا الدرس" },
+    "dashboard": { "label": "لوحتي", "title": "لوحتي" },
+    "systemMap": { "label": "الأنظمة", "title": "خريطة المصطلحات بين الأنظمة" },
+    "mockInterview": { "label": "مقابلة", "title": "محاكاة المقابلة" },
+    "review": { "label": "المراجعة", "title": "قائمة المراجعة" },
+    "install": { "label": "تثبيت على الهاتف", "title": "تثبيت على الهاتف" }
+  },
+  "copy": {
+    "sidebarNoteTitle": "الفهرس الكامل",
+    "sidebarNoteBody": "استكشف المسار كاملًا من هنا، أو استخدم البطاقات في الواجهة الرئيسية للدخول السريع إلى الجزء المناسب.",
+    "heroEyebrow": "أفضل خيار لأندرويد",
+    "heroTitle": "واجهة قراءة أقوى، أسرع، وأوضح لمسار الدراسة كله",
+    "heroBody": "بدل قائمة طويلة متعبة، صار عندك مدخل بصري واضح: ملفات الجذر، خريطة الأجزاء، ومداخل ذكية تعيدك إلى أهم النقاط خلال ثوانٍ.",
+    "coachEyebrow": "الخطوة التالية",
+    "coachTitle": "لا تترك الدراسة تتوزع بين أدوات كثيرة",
+    "coachBody": "المحرّك يرشح لك الآن أفضل خطوة ترفع الفهم والتثبيت قبل الانتقال إلى شيء جديد.",
+    "quickStartEyebrow": "محطات ذكية",
+    "quickStartTitle": "لا تبدأ من الصفر كل مرة",
+    "quickStartBody": "هذه المداخل تقفز بك فورًا إلى ما تحتاجه الآن: متابعة القراءة، بدء منظم، أو مرجع سريع."
+  }
+}

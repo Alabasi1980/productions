@@ -1,0 +1,13 @@
+{
+  "appId": "com.erp.study.app",
+  "appName": "منهج الإنتاج ERP",
+  "webDir": "dist",
+  "android": {
+    "minWebViewVersion": 60
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

@@ -1,0 +1,1349 @@
+{
+  "generatedAt": "2026-05-25T20:20:21.860Z",
+  "cards": [
+    {
+      "id": "fc-production-en-ar",
+      "type": "recognition",
+      "front": "Production",
+      "back": "الإنتاج — عملية تحويل المواد إلى منتج نهائي أو نصف مصنع",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "production"
+    },
+    {
+      "id": "fc-production-ar-en",
+      "type": "recall",
+      "front": "الإنتاج",
+      "back": "Production — عملية تحويل المواد إلى منتج نهائي أو نصف مصنع",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "production"
+    },
+    {
+      "id": "fc-manufacturing-en-ar",
+      "type": "recognition",
+      "front": "Manufacturing",
+      "back": "التصنيع — الإطار الأوسع لعمليات الإنتاج الصناعية",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "manufacturing"
+    },
+    {
+      "id": "fc-manufacturing-ar-en",
+      "type": "recall",
+      "front": "التصنيع",
+      "back": "Manufacturing — الإطار الأوسع لعمليات الإنتاج الصناعية",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "manufacturing"
+    },
+    {
+      "id": "fc-production-module-en-ar",
+      "type": "recognition",
+      "front": "Production Module",
+      "back": "موديول الإنتاج — الجزء المسؤول عن دورة الإنتاج داخل ERP",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "production-module"
+    },
+    {
+      "id": "fc-production-module-ar-en",
+      "type": "recall",
+      "front": "موديول الإنتاج",
+      "back": "Production Module — الجزء المسؤول عن دورة الإنتاج داخل ERP",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "production-module"
+    },
+    {
+      "id": "fc-master-data-en-ar",
+      "type": "recognition",
+      "front": "Master Data",
+      "back": "البيانات الأساسية — البيانات الثابتة التي تقوم عليها دورة الإنتاج",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "master-data"
+    },
+    {
+      "id": "fc-master-data-ar-en",
+      "type": "recall",
+      "front": "البيانات الأساسية",
+      "back": "Master Data — البيانات الثابتة التي تقوم عليها دورة الإنتاج",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "master-data"
+    },
+    {
+      "id": "fc-finished-good-en-ar",
+      "type": "recognition",
+      "front": "Finished Good",
+      "back": "المنتج النهائي — المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "finished-good"
+    },
+    {
+      "id": "fc-finished-good-ar-en",
+      "type": "recall",
+      "front": "المنتج النهائي",
+      "back": "Finished Good — المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "finished-good"
+    },
+    {
+      "id": "fc-raw-material-en-ar",
+      "type": "recognition",
+      "front": "Raw Material",
+      "back": "مادة خام — مادة تدخل في تصنيع المنتج",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "raw-material"
+    },
+    {
+      "id": "fc-raw-material-ar-en",
+      "type": "recall",
+      "front": "مادة خام",
+      "back": "Raw Material — مادة تدخل في تصنيع المنتج",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "raw-material"
+    },
+    {
+      "id": "fc-semi-finished-good-en-ar",
+      "type": "recognition",
+      "front": "Semi-finished Good / Subassembly",
+      "back": "منتج نصف مصنع — منتج وسيط قد يكون Input لأمر آخر",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "semi-finished-good"
+    },
+    {
+      "id": "fc-semi-finished-good-ar-en",
+      "type": "recall",
+      "front": "منتج نصف مصنع",
+      "back": "Semi-finished Good / Subassembly — منتج وسيط قد يكون Input لأمر آخر",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "semi-finished-good"
+    },
+    {
+      "id": "fc-unit-of-measure-en-ar",
+      "type": "recognition",
+      "front": "Unit of Measure (UoM)",
+      "back": "وحدة القياس — الوحدة المستخدمة للكميات مثل قطعة أو كجم",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "unit-of-measure"
+    },
+    {
+      "id": "fc-unit-of-measure-ar-en",
+      "type": "recall",
+      "front": "وحدة القياس",
+      "back": "Unit of Measure (UoM) — الوحدة المستخدمة للكميات مثل قطعة أو كجم",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "unit-of-measure"
+    },
+    {
+      "id": "fc-warehouse-en-ar",
+      "type": "recognition",
+      "front": "Warehouse",
+      "back": "مستودع — المكان المنطقي أو الفعلي لتخزين المواد",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "warehouse"
+    },
+    {
+      "id": "fc-warehouse-ar-en",
+      "type": "recall",
+      "front": "مستودع",
+      "back": "Warehouse — المكان المنطقي أو الفعلي لتخزين المواد",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "warehouse"
+    },
+    {
+      "id": "fc-location-en-ar",
+      "type": "recognition",
+      "front": "Location / Locator",
+      "back": "موقع — موضع داخلي أدق من المستودع",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "location"
+    },
+    {
+      "id": "fc-location-ar-en",
+      "type": "recall",
+      "front": "موقع",
+      "back": "Location / Locator — موضع داخلي أدق من المستودع",
+      "tags": [
+        "مصطلحات الجوهر العام",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "location"
+    },
+    {
+      "id": "fc-bill-of-material-en-ar",
+      "type": "recognition",
+      "front": "Bill of Material (BOM)",
+      "back": "قائمة المواد — قائمة المكونات والكميات المطلوبة لتصنيع المنتج",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "bill-of-material"
+    },
+    {
+      "id": "fc-bill-of-material-ar-en",
+      "type": "recall",
+      "front": "قائمة المواد",
+      "back": "Bill of Material (BOM) — قائمة المكونات والكميات المطلوبة لتصنيع المنتج",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "bill-of-material"
+    },
+    {
+      "id": "fc-formula-en-ar",
+      "type": "recognition",
+      "front": "Formula",
+      "back": "وصفة — بنية مكونات تستخدم غالبًا في التصنيع العملياتي",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "formula"
+    },
+    {
+      "id": "fc-formula-ar-en",
+      "type": "recall",
+      "front": "وصفة",
+      "back": "Formula — بنية مكونات تستخدم غالبًا في التصنيع العملياتي",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "formula"
+    },
+    {
+      "id": "fc-item-structure-en-ar",
+      "type": "recognition",
+      "front": "Item Structure",
+      "back": "هيكل الصنف — مصطلح Oracle للبنية المادية للمنتج",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "item-structure"
+    },
+    {
+      "id": "fc-item-structure-ar-en",
+      "type": "recall",
+      "front": "هيكل الصنف",
+      "back": "Item Structure — مصطلح Oracle للبنية المادية للمنتج",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "item-structure"
+    },
+    {
+      "id": "fc-route-en-ar",
+      "type": "recognition",
+      "front": "Route / Routing",
+      "back": "مسار التصنيع — الخطوات التي يمر بها المنتج أثناء التصنيع",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "route"
+    },
+    {
+      "id": "fc-route-ar-en",
+      "type": "recall",
+      "front": "مسار التصنيع",
+      "back": "Route / Routing — الخطوات التي يمر بها المنتج أثناء التصنيع",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "route"
+    },
+    {
+      "id": "fc-operation-en-ar",
+      "type": "recognition",
+      "front": "Operation",
+      "back": "عملية — خطوة تشغيلية داخل Route أو Work Definition",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "operation"
+    },
+    {
+      "id": "fc-operation-ar-en",
+      "type": "recall",
+      "front": "عملية",
+      "back": "Operation — خطوة تشغيلية داخل Route أو Work Definition",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "operation"
+    },
+    {
+      "id": "fc-resource-en-ar",
+      "type": "recognition",
+      "front": "Resource",
+      "back": "مورد — عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "resource"
+    },
+    {
+      "id": "fc-resource-ar-en",
+      "type": "recall",
+      "front": "مورد",
+      "back": "Resource — عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "resource"
+    },
+    {
+      "id": "fc-work-center-en-ar",
+      "type": "recognition",
+      "front": "Work Center",
+      "back": "مركز عمل — مكان أو وحدة تنفيذ للعمليات",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "work-center"
+    },
+    {
+      "id": "fc-work-center-ar-en",
+      "type": "recall",
+      "front": "مركز عمل",
+      "back": "Work Center — مكان أو وحدة تنفيذ للعمليات",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "work-center"
+    },
+    {
+      "id": "fc-work-definition-en-ar",
+      "type": "recognition",
+      "front": "Work Definition",
+      "back": "تعريف العمل — قالب Oracle الذي يجمع المواد والعمليات والموارد",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "work-definition"
+    },
+    {
+      "id": "fc-work-definition-ar-en",
+      "type": "recall",
+      "front": "تعريف العمل",
+      "back": "Work Definition — قالب Oracle الذي يجمع المواد والعمليات والموارد",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "work-definition"
+    },
+    {
+      "id": "fc-scrap-en-ar",
+      "type": "recognition",
+      "front": "Scrap",
+      "back": "هالك — فاقد في المواد أو المنتج أو العملية",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "scrap"
+    },
+    {
+      "id": "fc-scrap-ar-en",
+      "type": "recall",
+      "front": "هالك",
+      "back": "Scrap — فاقد في المواد أو المنتج أو العملية",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "scrap"
+    },
+    {
+      "id": "fc-by-product-en-ar",
+      "type": "recognition",
+      "front": "By-product",
+      "back": "منتج جانبي — مخرج ثانوي ينتج مع المنتج الرئيسي",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "by-product"
+    },
+    {
+      "id": "fc-by-product-ar-en",
+      "type": "recall",
+      "front": "منتج جانبي",
+      "back": "By-product — مخرج ثانوي ينتج مع المنتج الرئيسي",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "by-product"
+    },
+    {
+      "id": "fc-co-product-en-ar",
+      "type": "recognition",
+      "front": "Co-product",
+      "back": "منتج مشترك — مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "co-product"
+    },
+    {
+      "id": "fc-co-product-ar-en",
+      "type": "recall",
+      "front": "منتج مشترك",
+      "back": "Co-product — مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة",
+      "tags": [
+        "مصطلحات تصميم المنتج والتصنيع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "co-product"
+    },
+    {
+      "id": "fc-production-order-en-ar",
+      "type": "recognition",
+      "front": "Production Order",
+      "back": "أمر إنتاج — أمر تنفيذ إنتاج في كثير من الأنظمة",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "production-order"
+    },
+    {
+      "id": "fc-production-order-ar-en",
+      "type": "recall",
+      "front": "أمر إنتاج",
+      "back": "Production Order — أمر تنفيذ إنتاج في كثير من الأنظمة",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "production-order"
+    },
+    {
+      "id": "fc-work-order-en-ar",
+      "type": "recognition",
+      "front": "Work Order",
+      "back": "أمر عمل — المصطلح التنفيذي الشائع خاصة في Oracle",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "work-order"
+    },
+    {
+      "id": "fc-work-order-ar-en",
+      "type": "recall",
+      "front": "أمر عمل",
+      "back": "Work Order — المصطلح التنفيذي الشائع خاصة في Oracle",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "work-order"
+    },
+    {
+      "id": "fc-created-en-ar",
+      "type": "recognition",
+      "front": "Created",
+      "back": "إنشاء — حالة إنشاء الأمر قبل التنفيذ",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "created"
+    },
+    {
+      "id": "fc-created-ar-en",
+      "type": "recall",
+      "front": "إنشاء",
+      "back": "Created — حالة إنشاء الأمر قبل التنفيذ",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "created"
+    },
+    {
+      "id": "fc-released-en-ar",
+      "type": "recognition",
+      "front": "Released",
+      "back": "إطلاق — حالة يصبح فيها الأمر جاهزًا للتنفيذ",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "released"
+    },
+    {
+      "id": "fc-released-ar-en",
+      "type": "recall",
+      "front": "إطلاق",
+      "back": "Released — حالة يصبح فيها الأمر جاهزًا للتنفيذ",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "released"
+    },
+    {
+      "id": "fc-started-en-ar",
+      "type": "recognition",
+      "front": "Started",
+      "back": "بدء — بدء التنفيذ الفعلي للأمر",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "started"
+    },
+    {
+      "id": "fc-started-ar-en",
+      "type": "recall",
+      "front": "بدء",
+      "back": "Started — بدء التنفيذ الفعلي للأمر",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "started"
+    },
+    {
+      "id": "fc-material-issue-en-ar",
+      "type": "recognition",
+      "front": "Material Issue / Goods Issue",
+      "back": "صرف مواد — إخراج المواد من المخزون إلى الإنتاج",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "material-issue"
+    },
+    {
+      "id": "fc-material-issue-ar-en",
+      "type": "recall",
+      "front": "صرف مواد",
+      "back": "Material Issue / Goods Issue — إخراج المواد من المخزون إلى الإنتاج",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "material-issue"
+    },
+    {
+      "id": "fc-operation-execution-en-ar",
+      "type": "recognition",
+      "front": "Operation Execution / Reporting",
+      "back": "تسجيل تشغيل — تسجيل العمل أو الوقت أو التقدم",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "operation-execution"
+    },
+    {
+      "id": "fc-operation-execution-ar-en",
+      "type": "recall",
+      "front": "تسجيل تشغيل",
+      "back": "Operation Execution / Reporting — تسجيل العمل أو الوقت أو التقدم",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "operation-execution"
+    },
+    {
+      "id": "fc-finished-goods-receipt-en-ar",
+      "type": "recognition",
+      "front": "Finished Goods Receipt",
+      "back": "استلام منتج نهائي — دخول المنتج النهائي إلى المخزون",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "finished-goods-receipt"
+    },
+    {
+      "id": "fc-finished-goods-receipt-ar-en",
+      "type": "recall",
+      "front": "استلام منتج نهائي",
+      "back": "Finished Goods Receipt — دخول المنتج النهائي إلى المخزون",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "finished-goods-receipt"
+    },
+    {
+      "id": "fc-product-completion-en-ar",
+      "type": "recognition",
+      "front": "Product Completion",
+      "back": "إكمال المنتج — مصطلح Oracle لاستلام المنتج الناتج",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "product-completion"
+    },
+    {
+      "id": "fc-product-completion-ar-en",
+      "type": "recall",
+      "front": "إكمال المنتج",
+      "back": "Product Completion — مصطلح Oracle لاستلام المنتج الناتج",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "product-completion"
+    },
+    {
+      "id": "fc-report-as-finished-en-ar",
+      "type": "recognition",
+      "front": "Report as Finished",
+      "back": "الإبلاغ كمنجز — مصطلح Dynamics لإثبات إنجاز المنتج",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "report-as-finished"
+    },
+    {
+      "id": "fc-report-as-finished-ar-en",
+      "type": "recall",
+      "front": "الإبلاغ كمنجز",
+      "back": "Report as Finished — مصطلح Dynamics لإثبات إنجاز المنتج",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "report-as-finished"
+    },
+    {
+      "id": "fc-material-return-en-ar",
+      "type": "recognition",
+      "front": "Material Return",
+      "back": "إرجاع مواد — إعادة مواد من الأمر إلى المخزون",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "material-return"
+    },
+    {
+      "id": "fc-material-return-ar-en",
+      "type": "recall",
+      "front": "إرجاع مواد",
+      "back": "Material Return — إعادة مواد من الأمر إلى المخزون",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "material-return"
+    },
+    {
+      "id": "fc-close-en-ar",
+      "type": "recognition",
+      "front": "Close / Closing",
+      "back": "إغلاق — حسم الأمر تشغيليًا وماليًا بحسب النظام",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "close"
+    },
+    {
+      "id": "fc-close-ar-en",
+      "type": "recall",
+      "front": "إغلاق",
+      "back": "Close / Closing — حسم الأمر تشغيليًا وماليًا بحسب النظام",
+      "tags": [
+        "مصطلحات التنفيذ",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "close"
+    },
+    {
+      "id": "fc-estimated-cost-en-ar",
+      "type": "recognition",
+      "front": "Estimated Cost",
+      "back": "تكلفة مقدرة — تكلفة محسوبة قبل أو أثناء التنفيذ كمؤشر متوقع",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "estimated-cost"
+    },
+    {
+      "id": "fc-estimated-cost-ar-en",
+      "type": "recall",
+      "front": "تكلفة مقدرة",
+      "back": "Estimated Cost — تكلفة محسوبة قبل أو أثناء التنفيذ كمؤشر متوقع",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "estimated-cost"
+    },
+    {
+      "id": "fc-standard-cost-en-ar",
+      "type": "recognition",
+      "front": "Standard Cost",
+      "back": "تكلفة معيارية — تكلفة مرجعية ثابتة أو معتمدة للمقارنة",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "standard-cost"
+    },
+    {
+      "id": "fc-standard-cost-ar-en",
+      "type": "recall",
+      "front": "تكلفة معيارية",
+      "back": "Standard Cost — تكلفة مرجعية ثابتة أو معتمدة للمقارنة",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "standard-cost"
+    },
+    {
+      "id": "fc-actual-cost-en-ar",
+      "type": "recognition",
+      "front": "Actual Cost",
+      "back": "تكلفة فعلية — التكلفة الحقيقية المبنية على الحركات الفعلية",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "actual-cost"
+    },
+    {
+      "id": "fc-actual-cost-ar-en",
+      "type": "recall",
+      "front": "تكلفة فعلية",
+      "back": "Actual Cost — التكلفة الحقيقية المبنية على الحركات الفعلية",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "actual-cost"
+    },
+    {
+      "id": "fc-work-in-process-en-ar",
+      "type": "recognition",
+      "front": "Work in Process (WIP)",
+      "back": "تكلفة تحت التشغيل — قيمة ما صُرف أو سُجل على أمر لم يكتمل إغلاقه",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "work-in-process"
+    },
+    {
+      "id": "fc-work-in-process-ar-en",
+      "type": "recall",
+      "front": "تكلفة تحت التشغيل",
+      "back": "Work in Process (WIP) — قيمة ما صُرف أو سُجل على أمر لم يكتمل إغلاقه",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "work-in-process"
+    },
+    {
+      "id": "fc-variance-en-ar",
+      "type": "recognition",
+      "front": "Variance",
+      "back": "انحراف — الفرق بين المتوقع والمعياري والفعلي",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "variance"
+    },
+    {
+      "id": "fc-variance-ar-en",
+      "type": "recall",
+      "front": "انحراف",
+      "back": "Variance — الفرق بين المتوقع والمعياري والفعلي",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "variance"
+    },
+    {
+      "id": "fc-cost-posting-en-ar",
+      "type": "recognition",
+      "front": "Cost Posting / Cost Charging",
+      "back": "تحميل تكلفة — ربط حدث تشغيلي بأثر تكلفة",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "cost-posting"
+    },
+    {
+      "id": "fc-cost-posting-ar-en",
+      "type": "recall",
+      "front": "تحميل تكلفة",
+      "back": "Cost Posting / Cost Charging — ربط حدث تشغيلي بأثر تكلفة",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "cost-posting"
+    },
+    {
+      "id": "fc-cost-distribution-en-ar",
+      "type": "recognition",
+      "front": "Cost Distribution",
+      "back": "توزيع تكلفة — مصطلح Oracle لتحليل وربط التكلفة بالحركات",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "cost-distribution"
+    },
+    {
+      "id": "fc-cost-distribution-ar-en",
+      "type": "recall",
+      "front": "توزيع تكلفة",
+      "back": "Cost Distribution — مصطلح Oracle لتحليل وربط التكلفة بالحركات",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "cost-distribution"
+    },
+    {
+      "id": "fc-period-close-en-ar",
+      "type": "recognition",
+      "front": "Period Close",
+      "back": "إغلاق الفترة — إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "period-close"
+    },
+    {
+      "id": "fc-period-close-ar-en",
+      "type": "recall",
+      "front": "إغلاق الفترة",
+      "back": "Period Close — إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "period-close"
+    },
+    {
+      "id": "fc-control-reports-en-ar",
+      "type": "recognition",
+      "front": "Control Reports",
+      "back": "تقارير رقابية — تقارير لمتابعة الانحرافات والأوامر المفتوحة وWIP",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "control-reports"
+    },
+    {
+      "id": "fc-control-reports-ar-en",
+      "type": "recall",
+      "front": "تقارير رقابية",
+      "back": "Control Reports — تقارير لمتابعة الانحرافات والأوامر المفتوحة وWIP",
+      "tags": [
+        "مصطلحات التكلفة والرقابة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "control-reports"
+    },
+    {
+      "id": "fc-quality-en-ar",
+      "type": "recognition",
+      "front": "Quality",
+      "back": "جودة — التحقق من مطابقة المنتج أو العملية للمطلوب",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "quality"
+    },
+    {
+      "id": "fc-quality-ar-en",
+      "type": "recall",
+      "front": "جودة",
+      "back": "Quality — التحقق من مطابقة المنتج أو العملية للمطلوب",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "quality"
+    },
+    {
+      "id": "fc-quality-order-en-ar",
+      "type": "recognition",
+      "front": "Quality Order",
+      "back": "أمر جودة — كيان رقابي في بعض الأنظمة لفحص الجودة",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "quality-order"
+    },
+    {
+      "id": "fc-quality-order-ar-en",
+      "type": "recall",
+      "front": "أمر جودة",
+      "back": "Quality Order — كيان رقابي في بعض الأنظمة لفحص الجودة",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "quality-order"
+    },
+    {
+      "id": "fc-quality-issue-en-ar",
+      "type": "recognition",
+      "front": "Quality Issue",
+      "back": "مشكلة جودة — حالة انحراف أو خلل يحتاج متابعة",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "quality-issue"
+    },
+    {
+      "id": "fc-quality-issue-ar-en",
+      "type": "recall",
+      "front": "مشكلة جودة",
+      "back": "Quality Issue — حالة انحراف أو خلل يحتاج متابعة",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "quality-issue"
+    },
+    {
+      "id": "fc-lot-en-ar",
+      "type": "recognition",
+      "front": "Lot / Batch",
+      "back": "دفعة — مجموعة متتبعة من مادة أو منتج",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "lot"
+    },
+    {
+      "id": "fc-lot-ar-en",
+      "type": "recall",
+      "front": "دفعة",
+      "back": "Lot / Batch — مجموعة متتبعة من مادة أو منتج",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "lot"
+    },
+    {
+      "id": "fc-serial-number-en-ar",
+      "type": "recognition",
+      "front": "Serial Number",
+      "back": "رقم تسلسلي — معرف منفرد لوحدة محددة",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "serial-number"
+    },
+    {
+      "id": "fc-serial-number-ar-en",
+      "type": "recall",
+      "front": "رقم تسلسلي",
+      "back": "Serial Number — معرف منفرد لوحدة محددة",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "serial-number"
+    },
+    {
+      "id": "fc-traceability-en-ar",
+      "type": "recognition",
+      "front": "Traceability",
+      "back": "تتبع — القدرة على تتبع المادة أو المنتج عبر الدورة",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "traceability"
+    },
+    {
+      "id": "fc-traceability-ar-en",
+      "type": "recall",
+      "front": "تتبع",
+      "back": "Traceability — القدرة على تتبع المادة أو المنتج عبر الدورة",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "traceability"
+    },
+    {
+      "id": "fc-rework-en-ar",
+      "type": "recognition",
+      "front": "Rework",
+      "back": "إعادة تشغيل — إعادة معالجة منتج أو كمية غير مطابقة",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "rework"
+    },
+    {
+      "id": "fc-rework-ar-en",
+      "type": "recall",
+      "front": "إعادة تشغيل",
+      "back": "Rework — إعادة معالجة منتج أو كمية غير مطابقة",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "rework"
+    },
+    {
+      "id": "fc-reject-en-ar",
+      "type": "recognition",
+      "front": "Reject",
+      "back": "رفض — كمية مرفوضة لا تقبل كمنتج جيد",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "reject"
+    },
+    {
+      "id": "fc-reject-ar-en",
+      "type": "recall",
+      "front": "رفض",
+      "back": "Reject — كمية مرفوضة لا تقبل كمنتج جيد",
+      "tags": [
+        "مصطلحات الجودة والتتبع",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "reject"
+    },
+    {
+      "id": "fc-gap-analysis-en-ar",
+      "type": "recognition",
+      "front": "Gap Analysis",
+      "back": "تحليل الفجوات — مقارنة النظام الحالي بالمرجع المطلوب",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "gap-analysis"
+    },
+    {
+      "id": "fc-gap-analysis-ar-en",
+      "type": "recall",
+      "front": "تحليل الفجوات",
+      "back": "Gap Analysis — مقارنة النظام الحالي بالمرجع المطلوب",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "gap-analysis"
+    },
+    {
+      "id": "fc-functional-requirement-en-ar",
+      "type": "recognition",
+      "front": "Functional Requirement",
+      "back": "متطلب وظيفي — ما يجب أن يحققه النظام من منظور العمل",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "functional-requirement"
+    },
+    {
+      "id": "fc-functional-requirement-ar-en",
+      "type": "recall",
+      "front": "متطلب وظيفي",
+      "back": "Functional Requirement — ما يجب أن يحققه النظام من منظور العمل",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "functional-requirement"
+    },
+    {
+      "id": "fc-functional-to-technical-design-en-ar",
+      "type": "recognition",
+      "front": "Functional to Technical Design",
+      "back": "تصميم وظيفي إلى تقني — ترجمة المنطق الوظيفي إلى منطق قابل للتطوير",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "functional-to-technical-design"
+    },
+    {
+      "id": "fc-functional-to-technical-design-ar-en",
+      "type": "recall",
+      "front": "تصميم وظيفي إلى تقني",
+      "back": "Functional to Technical Design — ترجمة المنطق الوظيفي إلى منطق قابل للتطوير",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "functional-to-technical-design"
+    },
+    {
+      "id": "fc-implementation-readiness-en-ar",
+      "type": "recognition",
+      "front": "Implementation Readiness",
+      "back": "جاهزية التطبيق — مدى استعداد البيانات والإعدادات والفرق للتشغيل",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "implementation-readiness"
+    },
+    {
+      "id": "fc-implementation-readiness-ar-en",
+      "type": "recall",
+      "front": "جاهزية التطبيق",
+      "back": "Implementation Readiness — مدى استعداد البيانات والإعدادات والفرق للتشغيل",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "implementation-readiness"
+    },
+    {
+      "id": "fc-user-acceptance-testing-en-ar",
+      "type": "recognition",
+      "front": "User Acceptance Testing (UAT)",
+      "back": "اختبار قبول المستخدم — اختبار الدورة الحقيقية قبل التشغيل الرسمي",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "user-acceptance-testing"
+    },
+    {
+      "id": "fc-user-acceptance-testing-ar-en",
+      "type": "recall",
+      "front": "اختبار قبول المستخدم",
+      "back": "User Acceptance Testing (UAT) — اختبار الدورة الحقيقية قبل التشغيل الرسمي",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "user-acceptance-testing"
+    },
+    {
+      "id": "fc-go-live-en-ar",
+      "type": "recognition",
+      "front": "Go-Live",
+      "back": "تشغيل فعلي — بداية استخدام النظام في الواقع",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "en-ar"
+      ],
+      "sourceTermId": "go-live"
+    },
+    {
+      "id": "fc-go-live-ar-en",
+      "type": "recall",
+      "front": "تشغيل فعلي",
+      "back": "Go-Live — بداية استخدام النظام في الواقع",
+      "tags": [
+        "مصطلحات استشارية مهمة",
+        "glossary",
+        "ar-en"
+      ],
+      "sourceTermId": "go-live"
+    }
+  ]
+}

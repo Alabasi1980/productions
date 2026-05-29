@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+android/keystore.properties
+android/app/*.jks
+android/app/*.keystore

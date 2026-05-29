@@ -1,0 +1,1865 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-28T20:19:51.334Z",
+  "domainId": "erp-production",
+  "contentPackId": "erp-production-v1",
+  "source": "test-markdown-headings",
+  "count": 99,
+  "quizzes": [
+    {
+      "id": "quiz-p1-t",
+      "sourceId": "p1-t",
+      "title": "🧪 اختبار الجزء الأول",
+      "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+      "sectionId": "part1",
+      "sectionTitle": "الجزء الأول: الأساسيات والمصطلحات",
+      "questionCount": 8,
+      "questions": [
+        {
+          "id": "q-p1-t-01",
+          "sourceId": "p1-t",
+          "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+          "section": "القسم الأول: أسئلة مفاهيمية قصيرة",
+          "type": "short-answer",
+          "prompt": "1. ما الفرق بين Production Module وProduction Order؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p1-t-02",
+          "sourceId": "p1-t",
+          "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+          "section": "القسم الأول: أسئلة مفاهيمية قصيرة",
+          "type": "short-answer",
+          "prompt": "2. ما الفرق بين Product Structure وProduction Method؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p1-t-03",
+          "sourceId": "p1-t",
+          "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+          "section": "القسم الأول: أسئلة مفاهيمية قصيرة",
+          "type": "short-answer",
+          "prompt": "3. ما المقصود بـ Work in Process (WIP)؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p1-t-04",
+          "sourceId": "p1-t",
+          "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+          "section": "القسم الأول: أسئلة مفاهيمية قصيرة",
+          "type": "short-answer",
+          "prompt": "4. لماذا لا يساوي Finished Goods Receipt دائمًا خطوة Closing؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p1-t-05",
+          "sourceId": "p1-t",
+          "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+          "section": "القسم الأول: أسئلة مفاهيمية قصيرة",
+          "type": "short-answer",
+          "prompt": "5. ما الفرق بين Generic Term وSystem-Specific Term؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p1-t-06",
+          "sourceId": "p1-t",
+          "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+          "section": "القسم الثالث: أسئلة تحليلية",
+          "type": "short-answer",
+          "prompt": "1. اشرح الركائز الستة لأي موديول إنتاج قوي.",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p1-t-07",
+          "sourceId": "p1-t",
+          "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+          "section": "القسم الثالث: أسئلة تحليلية",
+          "type": "short-answer",
+          "prompt": "2. اذكر الكيانات الأساسية في موديول الإنتاج، ثم اشرح لماذا Order Entity ليس كافيًا وحده.",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p1-t-08",
+          "sourceId": "p1-t",
+          "sourcePath": "10_الجزء_الاول_الاساسيات_والمصطلحات/90_اختبار_الجزء_الاول.md",
+          "section": "القسم الثالث: أسئلة تحليلية",
+          "type": "short-answer",
+          "prompt": "3. اكتب دورة الإنتاج العامة من البداية إلى النهاية بأسلوبك.",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        }
+      ]
+    },
+    {
+      "id": "quiz-p2-t",
+      "sourceId": "p2-t",
+      "title": "🧪 اختبار الجزء الثاني",
+      "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+      "sectionId": "part2",
+      "sectionTitle": "الجزء الثاني: البيانات الأساسية",
+      "questionCount": 9,
+      "questions": [
+        {
+          "id": "q-p2-t-01",
+          "sourceId": "p2-t",
+          "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "1. ما المقصود بـ Master Data في موديول الإنتاج؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p2-t-02",
+          "sourceId": "p2-t",
+          "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "2. ما الفرق بين Product Structure وProduction Method؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p2-t-03",
+          "sourceId": "p2-t",
+          "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "3. ما الفرق بين BOM وFormula وItem Structure من حيث الفكرة العامة؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p2-t-04",
+          "sourceId": "p2-t",
+          "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "4. لماذا تعتبر UoM من أخطر عناصر البيانات الأساسية؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p2-t-05",
+          "sourceId": "p2-t",
+          "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "5. ما الفرق بين Approved وActive أو Effective في منطق النسخ؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p2-t-06",
+          "sourceId": "p2-t",
+          "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "short-answer",
+          "prompt": "1. اشرح كيف تؤثر Master Data الضعيفة على Planning وExecution وCosting",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p2-t-07",
+          "sourceId": "p2-t",
+          "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "short-answer",
+          "prompt": "2. اشرح كيف تؤثر Product Structure الخاطئة على Material Issue وMaterial Cost",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p2-t-08",
+          "sourceId": "p2-t",
+          "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "short-answer",
+          "prompt": "3. اشرح كيف تؤثر Production Method الضعيفة على Scheduling وExecution وOperation Cost",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p2-t-09",
+          "sourceId": "p2-t",
+          "sourcePath": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/90_اختبار_الجزء_الثاني.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "short-answer",
+          "prompt": "4. لماذا تعتبر الحوكمة Governance جزءًا من نضج الموديول وليس مجرد إجراء إداري؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning"
+          ],
+          "difficulty": "advanced"
+        }
+      ]
+    },
+    {
+      "id": "quiz-p3-t",
+      "sourceId": "p3-t",
+      "title": "🧪 اختبار الجزء الثالث",
+      "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+      "sectionId": "part3",
+      "sectionTitle": "الجزء الثالث: دورة التنفيذ الإنتاجي",
+      "questionCount": 14,
+      "questions": [
+        {
+          "id": "q-p3-t-01",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "1. ما الفرق بين Demand وPlanned Order وProduction Order أو Work Order؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-02",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "2. لماذا لا يعني Release أن التنفيذ الفعلي قد بدأ؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-03",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "3. ما الفرق بين Material Issue وOperation Confirmation وGoods Receipt؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-04",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "4. لماذا لا يعد Goods Receipt النهاية الكاملة لدورة الأمر؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-05",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "5. ما الفرق بين Material Return وScrap وRework؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-06",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "1. بمجرد إنشاء أمر الإنتاج يبدأ WIP تلقائيًا",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-07",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "2. يمكن تنفيذ Confirmation دون أي أثر على التكلفة أو التحليل",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-08",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "3. Backflush قرار مناسب لكل المواد في كل المصانع",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-09",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "4. يمكن أن ينجز المصنع الكمية فعليًا على الأرض بينما لا تكون الكمية نفسها متاحة بعد في المخزون",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-10",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "5. ترك الأوامر مفتوحة لفترة طويلة بعد انتهاء التشغيل لا يسبب مشكلة مهمة إذا كان العميل يعرف واقع المصنع",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-11",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "1. عميل يريد تجاوز حالة Release لأن المشرفين يرونها خطوة زائدة. كيف ترد عليه من منظور رقابي وتشغيلي؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-12",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "2. عميل يقول إن الهالك Scrap لا يحتاج تسجيلًا مستقلًا لأنه يظهر ضمن فرق الكمية النهائي. لماذا يعد هذا الفهم ضعيفًا؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-13",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "3. ما المخاطر إذا كان العميل يسجل Goods Receipt مباشرة بعد نهاية التشغيل من دون فحص جودة أو مراجعة كمية فعلية؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p3-t-14",
+          "sourceId": "p3-t",
+          "sourcePath": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/90_اختبار_الجزء_الثالث.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "short-answer",
+          "prompt": "4. كيف تفسر وجود أوامر كثيرة في حالة شبه منتهية لكنها لم تصل إلى Close؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        }
+      ]
+    },
+    {
+      "id": "quiz-p4-t",
+      "sourceId": "p4-t",
+      "title": "🧪 اختبار الجزء الرابع",
+      "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+      "sectionId": "part4",
+      "sectionTitle": "الجزء الرابع: التكاليف والانحرافات",
+      "questionCount": 11,
+      "questions": [
+        {
+          "id": "q-p4-t-01",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "1. ما المكونات الرئيسية التي تبني Cost Build Up للمنتج؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p4-t-02",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "2. لماذا لا تعد BOM وحدها كافية لفهم تكلفة المنتج في بيئة ERP متقدمة؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p4-t-03",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "3. ما معنى WIP ولماذا لا يعد مجرد رقم مالي منفصل عن الواقع التشغيلي؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p4-t-04",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "4. ما الفرق بين Standard Cost وActual Cost؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p4-t-05",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "5. ما الفرق بين Variance وSettlement؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p4-t-06",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "1. إذا كانت Master Data دقيقة، فلن تظهر Variances أبدًا",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p4-t-07",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "3. يمكن الاعتماد على Cost reports قبل اكتمال التسوية والإغلاق النهائي من دون مخاطرة حقيقية",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p4-t-08",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "1. عميل يشكو من WIP مرتفع كل شهر. اذكر ثلاثة أسباب تشغيلية أو تنظيمية محتملة قبل أن تذهب مباشرة إلى التفسير المحاسبي",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p4-t-09",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "short-answer",
+          "prompt": "2. كيف تشرح للإدارة أن Variance ليس مجرد رقم سلبي، بل أداة لتشخيص الخلل؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p4-t-10",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "3. ما المخاطر إذا اعتمد العميل Standard Cost بينما لا يراجع BOM وRouting والتسعير بانتظام؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p4-t-11",
+          "sourceId": "p4-t",
+          "sourcePath": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/90_اختبار_الجزء_الرابع.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "short-answer",
+          "prompt": "4. ما التقارير الأساسية التي تنصح بمراجعتها قبل إغلاق الفترة Period Close؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip"
+          ],
+          "difficulty": "advanced"
+        }
+      ]
+    },
+    {
+      "id": "quiz-p5-t",
+      "sourceId": "p5-t",
+      "title": "🧪 اختبار الجزء الخامس",
+      "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+      "sectionId": "part5",
+      "sectionTitle": "الجزء الخامس: الجودة والتخطيط",
+      "questionCount": 13,
+      "questions": [
+        {
+          "id": "q-p5-t-01",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "1. لماذا لا تعد الجودة Quality وظيفة منفصلة تمامًا عن دورة الإنتاج؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-02",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "2. ما الفرق بين Planning أو MRP وبين Production Order أو Work Order؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-03",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "3. ما الفرق بين Make to Stock وMake to Order؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-04",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "4. ما الفرق بين Lot Control وSerial Control؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-05",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "5. ما الفرق بين Subassembly وCo-product وBy-product؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-06",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "6. ما الفرق بين Discrete Manufacturing وProcess Manufacturing وRepetitive Manufacturing؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-07",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "1. يمكن اعتبار المنتج النهائي متاحًا مباشرة بعد انتهاء التشغيل الجسدي حتى لو كانت هناك سياسة Inspection إلزامية",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-08",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "2. كل Planned Order يجب أن يتحول مباشرة إلى أمر تنفيذ من دون مراجعة",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-09",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "3. كل المصانع إما MTS بالكامل أو MTO بالكامل ولا يوجد منطق مختلط عملي",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-10",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "1. عميل يقول: لا نحتاج تتبع Lot أو Serial لأننا نعرف المواد المستخدمة عادة. لماذا هذا الفهم خطير؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-11",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "2. عميل آخر يريد MTO لكل المنتجات رغم أن أغلبها قياسي وسريع الحركة. ما المخاطر المحتملة؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-12",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "3. كيف تشرح للعميل أن مشكلة التخطيط قد تظهر لاحقًا على شكل تأخير تنفيذ أو Variance أو نقص مواد؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p5-t-13",
+          "sourceId": "p5-t",
+          "sourcePath": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/90_اختبار_الجزء_الخامس.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "short-answer",
+          "prompt": "4. متى يكون من الخطأ تصميم بيئة Process Manufacturing على أنها BOM تقليدية فقط؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        }
+      ]
+    },
+    {
+      "id": "quiz-p6-t",
+      "sourceId": "p6-t",
+      "title": "🧪 اختبار الجزء السادس",
+      "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+      "sectionId": "part6",
+      "sectionTitle": "الجزء السادس: الاستشارات والتطبيق",
+      "questionCount": 14,
+      "questions": [
+        {
+          "id": "q-p6-t-01",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "1. ما معنى Discovery الجيدة في مشروع Production Module؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-02",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "2. ما الفرق بين Training issue وConfiguration issue وData issue وReal gap؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-03",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "3. لماذا لا يعد UAT اختبار شاشة فقط؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-04",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "4. ما معنى Functional to Technical Translation؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-05",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الأول: أسئلة مفاهيمية",
+          "type": "short-answer",
+          "prompt": "5. لماذا تعد مراقبة أول أسابيع Go-Live جزءًا من نجاح المشروع لا نشاطًا لاحقًا فقط؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-06",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "1. إذا طلب المستخدم شيئًا غير موجود في الشاشة الحالية، فهذا يعني مباشرة وجود Gap حقيقية",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-07",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "2. أفضل وقت لحسم التكلفة والتقارير هو بعد نهاية الإعداد وقبل Go-Live بقليل فقط",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-08",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "3. يمكن اعتبار Go-Live ناجحًا إذا دخل المستخدمون النظام حتى لو بقيت الدورة غير مختبرة End-to-End",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-09",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الثاني: صح أم خطأ مع التفسير",
+          "type": "true-false-explain",
+          "prompt": "5. كثرة المشكلات الصغيرة بعد Go-Live قد تكون مؤشرًا أقوى من وجود مشكلة كبيرة واحدة معزولة",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-10",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "1. عميل يقول: لا نريد إضاعة الوقت في Discovery طويلة، دعونا نبدأ بالإعداد مباشرة. كيف ترد عليه؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-11",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "2. كيف تشرح للعميل أن بعض طلباته ليست Gaps بل تحتاج Training أو Process discipline؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-12",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "short-answer",
+          "prompt": "3. ما العناصر التي تجعل قرار Go/No-Go قرارًا مهنيًا لا قرارًا متسرعًا؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-13",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "scenario",
+          "prompt": "4. إذا أعطاك المستخدم طلبًا لتطوير تقرير أو validation، كيف تحوله إلى صياغة Functional to Technical واضحة؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-p6-t-14",
+          "sourceId": "p6-t",
+          "sourcePath": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/90_اختبار_الجزء_السادس.md",
+          "section": "القسم الثالث: تحليل وظيفي",
+          "type": "short-answer",
+          "prompt": "5. ما أول المؤشرات التي ستراقبها في أول أسبوعين بعد استلام أو تشغيل الموديول؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "costing-wip",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        }
+      ]
+    },
+    {
+      "id": "quiz-ap-t1",
+      "sourceId": "ap-t1",
+      "title": "الاختبار التجميعي النهائي",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+      "sectionId": "app-tests",
+      "sectionTitle": "🧪 اختبارات وتقييم",
+      "questionCount": 25,
+      "questions": [
+        {
+          "id": "q-ap-t1-01",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الأول: المفاهيم المؤسسة",
+          "type": "short-answer",
+          "prompt": "1. اشرح ما الذي يجعل نظامًا ما Production Module حقيقيًا، لا مجرد شاشة أمر إنتاج مع خصم مواد وإضافة منتج نهائي",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-02",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الأول: المفاهيم المؤسسة",
+          "type": "short-answer",
+          "prompt": "2. ما الفرق بين Product Structure وProduction Method وExecution Cycle وCost Control؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-03",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الأول: المفاهيم المؤسسة",
+          "type": "short-answer",
+          "prompt": "3. لماذا يجب الفصل ذهنيًا بين الكيانات الثلاثة التالية",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-04",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الأول: المفاهيم المؤسسة",
+          "type": "short-answer",
+          "prompt": "4. اشرح لماذا لا يعني Finished Goods Receipt أو Product Completion أو RAF أن دورة الأمر انتهت بالكامل",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-05",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الثاني: البيانات الأساسية وتصميم المنتج",
+          "type": "short-answer",
+          "prompt": "1. ما أثر ضعف Master Data على التخطيط والتنفيذ والتكلفة؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-06",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الثاني: البيانات الأساسية وتصميم المنتج",
+          "type": "short-answer",
+          "prompt": "2. اشرح الفرق بين كيانات التصميم التالية",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-07",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الثاني: البيانات الأساسية وتصميم المنتج",
+          "type": "short-answer",
+          "prompt": "3. متى يصبح Version أو Approval أو Governance عنصرًا حاسمًا في نضج الموديول؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-08",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الثالث: دورة التنفيذ الإنتاجي",
+          "type": "short-answer",
+          "prompt": "1. اكتب دورة التنفيذ الإنتاجي الكاملة من بداية الطلب أو الخطة حتى Close بأسلوبك أنت",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-09",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الثالث: دورة التنفيذ الإنتاجي",
+          "type": "short-answer",
+          "prompt": "2. ما الفرق بين مراحل التنفيذ التالية",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-10",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الثالث: دورة التنفيذ الإنتاجي",
+          "type": "short-answer",
+          "prompt": "3. كيف تفسر حالات Return وScrap وRework من منظور تشغيلي وتكلفي؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-11",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الرابع: التكاليف وWIP والانحرافات",
+          "type": "short-answer",
+          "prompt": "1. اشرح كيف تتكون تكلفة المنتج من منظور ERP",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-12",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الرابع: التكاليف وWIP والانحرافات",
+          "type": "short-answer",
+          "prompt": "2. ما معنى WIP؟ ولماذا يعد مؤشرًا تشغيليًا وماليًا في نفس الوقت؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-13",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الرابع: التكاليف وWIP والانحرافات",
+          "type": "short-answer",
+          "prompt": "3. ما الفرق بين Standard Cost وActual Cost؟ ومتى يصبح اختيار أحدهما قرارًا مؤثرًا على المشروع كله؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-14",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الرابع: التكاليف وWIP والانحرافات",
+          "type": "short-answer",
+          "prompt": "4. ما معنى Variance؟ وكيف تفرق بين Variance سببه Master Data وVariance سببه Execution؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-15",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+          "type": "scenario",
+          "prompt": "1. لماذا تعد Quality جزءًا من دورة الإنتاج لا طبقة منفصلة عنها؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-16",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+          "type": "scenario",
+          "prompt": "2. كيف تشرح دور MRP أو Master Planning في توليد أوامر الإنتاج بدل النظر إلى الأوامر كأنها تبدأ من التنفيذ فقط؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-17",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+          "type": "scenario",
+          "prompt": "3. ما الفرق بين Make to Stock وMake to Order؟ ومتى تكون البيئة مختلطة بدل أن تكون واضحة تمامًا؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-18",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+          "type": "scenario",
+          "prompt": "4. ما الفرق بين Lot Traceability وSerial Traceability؟ ولماذا يؤثر ذلك على الجودة والتكلفة والتحقيق؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-19",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+          "type": "scenario",
+          "prompt": "5. اشرح الفرق بين الكيانات الإنتاجية التالية",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-20",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم الخامس: الجودة والتخطيط والسيناريوهات المتقدمة",
+          "type": "scenario",
+          "prompt": "6. متى يصبح من الخطأ تمثيل البيئة على أنها Discrete فقط بينما هي في الواقع أقرب إلى Process أو Repetitive أو Mixed-Mode؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-21",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم السادس: التفكير الاستشاري",
+          "type": "short-answer",
+          "prompt": "1. كيف تقود Discovery جيدة لموديول الإنتاج؟ وما المخرجات التي يجب أن تخرج بها؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-22",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم السادس: التفكير الاستشاري",
+          "type": "short-answer",
+          "prompt": "2. ما الفرق بين أنواع المشكلات التالية",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-23",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم السادس: التفكير الاستشاري",
+          "type": "short-answer",
+          "prompt": "3. ما الذي يجعل UAT قويًا فعليًا في مشروع إنتاج؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-24",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم السادس: التفكير الاستشاري",
+          "type": "short-answer",
+          "prompt": "4. كيف تحول طلبًا وظيفيًا غامضًا إلى Functional to Technical specification قابلة للتنفيذ؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t1-25",
+          "sourceId": "ap-t1",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/01_الاختبار_التجميعي_النهائي_للكتاب.md",
+          "section": "القسم السادس: التفكير الاستشاري",
+          "type": "short-answer",
+          "prompt": "5. ما العلامات المبكرة التي تراقبها بعد Go-Live لتعرف أن الموديول مستقر أو غير مستقر؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "master-data",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        }
+      ]
+    },
+    {
+      "id": "quiz-ap-t8",
+      "sourceId": "ap-t8",
+      "title": "اختبار الجاهزية المهني النهائي",
+      "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/08_اختبار_الجاهزية_المهني_النهائي.md",
+      "sectionId": "app-tests",
+      "sectionTitle": "🧪 اختبارات وتقييم",
+      "questionCount": 5,
+      "questions": [
+        {
+          "id": "q-ap-t8-01",
+          "sourceId": "ap-t8",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/08_اختبار_الجاهزية_المهني_النهائي.md",
+          "section": "القسم الأول: المفاهيم الحرجة السريعة",
+          "type": "short-answer",
+          "prompt": "1. ما الفرق بين Demand وPlanned Order وProduction Order؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t8-02",
+          "sourceId": "ap-t8",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/08_اختبار_الجاهزية_المهني_النهائي.md",
+          "section": "القسم الأول: المفاهيم الحرجة السريعة",
+          "type": "short-answer",
+          "prompt": "2. ما الفرق بين Product Structure وProduction Method؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t8-03",
+          "sourceId": "ap-t8",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/08_اختبار_الجاهزية_المهني_النهائي.md",
+          "section": "القسم الأول: المفاهيم الحرجة السريعة",
+          "type": "short-answer",
+          "prompt": "3. ما الفرق بين completion وavailability وclose؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t8-04",
+          "sourceId": "ap-t8",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/08_اختبار_الجاهزية_المهني_النهائي.md",
+          "section": "القسم الأول: المفاهيم الحرجة السريعة",
+          "type": "short-answer",
+          "prompt": "4. متى يصبح WIP طبيعيًا، ومتى يصبح علامة خطر؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        },
+        {
+          "id": "q-ap-t8-05",
+          "sourceId": "ap-t8",
+          "sourcePath": "90_الملاحق_والمرجع_السريع/30_الاختبارات_والتقييم/08_اختبار_الجاهزية_المهني_النهائي.md",
+          "section": "القسم الأول: المفاهيم الحرجة السريعة",
+          "type": "short-answer",
+          "prompt": "5. ما الفرق بين Data issue وTraining issue وProcess issue وReal gap؟",
+          "expectedAnswer": "",
+          "explanation": "",
+          "skills": [
+            "erp-production-core",
+            "production-execution",
+            "costing-wip",
+            "quality-planning",
+            "consulting-readiness"
+          ],
+          "difficulty": "advanced"
+        }
+      ]
+    }
+  ]
+}

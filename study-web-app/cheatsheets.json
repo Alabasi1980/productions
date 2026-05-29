@@ -1,0 +1,3227 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-28T20:19:54.723Z",
+  "domainId": "erp-production",
+  "contentPackId": "erp-production-v1",
+  "count": 11,
+  "sheets": [
+    {
+      "sectionId": "meta",
+      "title": "📋 البداية والخطة",
+      "badge": null,
+      "color": null,
+      "lessonCount": 2,
+      "lessons": [
+        {
+          "id": "m2",
+          "title": "الخطة الرئيسية قبل الوظيفة",
+          "path": "01_الخطة_الرئيسية_قبل_الوظيفة.md",
+          "summary": "المطلوب هنا ليس تحضيرًا قصيرًا لبداية عقد أو مقابلة، بل بناء مستوى قوي جدًا في منطق الإنتاج داخل ERP، بحيث تعمل وأنت قادر على الفهم والتحليل واتخاذ الموقف الصحيح والتطور بعد ذلك من داخل العمل نفسه.",
+          "keyPoints": [
+            {
+              "heading": "المرحلة الأولى: فهم جوهر الإنتاج في ERP",
+              "text": "فهم المكونات الأساسية لموديول الإنتاج."
+            },
+            {
+              "heading": "المرحلة الأولى: فهم جوهر الإنتاج في ERP",
+              "text": "فهم لماذا الإنتاج ليس مجرد أمر تصنيع."
+            },
+            {
+              "heading": "المرحلة الأولى: فهم جوهر الإنتاج في ERP",
+              "text": "فهم العلاقة بين الإنتاج والمخزون والتكلفة."
+            },
+            {
+              "heading": "المرحلة الثانية: دورة الإنتاج التنفيذية",
+              "text": "فهم Master Data وBOM وRoute أو Work Definition."
+            }
+          ],
+          "subheadings": [
+            "الهدف العام",
+            "الهدف المهني النهائي",
+            "مراحل الدراسة",
+            "المرحلة الأولى: فهم جوهر الإنتاج في ERP",
+            "المرحلة الثانية: دورة الإنتاج التنفيذية",
+            "المرحلة الثالثة: التكلفة والرقابة والمخاطر"
+          ]
+        },
+        {
+          "id": "m5",
+          "title": "📖 القاموس التأسيسي",
+          "path": "05_القاموس_التأسيسي_الثنائي_اللغة.md",
+          "summary": "هذا الملف ليس قاموسًا نهائيًا لكل الكتاب، بل Foundation Bilingual Glossary.",
+          "keyPoints": [],
+          "subheadings": [
+            "الهدف من هذا الملف",
+            "مصطلحات الجوهر العام",
+            "مصطلحات تصميم المنتج والتصنيع",
+            "مصطلحات التنفيذ",
+            "مصطلحات التكلفة والرقابة",
+            "مصطلحات الجودة والتتبع"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-002",
+          "ar": "التصنيع",
+          "en": "Manufacturing",
+          "def": "الإطار الأوسع لعمليات الإنتاج الصناعية"
+        },
+        {
+          "id": "gl-003",
+          "ar": "موديول الإنتاج",
+          "en": "Production Module",
+          "def": "الجزء المسؤول عن دورة الإنتاج داخل ERP"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-005",
+          "ar": "المنتج النهائي",
+          "en": "Finished Good",
+          "def": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي"
+        },
+        {
+          "id": "gl-006",
+          "ar": "مادة خام",
+          "en": "Raw Material",
+          "def": "مادة تدخل في تصنيع المنتج"
+        },
+        {
+          "id": "gl-007",
+          "ar": "منتج نصف مصنع",
+          "en": "Semi-finished Good / Subassembly",
+          "def": "منتج وسيط قد يكون Input لأمر آخر"
+        },
+        {
+          "id": "gl-008",
+          "ar": "وحدة القياس",
+          "en": "Unit of Measure (UoM)",
+          "def": "الوحدة المستخدمة للكميات مثل قطعة أو كجم"
+        },
+        {
+          "id": "gl-009",
+          "ar": "مستودع",
+          "en": "Warehouse",
+          "def": "المكان المنطقي أو الفعلي لتخزين المواد"
+        },
+        {
+          "id": "gl-010",
+          "ar": "موقع",
+          "en": "Location / Locator",
+          "def": "موضع داخلي أدق من المستودع"
+        },
+        {
+          "id": "gl-011",
+          "ar": "قائمة المواد",
+          "en": "Bill of Material (BOM)",
+          "def": "قائمة المكونات والكميات المطلوبة لتصنيع المنتج"
+        },
+        {
+          "id": "gl-012",
+          "ar": "وصفة",
+          "en": "Formula",
+          "def": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي"
+        },
+        {
+          "id": "gl-013",
+          "ar": "هيكل الصنف",
+          "en": "Item Structure",
+          "def": "مصطلح Oracle للبنية المادية للمنتج"
+        },
+        {
+          "id": "gl-014",
+          "ar": "مسار التصنيع",
+          "en": "Route / Routing",
+          "def": "الخطوات التي يمر بها المنتج أثناء التصنيع"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-016",
+          "ar": "مورد",
+          "en": "Resource",
+          "def": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ"
+        },
+        {
+          "id": "gl-017",
+          "ar": "مركز عمل",
+          "en": "Work Center",
+          "def": "مكان أو وحدة تنفيذ للعمليات"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        }
+      ],
+      "comparisons": []
+    },
+    {
+      "sectionId": "part1",
+      "title": "الجزء الأول: الأساسيات والمصطلحات",
+      "badge": "١",
+      "color": "#2563eb",
+      "lessonCount": 4,
+      "lessons": [
+        {
+          "id": "p1-1",
+          "title": "الدرس 1: جوهر الإنتاج في ERP",
+          "path": "10_الجزء_الاول_الاساسيات_والمصطلحات/01_الدرس_01_جوهر_الانتاج_في_ERP.md",
+          "summary": "أكبر خطأ يقع فيه المبتدئ في موديول الإنتاج Production Module هو أنه يتخيل أن الإنتاج يساوي:",
+          "keyPoints": [
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "البيانات الأساسية Master Data"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "هيكل المنتج Product Structure"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "طريقة التصنيع Production Method"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "أمر الإنتاج Production Order أو Work Order"
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الفكرة الكبرى",
+            "الركائز الستة لأي موديول إنتاج قوي",
+            "1. البيانات الأساسية Master Data",
+            "2. هيكل المنتج Product Structure"
+          ]
+        },
+        {
+          "id": "p1-2",
+          "title": "الدرس 2: الخريطة الثنائية للمصطلحات",
+          "path": "10_الجزء_الاول_الاساسيات_والمصطلحات/02_الدرس_02_الخريطة_الثنائية_للمصطلحات_الاساسية.md",
+          "summary": "إذا كنت تفهم المصطلح بالعربية فقط أو بالإنجليزية فقط، فسيبقى فهمك ناقصًا.",
+          "keyPoints": [
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "من مدير المشروع بالعربية"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "من المستندات بالإنجليزية"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "من المبرمجين بمزيج من الاثنين"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "من المورد أو الشريك باسم النظام نفسه"
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "القاعدة الأولى: ليس كل اختلاف في الاسم يعني اختلافًا في المفهوم",
+            "القاعدة الثانية: هناك مصطلحات عامة ومصطلحات خاصة بالنظام",
+            "مصطلحات عامة Generic Terms",
+            "مصطلحات خاصة أو أكثر ارتباطًا بنظام معين"
+          ]
+        },
+        {
+          "id": "p1-3",
+          "title": "الدرس 3: الكيانات الرئيسية",
+          "path": "10_الجزء_الاول_الاساسيات_والمصطلحات/03_الدرس_03_الكيانات_الرئيسية_في_موديول_الانتاج.md",
+          "summary": "لكن الفهم الصحيح يبدأ من فهم الكيانات Entities التي يتكون منها الموديول.",
+          "keyPoints": [
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "ما الذي يجب أن يوجد في قاعدة البيانات أو منطق النظام."
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "ما الذي يجب أن يكون معرفًا قبل التشغيل."
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "ما الذي يتحرك أثناء التنفيذ."
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "أين يمكن أن تظهر الفجوات في النظام المحلي."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "ما معنى الكيان Entity هنا؟",
+            "الكيانات الأساسية الثمانية",
+            "1. كيان المنتج Product Entity",
+            "2. كيان بنية المنتج Product Structure Entity"
+          ]
+        },
+        {
+          "id": "p1-4",
+          "title": "الدرس 4: الصورة الكاملة لدورة الإنتاج",
+          "path": "10_الجزء_الاول_الاساسيات_والمصطلحات/04_الدرس_04_الصورة_الكاملة_لدورة_الانتاج.md",
+          "summary": "الآن بعد أن فهمت الجوهر العام والمصطلحات والكيانات، تحتاج أن ترى الدورة الكاملة End-to-End Production Cycle بصورة واحدة واضحة.",
+          "keyPoints": [
+            {
+              "heading": "منطقة البيانات التعريفية Definition Zone",
+              "text": "BOM / Formula / Item Structure"
+            },
+            {
+              "heading": "منطقة البيانات التعريفية Definition Zone",
+              "text": "Route / Work Definition"
+            },
+            {
+              "heading": "منطقة البيانات التعريفية Definition Zone",
+              "text": "Resources / Work Centers"
+            },
+            {
+              "heading": "منطقة التنفيذ Transaction Zone",
+              "text": "Production Order / Work Order"
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الدورة العامة Universal Production Cycle",
+            "أين تبدأ البيانات وأين تبدأ الحركات؟",
+            "منطقة البيانات التعريفية Definition Zone",
+            "منطقة التنفيذ Transaction Zone"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-002",
+          "ar": "التصنيع",
+          "en": "Manufacturing",
+          "def": "الإطار الأوسع لعمليات الإنتاج الصناعية"
+        },
+        {
+          "id": "gl-003",
+          "ar": "موديول الإنتاج",
+          "en": "Production Module",
+          "def": "الجزء المسؤول عن دورة الإنتاج داخل ERP"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-005",
+          "ar": "المنتج النهائي",
+          "en": "Finished Good",
+          "def": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي"
+        },
+        {
+          "id": "gl-006",
+          "ar": "مادة خام",
+          "en": "Raw Material",
+          "def": "مادة تدخل في تصنيع المنتج"
+        },
+        {
+          "id": "gl-007",
+          "ar": "منتج نصف مصنع",
+          "en": "Semi-finished Good / Subassembly",
+          "def": "منتج وسيط قد يكون Input لأمر آخر"
+        },
+        {
+          "id": "gl-008",
+          "ar": "وحدة القياس",
+          "en": "Unit of Measure (UoM)",
+          "def": "الوحدة المستخدمة للكميات مثل قطعة أو كجم"
+        },
+        {
+          "id": "gl-009",
+          "ar": "مستودع",
+          "en": "Warehouse",
+          "def": "المكان المنطقي أو الفعلي لتخزين المواد"
+        },
+        {
+          "id": "gl-010",
+          "ar": "موقع",
+          "en": "Location / Locator",
+          "def": "موضع داخلي أدق من المستودع"
+        },
+        {
+          "id": "gl-012",
+          "ar": "وصفة",
+          "en": "Formula",
+          "def": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي"
+        },
+        {
+          "id": "gl-013",
+          "ar": "هيكل الصنف",
+          "en": "Item Structure",
+          "def": "مصطلح Oracle للبنية المادية للمنتج"
+        },
+        {
+          "id": "gl-014",
+          "ar": "مسار التصنيع",
+          "en": "Route / Routing",
+          "def": "الخطوات التي يمر بها المنتج أثناء التصنيع"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-016",
+          "ar": "مورد",
+          "en": "Resource",
+          "def": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ"
+        },
+        {
+          "id": "gl-017",
+          "ar": "مركز عمل",
+          "en": "Work Center",
+          "def": "مكان أو وحدة تنفيذ للعمليات"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        },
+        {
+          "id": "gl-019",
+          "ar": "هالك",
+          "en": "Scrap",
+          "def": "فاقد في المواد أو المنتج أو العملية"
+        }
+      ],
+      "comparisons": [
+        {
+          "concept": "البيانات الأساسية",
+          "dynamics": "Released Products, Item Groups, Dimensions",
+          "oracle": "Items, Inventory Organizations, Plant Parameters",
+          "sap": "Material Master, Plant, Storage Location"
+        },
+        {
+          "concept": "هيكل المنتج",
+          "dynamics": "BOM / Formula",
+          "oracle": "Item Structure / Work Definition inputs",
+          "sap": "BOM"
+        },
+        {
+          "concept": "طريقة التصنيع",
+          "dynamics": "Route / Operations / Resources",
+          "oracle": "Work Definition / Operations / Resources",
+          "sap": "Routing / Work Center / Activity Type"
+        },
+        {
+          "concept": "الكيان التنفيذي",
+          "dynamics": "Production Order",
+          "oracle": "Work Order",
+          "sap": "Production Order / Process Order"
+        },
+        {
+          "concept": "استلام الناتج",
+          "dynamics": "Report as Finished",
+          "oracle": "Product Completion",
+          "sap": "Goods Receipt"
+        },
+        {
+          "concept": "الإغلاق",
+          "dynamics": "Ended / Closed",
+          "oracle": "Work Order Close / Closed",
+          "sap": "TECO / Settlement / CLSD بحسب السياق"
+        },
+        {
+          "concept": "تعريف المنتج",
+          "dynamics": "Released Product",
+          "oracle": "Item",
+          "sap": "Material Master"
+        },
+        {
+          "concept": "بنية المنتج",
+          "dynamics": "BOM / Formula",
+          "oracle": "Item Structure",
+          "sap": "BOM"
+        },
+        {
+          "concept": "طريقة التصنيع",
+          "dynamics": "Route",
+          "oracle": "Work Definition",
+          "sap": "Routing + Work Center"
+        },
+        {
+          "concept": "الكيان التنفيذي",
+          "dynamics": "Production Order",
+          "oracle": "Work Order",
+          "sap": "Production Order / Process Order"
+        },
+        {
+          "concept": "صرف المواد",
+          "dynamics": "Picking List / Material Consumption",
+          "oracle": "Material Issue",
+          "sap": "Goods Issue"
+        },
+        {
+          "concept": "تسجيل التنفيذ",
+          "dynamics": "Route Card / Job Card",
+          "oracle": "Operation Execution / Resource Charging",
+          "sap": "Confirmation"
+        }
+      ]
+    },
+    {
+      "sectionId": "part2",
+      "title": "الجزء الثاني: البيانات الأساسية",
+      "badge": "٢",
+      "color": "#7c3aed",
+      "lessonCount": 4,
+      "lessons": [
+        {
+          "id": "p2-1",
+          "title": "الدرس 1: البيانات الأساسية Master Data",
+          "path": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/01_الدرس_01_البيانات_الاساسية_Master_Data.md",
+          "summary": "أي Production Module قوي أو ضعيف يبدأ فعليًا من جودة البيانات الأساسية Master Data.",
+          "keyPoints": [
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "الصنف Product / Item / Material"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "وحدة القياس Unit of Measure (UoM)"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "الموقع Site / Plant / Organization"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "المستودع Warehouse / Storage Location / Subinventory"
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "ما المقصود بـ Master Data؟",
+            "أهم عناصر Master Data في التصنيع",
+            "1. المنتج Product / Item / Material",
+            "2. المادة الخام Raw Material"
+          ]
+        },
+        {
+          "id": "p2-2",
+          "title": "الدرس 2: بنية المنتج BOM",
+          "path": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/02_الدرس_02_بنية_المنتج_BOM_Formula_Item_Structure.md",
+          "summary": "إذا كانت Master Data تجيب عن سؤال: ما الذي نستخدمه داخل النظام؟",
+          "keyPoints": [
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "التخطيط Planning"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "الصرف Consumption"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "التكلفة Material Cost"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "المنتجات النصف مصنعة Subassemblies"
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "ما المقصود ببنية المنتج Product Structure؟",
+            "BOM: Bill of Material",
+            "Formula",
+            "Item Structure"
+          ]
+        },
+        {
+          "id": "p2-3",
+          "title": "الدرس 3: طريقة التصنيع Route",
+          "path": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/03_الدرس_03_طريقة_التصنيع_Route_Work_Definition_Resources.md",
+          "summary": "بعد أن عرفت ماذا يدخل في المنتج Product Structure، يجب أن تعرف الآن كيف يُصنع هذا المنتج Production Method.",
+          "keyPoints": [
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "Route / Routing"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "Work Definition"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "Activity and Time Standards"
+            },
+            {
+              "heading": "Production Method: كيف يصنع المنتج؟",
+              "text": "في أي مركز عمل؟"
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "Production Method: كيف يصنع المنتج؟",
+            "Route / Routing",
+            "Operation",
+            "Resource"
+          ]
+        },
+        {
+          "id": "p2-4",
+          "title": "الدرس 4: النسخ والاعتماد والحوكمة",
+          "path": "20_الجزء_الثاني_البيانات_الاساسية_وتصميم_المنتج/04_الدرس_04_النسخ_الاعتماد_والحوكمة_Versions_Approvals_Governance.md",
+          "summary": "يمكنك أن تملك Product Structure جيدة وProduction Method جيدة، لكن إذا لم تكن النسخ Versions والاعتماد Approvals والحوكمة Governance مضبوطة، فسيظل النظام معرضًا للفوضى.",
+          "keyPoints": [
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "Effective Dates"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "Change Control"
+            },
+            {
+              "heading": "لماذا لا تكفي نسخة واحدة ثابتة دائمًا؟",
+              "text": "مكون Material"
+            },
+            {
+              "heading": "لماذا لا تكفي نسخة واحدة ثابتة دائمًا؟",
+              "text": "كمية Quantity"
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "لماذا لا تكفي نسخة واحدة ثابتة دائمًا؟",
+            "مفهوم Version",
+            "مفهوم Approval",
+            "مفهوم Activation"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-002",
+          "ar": "التصنيع",
+          "en": "Manufacturing",
+          "def": "الإطار الأوسع لعمليات الإنتاج الصناعية"
+        },
+        {
+          "id": "gl-003",
+          "ar": "موديول الإنتاج",
+          "en": "Production Module",
+          "def": "الجزء المسؤول عن دورة الإنتاج داخل ERP"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-005",
+          "ar": "المنتج النهائي",
+          "en": "Finished Good",
+          "def": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي"
+        },
+        {
+          "id": "gl-006",
+          "ar": "مادة خام",
+          "en": "Raw Material",
+          "def": "مادة تدخل في تصنيع المنتج"
+        },
+        {
+          "id": "gl-007",
+          "ar": "منتج نصف مصنع",
+          "en": "Semi-finished Good / Subassembly",
+          "def": "منتج وسيط قد يكون Input لأمر آخر"
+        },
+        {
+          "id": "gl-008",
+          "ar": "وحدة القياس",
+          "en": "Unit of Measure (UoM)",
+          "def": "الوحدة المستخدمة للكميات مثل قطعة أو كجم"
+        },
+        {
+          "id": "gl-009",
+          "ar": "مستودع",
+          "en": "Warehouse",
+          "def": "المكان المنطقي أو الفعلي لتخزين المواد"
+        },
+        {
+          "id": "gl-010",
+          "ar": "موقع",
+          "en": "Location / Locator",
+          "def": "موضع داخلي أدق من المستودع"
+        },
+        {
+          "id": "gl-012",
+          "ar": "وصفة",
+          "en": "Formula",
+          "def": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي"
+        },
+        {
+          "id": "gl-013",
+          "ar": "هيكل الصنف",
+          "en": "Item Structure",
+          "def": "مصطلح Oracle للبنية المادية للمنتج"
+        },
+        {
+          "id": "gl-014",
+          "ar": "مسار التصنيع",
+          "en": "Route / Routing",
+          "def": "الخطوات التي يمر بها المنتج أثناء التصنيع"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-016",
+          "ar": "مورد",
+          "en": "Resource",
+          "def": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ"
+        },
+        {
+          "id": "gl-017",
+          "ar": "مركز عمل",
+          "en": "Work Center",
+          "def": "مكان أو وحدة تنفيذ للعمليات"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        },
+        {
+          "id": "gl-019",
+          "ar": "هالك",
+          "en": "Scrap",
+          "def": "فاقد في المواد أو المنتج أو العملية"
+        }
+      ],
+      "comparisons": [
+        {
+          "concept": "تعريف الصنف",
+          "dynamics": "Released Product",
+          "oracle": "Item",
+          "sap": "Material Master"
+        },
+        {
+          "concept": "السياق التنظيمي",
+          "dynamics": "Site / Warehouse / Location",
+          "oracle": "Inventory Organization / Subinventory / Locator",
+          "sap": "Plant / Storage Location"
+        },
+        {
+          "concept": "وحدة القياس",
+          "dynamics": "UoM and conversions",
+          "oracle": "UoM",
+          "sap": "Base UoM and conversions"
+        },
+        {
+          "concept": "التتبع",
+          "dynamics": "Tracking Dimensions",
+          "oracle": "Lot / Serial Control",
+          "sap": "Batch / Serial"
+        },
+        {
+          "concept": "إعدادات التكلفة",
+          "dynamics": "Item Group / Item Model Group",
+          "oracle": "Costing Enabled / Asset behavior",
+          "sap": "Valuation Class / Price Control / Costing Views"
+        },
+        {
+          "concept": "البنية الأساسية",
+          "dynamics": "BOM / Formula",
+          "oracle": "Item Structure / BOM",
+          "sap": "BOM"
+        },
+        {
+          "concept": "النسخ",
+          "dynamics": "BOM Version",
+          "oracle": "Structure plus Work Definition versioning context",
+          "sap": "Alternative BOM / Validity"
+        },
+        {
+          "concept": "الهالك",
+          "dynamics": "Constant / Variable Scrap",
+          "oracle": "Depends on structure and execution design",
+          "sap": "Component / Assembly / Operation Scrap"
+        },
+        {
+          "concept": "المنتجات المشتركة",
+          "dynamics": "Formula with Co-products / By-products",
+          "oracle": "Process-oriented definitions and outputs",
+          "sap": "Process manufacturing concepts"
+        },
+        {
+          "concept": "Phantom",
+          "dynamics": "Phantom handling in BOM logic",
+          "oracle": "Structure behavior with design choices",
+          "sap": "Phantom Item"
+        },
+        {
+          "concept": "طريقة التصنيع",
+          "dynamics": "Route",
+          "oracle": "Work Definition",
+          "sap": "Routing"
+        },
+        {
+          "concept": "العملية",
+          "dynamics": "Operation",
+          "oracle": "Operation",
+          "sap": "Operation"
+        }
+      ]
+    },
+    {
+      "sectionId": "part3",
+      "title": "الجزء الثالث: دورة التنفيذ الإنتاجي",
+      "badge": "٣",
+      "color": "#059669",
+      "lessonCount": 6,
+      "lessons": [
+        {
+          "id": "p3-1",
+          "title": "الدرس 1: من الطلب إلى أمر الإنتاج",
+          "path": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/01_الدرس_01_من_الطلب_الى_امر_الانتاج_Production_Order_and_Statuses.md",
+          "summary": "لأن كثيرًا من المتعلمين يفهمون الإنتاج على أنه يبدأ من صرف المواد Material Issue، بينما الحقيقة أن التنفيذ يبدأ منطقيًا قبل ذلك بكثير: عند تحويل الطلب أو الخطة إلى أمر إنتاج Production Order أو Work Order قابل للإدارة.",
+          "keyPoints": [
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "متى يكون الأمر مجرد نية تنفيذ وليس تنفيذًا فعليًا؟"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "متى يصبح الأمر جاهزًا للصالة أو shop floor؟"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "متى يسمح النظام بالحركات المخزنية أو التشغيلية؟"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "كيف نفرق بين التأخر في التخطيط وبين التأخر في التنفيذ؟"
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "1. الطلب Demand",
+            "2. المقترح التخطيطي Planning Proposal",
+            "3. الأمر التنفيذي Execution Order"
+          ]
+        },
+        {
+          "id": "p3-2",
+          "title": "الدرس 2: الإطلاق والبدء والصرف",
+          "path": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/02_الدرس_02_الاطلاق_والبدء_والصرف_Release_Start_Material_Issue.md",
+          "summary": "لأن أول أثر حقيقي في أرض المصنع لا يبدأ عند إنشاء الأمر، بل عندما يصبح جاهزًا للتنفيذ ثم يبدأ الصرف الفعلي للمواد. هذه هي النقطة التي ينتقل فيها النظام من نية التصنيع إلى استهلاك حقيقي للمخزون وبدء ظهور Work in Proces...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح الفرق بين Release وStart."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم معنى Material Issue وGoods Issue وComponent Issue."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تفسير متى يبدأ استهلاك المخزون ومتى يبدأ أثر WIP."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "التمييز بين الصرف اليدوي Manual issue والصرف التلقائي Backflush أو Auto issue."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "Release",
+            "Start",
+            "Material Issue"
+          ]
+        },
+        {
+          "id": "p3-3",
+          "title": "الدرس 3: تنفيذ العمليات والتأكيد",
+          "path": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/03_الدرس_03_تنفيذ_العمليات_والتأكيد_Operation_Execution_Confirmation.md",
+          "summary": "لأن الإنتاج ليس مجرد صرف مواد ثم استلام منتج نهائي. بين هاتين النقطتين توجد المنطقة الأهم إداريًا وتشغيليًا: ما الذي حدث داخل العمليات Operations؟ من عمل؟ كم استغرق؟ كم خرج جيد؟ كم خرج Scrap؟ وهل المورد أو Work Center...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح معنى Operation Execution."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم Confirmation وResource Charging وJob Reporting."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "التمييز بين تقدم العملية Progress وبين اكتمال الأمر كاملًا."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تفسير كيف تدخل أزمنة العمل والموارد في تكلفة الأمر."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "Operation Execution",
+            "Confirmation",
+            "Resource Charging"
+          ]
+        },
+        {
+          "id": "p3-4",
+          "title": "الدرس 4: استلام المنتج النهائي",
+          "path": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/04_الدرس_04_استلام_المنتج_النهائي_RAF_Product_Completion_Goods_Receipt.md",
+          "summary": "لأن كثيرًا من الناس يظنون أن انتهاء التشغيل على الأرض يعني تلقائيًا دخول المنتج إلى المخزون. هذا غير صحيح. هناك حدث نظامي مستقل يجب فهمه جيدًا: استلام المنتج النهائي Finished Goods Receipt أو Report as Finished أو Pro...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح الفرق بين نهاية العملية وبين استلام المنتج النهائي."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم Report as Finished وGoods Receipt وProduct Completion."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تفسير أثر هذا الحدث على المخزون وعلى WIP."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم لماذا قد يصبح المنتج منجزًا تشغيليًا لكنه غير متاح بيعيًا أو مخزنيًا بعد."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "الفصل بين ثلاث لحظات مهمة",
+            "كيف يظهر المفهوم في الأنظمة الثلاثة",
+            "Dynamics 365"
+          ]
+        },
+        {
+          "id": "p3-5",
+          "title": "الدرس 5: المرتجعات والهالك وإعادة التشغيل",
+          "path": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/05_الدرس_05_المرتجعات_والهالك_واعادة_التشغيل_Return_Scrap_Rework.md",
+          "summary": "لأن أي دورة تنفيذ Production Execution Cycle مثالية على الورق فقط. في الواقع العملي تظهر مواد مصروفة زيادة ثم تعاد، وقطع تالفة Scrap، ومنتجات تحتاج Rework أو Repair. إذا لم تفهم هذه السيناريوهات، فسيبدو لك النظام جيدً...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح الفرق بين Material Return وScrap وRework."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم أثر كل حالة على المخزون والتكلفة."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تفسير لماذا يعد الهالك جزءًا من التحكم وليس مجرد خسارة."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "صياغة أسئلة استشارية صحيحة عن سياسات العيوب والانحراف."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "Material Return",
+            "Scrap",
+            "Rework"
+          ]
+        },
+        {
+          "id": "p3-6",
+          "title": "الدرس 6: الإغلاق ونقل الأثر إلى WIP",
+          "path": "30_الجزء_الثالث_دورة_التنفيذ_الانتاجي/06_الدرس_06_الاغلاق_ونقل_الاثر_الى_WIP_Variance_Close.md",
+          "summary": "لأن كثيرًا من المتعلمين يظنون أن دورة التنفيذ تنتهي عند استلام المنتج النهائي. لكن من منظور ERP، هذه ليست النهاية. ما زال هناك سؤال محوري: ماذا سنفعل بالتكلفة المتراكمة على الأمر؟ وهل بقي Work in Process مفتوحًا؟ وهل ...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح الفرق بين الاكتمال التشغيلي Operational completion والإغلاق النهائي Final close."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم العلاقة بين WIP وVariances وSettlement وClose."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تفسير لماذا يحتاج المستشار أن يفهم الإغلاق حتى لو كان تركيزه Functional لا Financial."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "ربط نهاية التنفيذ ببداية التحليل الرقابي والتكلفي."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "ما معنى WIP؟",
+            "ما معنى Variance؟",
+            "ما معنى Close؟"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-002",
+          "ar": "التصنيع",
+          "en": "Manufacturing",
+          "def": "الإطار الأوسع لعمليات الإنتاج الصناعية"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-005",
+          "ar": "المنتج النهائي",
+          "en": "Finished Good",
+          "def": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي"
+        },
+        {
+          "id": "gl-006",
+          "ar": "مادة خام",
+          "en": "Raw Material",
+          "def": "مادة تدخل في تصنيع المنتج"
+        },
+        {
+          "id": "gl-009",
+          "ar": "مستودع",
+          "en": "Warehouse",
+          "def": "المكان المنطقي أو الفعلي لتخزين المواد"
+        },
+        {
+          "id": "gl-010",
+          "ar": "موقع",
+          "en": "Location / Locator",
+          "def": "موضع داخلي أدق من المستودع"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-016",
+          "ar": "مورد",
+          "en": "Resource",
+          "def": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ"
+        },
+        {
+          "id": "gl-017",
+          "ar": "مركز عمل",
+          "en": "Work Center",
+          "def": "مكان أو وحدة تنفيذ للعمليات"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        },
+        {
+          "id": "gl-019",
+          "ar": "هالك",
+          "en": "Scrap",
+          "def": "فاقد في المواد أو المنتج أو العملية"
+        },
+        {
+          "id": "gl-022",
+          "ar": "أمر إنتاج",
+          "en": "Production Order",
+          "def": "أمر تنفيذ إنتاج في كثير من الأنظمة"
+        },
+        {
+          "id": "gl-023",
+          "ar": "أمر عمل",
+          "en": "Work Order",
+          "def": "المصطلح التنفيذي الشائع خاصة في Oracle"
+        },
+        {
+          "id": "gl-024",
+          "ar": "إنشاء",
+          "en": "Created",
+          "def": "حالة إنشاء الأمر قبل التنفيذ"
+        },
+        {
+          "id": "gl-025",
+          "ar": "إطلاق",
+          "en": "Released",
+          "def": "حالة يصبح فيها الأمر جاهزًا للتنفيذ"
+        },
+        {
+          "id": "gl-026",
+          "ar": "بدء",
+          "en": "Started",
+          "def": "بدء التنفيذ الفعلي للأمر"
+        },
+        {
+          "id": "gl-027",
+          "ar": "صرف مواد",
+          "en": "Material Issue / Goods Issue",
+          "def": "إخراج المواد من المخزون إلى الإنتاج"
+        }
+      ],
+      "comparisons": []
+    },
+    {
+      "sectionId": "part4",
+      "title": "الجزء الرابع: التكاليف والانحرافات",
+      "badge": "٤",
+      "color": "#dc2626",
+      "lessonCount": 5,
+      "lessons": [
+        {
+          "id": "p4-1",
+          "title": "الدرس 1: كيف تتكون تكلفة المنتج",
+          "path": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/01_الدرس_01_كيف_تتكون_تكلفة_المنتج_Cost_Build_Up.md",
+          "summary": "لأن كثيرًا من الناس يتعاملون مع تكلفة المنتج كأنها رقم نهائي يخرج من النظام بلا منطق واضح. في الواقع، تكلفة المنتج داخل ERP هي بناء تراكمي Cost Build Up يتكون من مواد وعمليات وموارد وتكاليف غير مباشرة وهالك. إذا لم تف...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح المكونات الرئيسية لتكلفة المنتج."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم الفرق بين Material Cost وOperation Cost وResource Cost وOverhead."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تفسير لماذا تؤدي الأخطاء في Master Data إلى تكلفة مضللة."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "ربط Product Design وExecution Costing في صورة واحدة."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "Material Cost",
+            "Operation Cost",
+            "Resource Cost"
+          ]
+        },
+        {
+          "id": "p4-2",
+          "title": "الدرس 2: WIP وجسر الانتقال المالي",
+          "path": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/02_الدرس_02_WIP_وجسر_الانتقال_المالي_Work_in_Process.md",
+          "summary": "لأن WIP هو النقطة التي يضيع عندها كثير من الفهم بين التشغيل والمالية. من لا يفهم Work in Process يرى أن المواد خرجت من المخزن، والمنتج لم يدخل بالكامل بعد، فلا يعرف أين ذهبت القيمة. الجواب هو: دخلت في WIP.",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح معنى Work in Process أو WIP."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تفسير لماذا يعد WIP حسابًا أو وعاءً مرحليًا لا نهائيًا."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم كيف يزيد WIP وكيف ينخفض."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "ربط WIP بحركات الصرف والتشغيل والاستلام والإغلاق."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "لماذا نحتاج WIP؟",
+            "المنطق المفاهيمي",
+            "كيف يظهر WIP في الأنظمة الثلاثة"
+          ]
+        },
+        {
+          "id": "p4-3",
+          "title": "الدرس 3: التكلفة المعيارية والفعلية",
+          "path": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/03_الدرس_03_التكلفة_المعيارية_والفعلية_Standard_vs_Actual_Cost.md",
+          "summary": "لأن كثيرًا من الالتباس في مشاريع الإنتاج يأتي من سؤال لم يُحسم منذ البداية: هل المؤسسة تريد أن تقيس وتقيّم على أساس Standard Cost أم Actual Cost؟ الفرق بينهما ليس تقنيًا فقط، بل يؤثر على تقييم المخزون، طريقة قراءة الف...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح الفرق بين Standard Cost وActual Cost."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم أثر كل نموذج على المخزون وWIP وVariances."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تفسير متى يكون النموذج المعياري مناسبًا ومتى يكون النموذج الفعلي أقرب للواقع."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "ربط هذا الاختيار بدرجة نضج Master Data والحوكمة."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "Standard Cost",
+            "Actual Cost",
+            "مقارنة جوهرية"
+          ]
+        },
+        {
+          "id": "p4-4",
+          "title": "الدرس 4: الانحرافات وكيف تقرأها",
+          "path": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/04_الدرس_04_الانحرافات_Variances_وكيف_تقرأها.md",
+          "summary": "لأن Variances هي اللغة التي يتحدث بها النظام عندما يقول لك: ما خططتم له ليس هو ما حدث فعليًا. لكن الخطأ الشائع هو أن الناس يرون الانحراف رقمًا مزعجًا فقط، بدل أن يقرأوه كرسالة تشخيصية عن مشكلة في البيانات أو التنفيذ أ...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح معنى Variance في سياق الإنتاج."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم المصادر الأساسية للانحرافات."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "التمييز بين انحراف سببه Master Data وانحراف سببه Execution."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "استخدام الانحرافات كأداة تحسين لا كرقم اتهام فقط."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "كيف تقرأ الانحراف؟",
+            "السؤال الأول",
+            "السؤال الثاني"
+          ]
+        },
+        {
+          "id": "p4-5",
+          "title": "الدرس 5: التسوية والإغلاق والتقارير",
+          "path": "40_الجزء_الرابع_التكاليف_WIP_والانحرافات/05_الدرس_05_التسوية_والاغلاق_والتقارير_Settlement_Close_Reports.md",
+          "summary": "لأن التكلفة لا تصبح ذات معنى إداري كامل إلا إذا أغلقت الدورة وخرجت منها تقارير قابلة للقراءة. كثير من البيئات تجمع حركات كثيرة، لكن ضعف التسوية والإغلاق يجعل الإدارة ترى أرقامًا نصف ناضجة لا يمكن الوثوق بها.",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح معنى Settlement وClose وPeriod-End logic."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم العلاقة بين الإغلاق والتقارير الرقابية."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تحديد التقارير الأساسية التي يجب أن تراجع WIP وVariances والأوامر المفتوحة."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "صياغة رؤية استشارية لعملية month-end أو period-end في التصنيع."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "Settlement",
+            "Close",
+            "Period-End Logic"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-002",
+          "ar": "التصنيع",
+          "en": "Manufacturing",
+          "def": "الإطار الأوسع لعمليات الإنتاج الصناعية"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-005",
+          "ar": "المنتج النهائي",
+          "en": "Finished Good",
+          "def": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي"
+        },
+        {
+          "id": "gl-006",
+          "ar": "مادة خام",
+          "en": "Raw Material",
+          "def": "مادة تدخل في تصنيع المنتج"
+        },
+        {
+          "id": "gl-010",
+          "ar": "موقع",
+          "en": "Location / Locator",
+          "def": "موضع داخلي أدق من المستودع"
+        },
+        {
+          "id": "gl-012",
+          "ar": "وصفة",
+          "en": "Formula",
+          "def": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي"
+        },
+        {
+          "id": "gl-013",
+          "ar": "هيكل الصنف",
+          "en": "Item Structure",
+          "def": "مصطلح Oracle للبنية المادية للمنتج"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-016",
+          "ar": "مورد",
+          "en": "Resource",
+          "def": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ"
+        },
+        {
+          "id": "gl-017",
+          "ar": "مركز عمل",
+          "en": "Work Center",
+          "def": "مكان أو وحدة تنفيذ للعمليات"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        },
+        {
+          "id": "gl-019",
+          "ar": "هالك",
+          "en": "Scrap",
+          "def": "فاقد في المواد أو المنتج أو العملية"
+        },
+        {
+          "id": "gl-022",
+          "ar": "أمر إنتاج",
+          "en": "Production Order",
+          "def": "أمر تنفيذ إنتاج في كثير من الأنظمة"
+        },
+        {
+          "id": "gl-023",
+          "ar": "أمر عمل",
+          "en": "Work Order",
+          "def": "المصطلح التنفيذي الشائع خاصة في Oracle"
+        },
+        {
+          "id": "gl-029",
+          "ar": "استلام منتج نهائي",
+          "en": "Finished Goods Receipt",
+          "def": "دخول المنتج النهائي إلى المخزون"
+        },
+        {
+          "id": "gl-030",
+          "ar": "إكمال المنتج",
+          "en": "Product Completion",
+          "def": "مصطلح Oracle لاستلام المنتج الناتج"
+        },
+        {
+          "id": "gl-031",
+          "ar": "الإبلاغ كمنجز",
+          "en": "Report as Finished",
+          "def": "مصطلح Dynamics لإثبات إنجاز المنتج"
+        }
+      ],
+      "comparisons": []
+    },
+    {
+      "sectionId": "part5",
+      "title": "الجزء الخامس: الجودة والتخطيط",
+      "badge": "٥",
+      "color": "#d97706",
+      "lessonCount": 7,
+      "lessons": [
+        {
+          "id": "p5-1",
+          "title": "الدرس 1: الجودة في التصنيع",
+          "path": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/01_الدرس_01_الجودة_في_التصنيع_Quality_in_Manufacturing.md",
+          "summary": "لأن كثيرًا من الناس يضعون الجودة Quality خارج موديول الإنتاج، وكأنها وظيفة منفصلة تأتي بعد التصنيع فقط. هذا فهم ناقص. في بيئة ERP الناضجة، الجودة ليست مرحلة لاحقة فقط، بل طبقة تحكم تؤثر على:",
+          "keyPoints": [
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "صرف المواد Material Issue"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "تنفيذ العمليات Operation Execution"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "استلام المنتج النهائي Goods Receipt"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "الهالك Scrap"
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "مستويات الجودة داخل التصنيع",
+            "العلاقة بين الجودة والتنفيذ",
+            "العلاقة بين الجودة والتكلفة"
+          ]
+        },
+        {
+          "id": "p5-2",
+          "title": "الدرس 2: التخطيط ومولد الطلب MRP",
+          "path": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/02_الدرس_02_التخطيط_ومولد_الطلب_Planning_MRP_Master_Planning.md",
+          "summary": "لأن الإنتاج القوي لا يبدأ من أمر الإنتاج وحده، بل من منطق يولد هذا الأمر أصلًا. إذا لم تفهم Planning وMRP وMaster Planning، فسترى أوامر الإنتاج كأنها تظهر من فراغ، ولن تستطيع تفسير لماذا وُلد أمر معيّن، ولماذا تأخر آخ...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح دور Planning وMRP وMaster Planning في بيئة التصنيع."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "التمييز بين الطلب Demand وبين مقترح التوريد Supply proposal."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم Planned Orders أو Planned Production Orders قبل تحويلها إلى أوامر تنفيذية."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "ربط التخطيط بالمواد والطاقة والوقت."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "ما الذي يقرأه نظام التخطيط؟",
+            "ما الذي ينتجه؟",
+            "لماذا هذا مهم؟"
+          ]
+        },
+        {
+          "id": "p5-3",
+          "title": "الدرس 3: الإنتاج للمخزون وحسب الطلب MTS/MTO",
+          "path": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/03_الدرس_03_الانتاج_للمخزون_والانتاج_حسب_الطلب_MTS_MTO.md",
+          "summary": "لأن Make to Stock وMake to Order ليسا مجرد مصطلحين نظريين. هما قراران تشغيليان وتجاريان يؤثران على التخطيط والمخزون وخدمة العميل وسرعة التسليم وربط الإنتاج بالطلب. كثير من أخطاء تصميم الموديول تبدأ من عدم حسم هذا السؤ...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح الفرق بين Make to Stock وMake to Order."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم أثر كل نموذج على Planning والمخزون والأوامر."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "التمييز بين البيئة المختلطة Mixed model والبيئة الواضحة."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "طرح أسئلة صحيحة على العميل لاكتشاف النموذج المناسب."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "Make to Stock",
+            "Make to Order",
+            "النموذج المختلط"
+          ]
+        },
+        {
+          "id": "p5-4",
+          "title": "الدرس 4: التتبع بالدفعات والسيريال",
+          "path": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/04_الدرس_04_التتبع_بالدفعات_والسيريال_Lot_Serial_Traceability.md",
+          "summary": "لأن التتبع Traceability ليس رفاهية. في بعض الصناعات هو شرط جودة وامتثال وتحقيق وتحليل تكلفة. إذا لم يكن النظام يعرف أي Lot أو Serial دخل في أي أمر وأي منتج خرج منه، فستفقد القدرة على التحقيق في العيوب والاستدعاءات Rec...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح الفرق بين Lot control وSerial control."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم معنى Traceability وGenealogy داخل الإنتاج."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تفسير لماذا يؤثر التتبع على الجودة والتنفيذ والتكلفة معًا."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تحديد متى يكون التتبع ضروريًا ومتى يكون زائدًا عن الحاجة."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "Lot Control",
+            "Serial Control",
+            "Traceability وGenealogy"
+          ]
+        },
+        {
+          "id": "p5-5",
+          "title": "الدرس 5: التصنيع متعدد المستويات",
+          "path": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/05_الدرس_05_التصنيع_متعدد_المستويات_والمخرجات_المتعددة_Multi_Level_Process_Outputs.md",
+          "summary": "لأن بعض البيئات لا تنتج منتجًا واحدًا بسيطًا من مواد بسيطة. بل توجد مستويات متعددة من التجميعات Multi-level BOM، أو بيئات Process Manufacturing تنتج أكثر من مخرج من نفس الأمر، أو منتجات ثانوية يجب تسجيلها وتكلفتها. هذ...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح معنى Multi-level BOM أو multi-level product structure."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم الفرق بين المنتج الرئيسي والـ Co-products والـ By-products."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "إدراك متى نستخدم Formula أو Process definition بدل BOM التقليدية."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تفسير أثر هذه السيناريوهات على التخطيط والتنفيذ والتكلفة."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "Multi-level BOM",
+            "Co-products",
+            "By-products"
+          ]
+        },
+        {
+          "id": "p5-6",
+          "title": "الدرس 6: الأنماط المتقدمة Discrete/Process/Lean",
+          "path": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/06_الدرس_06_الانماط_المتقدمة_Discrete_Process_Repetitive_Lean.md",
+          "summary": "لأن كلمة Manufacturing لا تعني نمطًا واحدًا. بعض العملاء يصنعون منتجات منفصلة Discrete، وبعضهم يعملون بوصفات ودفعات Process، وبعضهم إنتاجهم متكرر ومستقر Repetitive، وبعضهم يعتمدون منطق Lean أو تدفقات مبسطة. إذا لم تمي...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح الفروق الأساسية بين Discrete وProcess وRepetitive وLean patterns."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم أثر كل نمط على Master Data والتنفيذ والتكلفة."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "معرفة لماذا لا تصلح نفس درجة التفصيل لكل البيئات."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "طرح أسئلة discovery تكشف نمط التصنيع الحقيقي عند العميل."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "Discrete Manufacturing",
+            "Process Manufacturing",
+            "Repetitive Manufacturing"
+          ]
+        },
+        {
+          "id": "p5-7",
+          "title": "الدرس 7: Subcontracting والتصنيع الخارجي",
+          "path": "50_الجزء_الخامس_الجودة_والتخطيط_والسيناريوهات_المتقدمة/07_الدرس_07_Subcontracting_والتصنيع_الخارجي.md",
+          "summary": "لأن Subcontracting أو التصنيع الخارجي شائع جدًا في السوق المحلي، خصوصًا عندما تنفذ الشركة جزءًا من العملية داخليًا وترسل جزءًا آخر إلى مقاول خارجي.",
+          "keyPoints": [
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "حركة المخزون"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "تكلفة الخدمة الخارجية"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "الفروقات بين المرسل والمستلم"
+            },
+            {
+              "heading": "لماذا هذا الدرس مهم",
+              "text": "حالة WIP والإغلاق"
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "ما هو Subcontracting؟",
+            "الأنماط الشائعة",
+            "1. خدمة خارجية على مادة تملكها الشركة",
+            "2. تصنيع خارجي جزئي داخل دورة داخلية أكبر"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-002",
+          "ar": "التصنيع",
+          "en": "Manufacturing",
+          "def": "الإطار الأوسع لعمليات الإنتاج الصناعية"
+        },
+        {
+          "id": "gl-003",
+          "ar": "موديول الإنتاج",
+          "en": "Production Module",
+          "def": "الجزء المسؤول عن دورة الإنتاج داخل ERP"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-005",
+          "ar": "المنتج النهائي",
+          "en": "Finished Good",
+          "def": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي"
+        },
+        {
+          "id": "gl-010",
+          "ar": "موقع",
+          "en": "Location / Locator",
+          "def": "موضع داخلي أدق من المستودع"
+        },
+        {
+          "id": "gl-012",
+          "ar": "وصفة",
+          "en": "Formula",
+          "def": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي"
+        },
+        {
+          "id": "gl-013",
+          "ar": "هيكل الصنف",
+          "en": "Item Structure",
+          "def": "مصطلح Oracle للبنية المادية للمنتج"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-016",
+          "ar": "مورد",
+          "en": "Resource",
+          "def": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        },
+        {
+          "id": "gl-019",
+          "ar": "هالك",
+          "en": "Scrap",
+          "def": "فاقد في المواد أو المنتج أو العملية"
+        },
+        {
+          "id": "gl-020",
+          "ar": "منتج جانبي",
+          "en": "By-product",
+          "def": "مخرج ثانوي ينتج مع المنتج الرئيسي"
+        },
+        {
+          "id": "gl-021",
+          "ar": "منتج مشترك",
+          "en": "Co-product",
+          "def": "مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة"
+        },
+        {
+          "id": "gl-022",
+          "ar": "أمر إنتاج",
+          "en": "Production Order",
+          "def": "أمر تنفيذ إنتاج في كثير من الأنظمة"
+        },
+        {
+          "id": "gl-023",
+          "ar": "أمر عمل",
+          "en": "Work Order",
+          "def": "المصطلح التنفيذي الشائع خاصة في Oracle"
+        },
+        {
+          "id": "gl-024",
+          "ar": "إنشاء",
+          "en": "Created",
+          "def": "حالة إنشاء الأمر قبل التنفيذ"
+        },
+        {
+          "id": "gl-030",
+          "ar": "إكمال المنتج",
+          "en": "Product Completion",
+          "def": "مصطلح Oracle لاستلام المنتج الناتج"
+        }
+      ],
+      "comparisons": []
+    },
+    {
+      "sectionId": "part6",
+      "title": "الجزء السادس: الاستشارات والتطبيق",
+      "badge": "٦",
+      "color": "#0891b2",
+      "lessonCount": 6,
+      "lessons": [
+        {
+          "id": "p6-1",
+          "title": "الدرس 1: كيف تقود Discovery فعلي",
+          "path": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/01_الدرس_01_كيف_تقود_Discovery_فعلي.md",
+          "summary": "لأن كثيرًا من الاستشاريين المبتدئين يعتقدون أن Discovery يعني جمع معلومات عامة عن المصنع. هذا غير كافٍ. Discovery الجيد هو العملية التي تحول الواقع التشغيلي إلى أسئلة قابلة للحسم، ثم إلى إعدادات وتقارير وصلاحيات وتطوي...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم معنى Discovery في مشروع موديول الإنتاج."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "معرفة ما الذي يجب أن يخرج به كل اجتماع Discovery."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "التمييز بين سؤال مفيد وسؤال عام لا ينتج قرارًا."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تحويل إجابات العميل إلى عناصر تنفيذية قابلة للمتابعة."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "ما مخرجات Discovery الجيدة؟",
+            "السؤال الجيد مقابل السؤال الضعيف",
+            "كيف يظهر المفهوم في الأنظمة الثلاثة"
+          ]
+        },
+        {
+          "id": "p6-2",
+          "title": "الدرس 2: كيف تبني Gap Analysis",
+          "path": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/02_الدرس_02_كيف_تبني_Gap_Analysis_محترم.md",
+          "summary": "لأن Gap Analysis هو المكان الذي يتحول فيه فهمك للنظام وللعميل إلى حكم استشاري مهني. إذا كان الـ Gap Analysis ضعيفًا، فإما أن تضخم الفجوات بلا داعٍ، أو تخفي فجوات حقيقية حتى تنفجر بعد Go-Live.",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تعريف معنى Gap في مشاريع ERP بشكل صحيح."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "التمييز بين ما يحل بالتدريب وما يحل بالإعداد وما يحتاج تطويرًا."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "كتابة Gap بصيغة تساعد القرار لا بصيغة إنشائية."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "ربط كل Gap بالأثر والأولوية وطريقة المعالجة."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "ليست كل مشكلة Gap",
+            "ما الذي يجب أن تحتويه Gap جيدة؟",
+            "كيف يظهر المفهوم في الأنظمة الثلاثة"
+          ]
+        },
+        {
+          "id": "p6-3",
+          "title": "الدرس 3: الجاهزية وUAT وقرار Go/No-Go",
+          "path": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/03_الدرس_03_الجاهزية_وال_UAT_وقرار_Go_No_Go.md",
+          "summary": "لأن كثيرًا من المشاريع لا تفشل بسبب عدم وجود شاشات أو إعدادات، بل بسبب ضعف الجاهزية. يكون النظام موجودًا، لكن البيانات ناقصة، والاختبار سطحي، والمالية غير مقتنعة، والمستودعات لم تجرب الدورة كاملة، ثم يحدث Go-Live مبكر.",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "شرح معنى Readiness قبل Go-Live."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم دور UAT الحقيقي في مشاريع الإنتاج."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "التمييز بين اختبار شاشة واختبار دورة End-to-End."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "بناء تصور مهني لقرار Go أو No-Go."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "ما هي الجاهزية Readiness؟",
+            "ما هو UAT الحقيقي؟",
+            "ما هو قرار Go/No-Go؟"
+          ]
+        },
+        {
+          "id": "p6-4",
+          "title": "الدرس 4: الترجمة من وظيفي إلى تقني",
+          "path": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/04_الدرس_04_الترجمة_من_وظيفي_الى_تقني_Functional_to_Technical.md",
+          "summary": "لأن المستشار الذي لا يعرف كيف يترجم الاحتياج الوظيفي إلى وصف تقني قابل للتنفيذ سيبقى مجرد ناقل ملاحظات. أما المستشار الجيد فيفهم كيف يحول العملية والفجوة والتقرير المطلوب إلى تصميم واضح يمكن للمبرمج أو فريق التطوير أن...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم معنى Functional to Technical Translation."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "كتابة متطلب وظيفي بصيغة قابلة للتنفيذ التقني."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تحديد المدخلات والمخرجات والقواعد والاستثناءات بوضوح."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "تقليل الفجوة بين المستخدم النهائي والمبرمج."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "عناصر الترجمة الجيدة",
+            "لماذا يفشل كثير من الطلبات التطويرية؟",
+            "كيف يظهر المفهوم في الأنظمة الثلاثة"
+          ]
+        },
+        {
+          "id": "p6-5",
+          "title": "الدرس 5: علامات الفشل المبكر بعد Go-Live",
+          "path": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/05_الدرس_05_علامات_الفشل_المبكر_بعد_Go_Live.md",
+          "summary": "لأن كثيرًا من المشاكل بعد Go-Live لا تبدأ ككارثة كبيرة، بل كإشارات صغيرة تتكرر يوميًا. المستشار الضعيف يراها ضوضاء طبيعية. المستشار الجيد يراها Early Warning Signals تكشف أن النظام لم يستقر بعد أو أن التصميم لا يعكس ا...",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "رصد علامات الخطر المبكرة بعد التشغيل."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "التمييز بين مشكلة تدريب ومشكلة بيانات ومشكلة تصميم."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "فهم ما الذي يجب مراقبته يوميًا في الأسابيع الأولى."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "بناء عقلية دعم واستقرار لا مجرد تسليم مشروع."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "أمثلة على إشارات مبكرة مهمة",
+            "لماذا هذه الإشارات مهمة؟",
+            "كيف يظهر المفهوم في الأنظمة الثلاثة"
+          ]
+        },
+        {
+          "id": "p6-6",
+          "title": "الدرس 6: أول 30 يوم في استلام الموديول",
+          "path": "60_الجزء_السادس_الاستشارات_والتطبيق_واستلام_الموديول/06_الدرس_06_اول_30_يوما_في_استلام_الموديول.md",
+          "summary": "لأنك لم تطلب هذا الكتاب لتفهم فقط، بل لتدخل وظيفة فعلية وتستلم Production Module بثقة. أول 30 يومًا في المسؤولية مهمة جدًا لأنها تحدد هل ستبني صورة ذهنية صحيحة عن الموديول أم ستغرق في طلبات يومية متفرقة دون خريطة واضحة.",
+          "keyPoints": [
+            {
+              "heading": "الهدف من الدرس",
+              "text": "وضع خطة عملية لأول شهر عند استلام موديول الإنتاج."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "معرفة ما الذي يجب مراجعته أولًا وما الذي يجب تأجيله."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "بناء علاقة صحيحة مع المستخدمين والمطورين والإدارة."
+            },
+            {
+              "heading": "الهدف من الدرس",
+              "text": "الانتقال من رد الفعل إلى السيطرة التدريجية على الموديول."
+            }
+          ],
+          "subheadings": [
+            "لماذا هذا الدرس مهم",
+            "الهدف من الدرس",
+            "الشرح المفاهيمي الأساسي",
+            "الأسبوع الأول",
+            "الأسبوع الثاني",
+            "الأسبوع الثالث"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-002",
+          "ar": "التصنيع",
+          "en": "Manufacturing",
+          "def": "الإطار الأوسع لعمليات الإنتاج الصناعية"
+        },
+        {
+          "id": "gl-003",
+          "ar": "موديول الإنتاج",
+          "en": "Production Module",
+          "def": "الجزء المسؤول عن دورة الإنتاج داخل ERP"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-009",
+          "ar": "مستودع",
+          "en": "Warehouse",
+          "def": "المكان المنطقي أو الفعلي لتخزين المواد"
+        },
+        {
+          "id": "gl-012",
+          "ar": "وصفة",
+          "en": "Formula",
+          "def": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-016",
+          "ar": "مورد",
+          "en": "Resource",
+          "def": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        },
+        {
+          "id": "gl-021",
+          "ar": "منتج مشترك",
+          "en": "Co-product",
+          "def": "مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة"
+        },
+        {
+          "id": "gl-023",
+          "ar": "أمر عمل",
+          "en": "Work Order",
+          "def": "المصطلح التنفيذي الشائع خاصة في Oracle"
+        },
+        {
+          "id": "gl-026",
+          "ar": "بدء",
+          "en": "Started",
+          "def": "بدء التنفيذ الفعلي للأمر"
+        },
+        {
+          "id": "gl-030",
+          "ar": "إكمال المنتج",
+          "en": "Product Completion",
+          "def": "مصطلح Oracle لاستلام المنتج الناتج"
+        },
+        {
+          "id": "gl-033",
+          "ar": "إغلاق",
+          "en": "Close / Closing",
+          "def": "حسم الأمر تشغيليًا وماليًا بحسب النظام"
+        },
+        {
+          "id": "gl-038",
+          "ar": "انحراف",
+          "en": "Variance",
+          "def": "الفرق بين المتوقع والمعياري والفعلي"
+        },
+        {
+          "id": "gl-040",
+          "ar": "توزيع تكلفة",
+          "en": "Cost Distribution",
+          "def": "مصطلح Oracle لتحليل وربط التكلفة بالحركات"
+        },
+        {
+          "id": "gl-041",
+          "ar": "إغلاق الفترة",
+          "en": "Period Close",
+          "def": "إنهاء الفترة المالية بعد مراجعة الحركات والتكلفة"
+        },
+        {
+          "id": "gl-042",
+          "ar": "تقارير رقابية",
+          "en": "Control Reports",
+          "def": "تقارير لمتابعة الانحرافات والأوامر المفتوحة وWIP"
+        }
+      ],
+      "comparisons": []
+    },
+    {
+      "sectionId": "app-refs",
+      "title": "📚 مراجع سريعة",
+      "badge": null,
+      "color": null,
+      "lessonCount": 6,
+      "lessons": [
+        {
+          "id": "ap-r1",
+          "title": "مصفوفة المفاهيم بين الأنظمة",
+          "path": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/01_مصفوفة_المفاهيم_الاساسية_بين_الانظمة.md",
+          "summary": "استخدمه عند الدراسة وعند المراجعة وعند تحليل أي نظام محلي.",
+          "keyPoints": [
+            {
+              "heading": "الهدف من هذا الملف",
+              "text": "المفهوم العام Generic Concept"
+            },
+            {
+              "heading": "الهدف من هذا الملف",
+              "text": "لغة Dynamics 365"
+            },
+            {
+              "heading": "الهدف من هذا الملف",
+              "text": "لغة Oracle Fusion Cloud"
+            },
+            {
+              "heading": "الهدف من هذا الملف",
+              "text": "لغة SAP S/4HANA"
+            }
+          ],
+          "subheadings": [
+            "الهدف من هذا الملف",
+            "قاعدة القراءة",
+            "المصفوفة الأساسية",
+            "كيف تستخدم هذه المصفوفة عمليًا",
+            "الحالة الأولى: أثناء الدراسة",
+            "الحالة الثانية: أثناء الحوار"
+          ]
+        },
+        {
+          "id": "ap-r2",
+          "title": "قائمة مراجعة يومية",
+          "path": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/02_قائمة_مراجعة_يومية_لموديول_الانتاج.md",
+          "summary": "هذه القائمة مصممة للمراجعة اليومية السريعة لموديول الإنتاج Production Module بعد التشغيل أو أثناء الاستقرار.",
+          "keyPoints": [
+            {
+              "heading": "1. الأوامر المفتوحة",
+              "text": "الأوامر المفتوحة القديمة"
+            },
+            {
+              "heading": "1. الأوامر المفتوحة",
+              "text": "الأوامر التي لم تتحرك اليوم"
+            },
+            {
+              "heading": "1. الأوامر المفتوحة",
+              "text": "الأوامر التي اكتمل تشغيلها ولم تصل إلى Close"
+            },
+            {
+              "heading": "2. الصرف والتنفيذ",
+              "text": "أوامر فيها Material Issue ناقص أو غير منطقي"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "1. الأوامر المفتوحة",
+            "2. الصرف والتنفيذ",
+            "3. الاستلام والجودة",
+            "4. التتبع والمخزون",
+            "5. التكلفة والإغلاق"
+          ]
+        },
+        {
+          "id": "ap-r3",
+          "title": "ورقة Discovery سريعة",
+          "path": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/03_ورقة_Discovery_سريعة_لموديول_الانتاج.md",
+          "summary": "هذه الورقة تساعدك في أول جلسة Discovery أو أول زيارة عملية للمصنع أو أول اجتماع تحليل مع العميل.",
+          "keyPoints": [
+            {
+              "heading": "1. أسئلة عن نموذج العمل",
+              "text": "هل الإنتاج للتخزين Make to Stock أم حسب الطلب Make to Order أم مختلط؟"
+            },
+            {
+              "heading": "1. أسئلة عن نموذج العمل",
+              "text": "هل التصنيع Discrete أم Process أم Repetitive أم Mixed-Mode؟"
+            },
+            {
+              "heading": "1. أسئلة عن نموذج العمل",
+              "text": "هل توجد Subassemblies أو منتجات وسيطة؟"
+            },
+            {
+              "heading": "1. أسئلة عن نموذج العمل",
+              "text": "هل توجد Co-products أو By-products؟"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "1. أسئلة عن نموذج العمل",
+            "2. أسئلة عن البيانات الأساسية",
+            "3. أسئلة عن التنفيذ",
+            "4. أسئلة عن الجودة",
+            "5. أسئلة عن التخطيط"
+          ]
+        },
+        {
+          "id": "ap-r4",
+          "title": "خريطة التقارير الأساسية",
+          "path": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/04_خريطة_التقارير_الاساسية_للمستشار.md",
+          "summary": "هذا الملف يحدد الحد الأدنى من التقارير التي يجب أن يراها مستشار موديول الإنتاج بشكل متكرر.",
+          "keyPoints": [
+            {
+              "heading": "1. تقارير التشغيل",
+              "text": "Open production orders"
+            },
+            {
+              "heading": "1. تقارير التشغيل",
+              "text": "Released orders not started"
+            },
+            {
+              "heading": "1. تقارير التشغيل",
+              "text": "Orders in progress"
+            },
+            {
+              "heading": "1. تقارير التشغيل",
+              "text": "Completed not closed"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "1. تقارير التشغيل",
+            "2. تقارير المواد والمخزون",
+            "3. تقارير الجودة",
+            "4. تقارير التكلفة والإغلاق",
+            "5. تقارير التخطيط"
+          ]
+        },
+        {
+          "id": "ap-r5",
+          "title": "خريطة تكامل موديول الإنتاج",
+          "path": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/05_خريطة_تكامل_موديول_الانتاج_مع_باقي_الموديولات.md",
+          "summary": "هذا الملف يشرح الحقيقة التي تظهر بقوة بعد أول أسبوع عمل فعلي:",
+          "keyPoints": [
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "المشتريات Purchasing"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "المخزون Inventory or Warehouse"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "المالية Finance or Costing"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "المبيعات Sales or Order Management"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "القاعدة الأساسية",
+            "أولًا: الإنتاج ↔ المشتريات",
+            "الإنتاج والمخزون - أين يلتقيان؟",
+            "ما الكيانات المشتركة؟",
+            "الإنتاج والمخزون - أين ينكسر الخيط عادة؟"
+          ]
+        },
+        {
+          "id": "ap-r6",
+          "title": "مؤشرات الأداء KPIs",
+          "path": "90_الملاحق_والمرجع_السريع/10_المراجع_السريعة/06_مؤشرات_الاداء_KPIs_في_الانتاج.md",
+          "summary": "هذا الملف يشرح لغة الإدارة التي ستسمعها كثيرًا في الاجتماعات، والتي تختلف عن لغة التشغيل اليومية.",
+          "keyPoints": [
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "ما الأوامر المفتوحة؟"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "ما الذي تأخر؟"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "ما الذي لم يغلق؟"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "هل الأداء يتحسن أم يتدهور؟"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "القاعدة الأساسية",
+            "الفرق بين Report وKPI",
+            "1. OEE - Overall Equipment Effectiveness",
+            "OEE - ماذا يعني؟",
+            "OEE - لماذا يهم؟"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-002",
+          "ar": "التصنيع",
+          "en": "Manufacturing",
+          "def": "الإطار الأوسع لعمليات الإنتاج الصناعية"
+        },
+        {
+          "id": "gl-003",
+          "ar": "موديول الإنتاج",
+          "en": "Production Module",
+          "def": "الجزء المسؤول عن دورة الإنتاج داخل ERP"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-005",
+          "ar": "المنتج النهائي",
+          "en": "Finished Good",
+          "def": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي"
+        },
+        {
+          "id": "gl-006",
+          "ar": "مادة خام",
+          "en": "Raw Material",
+          "def": "مادة تدخل في تصنيع المنتج"
+        },
+        {
+          "id": "gl-009",
+          "ar": "مستودع",
+          "en": "Warehouse",
+          "def": "المكان المنطقي أو الفعلي لتخزين المواد"
+        },
+        {
+          "id": "gl-010",
+          "ar": "موقع",
+          "en": "Location / Locator",
+          "def": "موضع داخلي أدق من المستودع"
+        },
+        {
+          "id": "gl-011",
+          "ar": "قائمة المواد",
+          "en": "Bill of Material (BOM)",
+          "def": "قائمة المكونات والكميات المطلوبة لتصنيع المنتج"
+        },
+        {
+          "id": "gl-012",
+          "ar": "وصفة",
+          "en": "Formula",
+          "def": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي"
+        },
+        {
+          "id": "gl-013",
+          "ar": "هيكل الصنف",
+          "en": "Item Structure",
+          "def": "مصطلح Oracle للبنية المادية للمنتج"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-016",
+          "ar": "مورد",
+          "en": "Resource",
+          "def": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ"
+        },
+        {
+          "id": "gl-017",
+          "ar": "مركز عمل",
+          "en": "Work Center",
+          "def": "مكان أو وحدة تنفيذ للعمليات"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        },
+        {
+          "id": "gl-019",
+          "ar": "هالك",
+          "en": "Scrap",
+          "def": "فاقد في المواد أو المنتج أو العملية"
+        },
+        {
+          "id": "gl-020",
+          "ar": "منتج جانبي",
+          "en": "By-product",
+          "def": "مخرج ثانوي ينتج مع المنتج الرئيسي"
+        },
+        {
+          "id": "gl-021",
+          "ar": "منتج مشترك",
+          "en": "Co-product",
+          "def": "مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة"
+        }
+      ],
+      "comparisons": [
+        {
+          "concept": "البيانات الأساسية",
+          "dynamics": "Master Data / Released Products",
+          "oracle": "Items / Plant Data",
+          "sap": "Material Master"
+        },
+        {
+          "concept": "المنتج النهائي",
+          "dynamics": "Finished Good",
+          "oracle": "Finished Good / Output Item",
+          "sap": "Finished Product / Material"
+        },
+        {
+          "concept": "المواد الخام",
+          "dynamics": "Raw Materials",
+          "oracle": "Raw Materials / Components",
+          "sap": "Raw Materials / Components"
+        },
+        {
+          "concept": "قائمة المواد",
+          "dynamics": "BOM / Formula",
+          "oracle": "Item Structure / BOM",
+          "sap": "BOM"
+        },
+        {
+          "concept": "طريقة التصنيع",
+          "dynamics": "Route",
+          "oracle": "Work Definition",
+          "sap": "Routing"
+        },
+        {
+          "concept": "العملية",
+          "dynamics": "Operation",
+          "oracle": "Operation",
+          "sap": "Operation"
+        },
+        {
+          "concept": "المورد",
+          "dynamics": "Resource",
+          "oracle": "Resource",
+          "sap": "Activity Type / Resource logic / Work Center context"
+        },
+        {
+          "concept": "مركز العمل",
+          "dynamics": "Resource Group / Work Center context",
+          "oracle": "Work Center",
+          "sap": "Work Center"
+        },
+        {
+          "concept": "أمر الإنتاج",
+          "dynamics": "Production Order",
+          "oracle": "Work Order",
+          "sap": "Production Order / Process Order"
+        },
+        {
+          "concept": "إنشاء الأمر",
+          "dynamics": "Created",
+          "oracle": "Unreleased",
+          "sap": "Created / CRTD"
+        },
+        {
+          "concept": "إطلاق الأمر",
+          "dynamics": "Released",
+          "oracle": "Released",
+          "sap": "Released / REL"
+        },
+        {
+          "concept": "بدء التنفيذ",
+          "dynamics": "Started",
+          "oracle": "Execution begins after release",
+          "sap": "Confirmation and GI logic starts by process"
+        }
+      ]
+    },
+    {
+      "sectionId": "app-scenarios",
+      "title": "🎯 سيناريوهات وتمارين",
+      "badge": null,
+      "color": null,
+      "lessonCount": 6,
+      "lessons": [
+        {
+          "id": "ap-s1",
+          "title": "دراسة حالة مصنع مختلط",
+          "path": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/01_دراسة_حالة_مصنع_مختلط_Mixed_Model_Case_Study.md",
+          "summary": "في هذه الحالة، لا تبدأ بالتطويرات أولًا. ابدأ بهذا الترتيب:",
+          "keyPoints": [
+            {
+              "heading": "وصف الحالة",
+              "text": "منتجات قياسية سريعة الحركة للمخزون"
+            },
+            {
+              "heading": "وصف الحالة",
+              "text": "منتجات خاصة ببعض العملاء حسب الطلب"
+            },
+            {
+              "heading": "وصف الحالة",
+              "text": "بعض المكونات الوسطية Subassemblies داخليًا"
+            },
+            {
+              "heading": "وصف الحالة",
+              "text": "جزءًا من المنتجات يتطلب Lot Traceability"
+            }
+          ],
+          "subheadings": [
+            "وصف الحالة",
+            "كيف تقرأ الحالة وظيفيًا؟",
+            "1. ليست بيئة بسيطة أحادية النمط",
+            "2. أول فرضية يجب اختبارها",
+            "3. ما الجلسات الأولى المطلوبة؟",
+            "ما الذي يجب أن تراجعه أولًا؟"
+          ]
+        },
+        {
+          "id": "ap-s2",
+          "title": "ثلاثة سيناريوهات إنتاج كاملة",
+          "path": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/02_ثلاثة_سيناريوهات_انتاج_كاملة_من_الطلب_الى_الاغلاق.md",
+          "summary": "هذا الملف يسد أكبر فجوة تطبيقية بعد الأجزاء الستة:",
+          "keyPoints": [
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "أين يبدأ الأثر الحقيقي"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "ما القرار الذي يغيّر المسار"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "أين تظهر المخاطر"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "كيف يقرأ المستشار الحالة"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "كيف تستخدم هذا الملف",
+            "السيناريو الأول: بسيط Simple Discrete Scenario",
+            "وصف البيئة في السيناريو البسيط",
+            "الكيانات الأساسية في السيناريو البسيط",
+            "السيناريو البسيط - الخطوة 1: Demand"
+          ]
+        },
+        {
+          "id": "ap-s3",
+          "title": "تمارين التشخيص",
+          "path": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/03_تمارين_التشخيص_Diagnosis_Exercises.md",
+          "summary": "هذا الملف يبني مهارة هي الأهم في الواقع العملي اليومي:",
+          "keyPoints": [
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "صياغة الأسئلة الصحيحة"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "تكوين فرضيات معقولة"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "التحقق من كل فرضية بدل القفز إلى الاستنتاج"
+            },
+            {
+              "heading": "الحالة 1",
+              "text": "WIP ارتفع هذا الشهر ولم ينخفض."
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "طريقة الاستخدام",
+            "المجموعة الأولى: حالات تأسيسية",
+            "الحالة 1",
+            "الحالة 2",
+            "الحالة 3"
+          ]
+        },
+        {
+          "id": "ap-s4",
+          "title": "محادثات Discovery محاكاة",
+          "path": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/04_محادثات_Discovery_محاكاة.md",
+          "summary": "هذا الملف يحول Discovery من قائمة أسئلة ثابتة إلى محادثة حقيقية فيها:",
+          "keyPoints": [
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "سؤال استيضاح"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "إجابة غامضة أحيانًا"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "استنتاج تدريجي"
+            },
+            {
+              "heading": "المحادثة الأولى: خصم المواد مرتين",
+              "text": "الفرضية الأقوى: process and inventory-control issue"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "المحادثة الأولى: خصم المواد مرتين",
+            "المحادثة الثانية: WIP مرتفع دائمًا",
+            "المحادثة الثالثة: MRP يقترح أشياء غريبة",
+            "المحادثة الرابعة: الجودة تؤخر كل شيء",
+            "المحادثة الخامسة: نحتاج تطويرات كثيرة"
+          ]
+        },
+        {
+          "id": "ap-s5",
+          "title": "تمارين قراءة التقارير",
+          "path": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/05_تمارين_قراءة_التقارير_Report_Reading_Exercises.md",
+          "summary": "أنت لا ترى التقرير لتقرأ الأرقام فقط، بل لتفهم ماذا يعني السلوك الذي وراءها.",
+          "keyPoints": [
+            {
+              "heading": "التمرين 1: WIP Aging",
+              "text": "Product A: Order open for 45 days, WIP value = 12,000 JOD"
+            },
+            {
+              "heading": "التمرين 1: WIP Aging",
+              "text": "Product B: Order closed in 3 days, WIP value = 400 JOD"
+            },
+            {
+              "heading": "التمرين 1: WIP Aging",
+              "text": "ماذا تقول هذه المقارنة؟"
+            },
+            {
+              "heading": "التمرين 1: WIP Aging",
+              "text": "ما الأسئلة التي يجب أن تطرحها قبل الحكم؟"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "التمرين 1: WIP Aging",
+            "التمرين 2: Completed Not Closed",
+            "التمرين 3: Variance Exceptions",
+            "التمرين 4: Material Issue Exceptions",
+            "التمرين 5: Quality Holds"
+          ]
+        },
+        {
+          "id": "ap-s6",
+          "title": "قالب تقييم نظام ERP محلي",
+          "path": "90_الملاحق_والمرجع_السريع/20_السيناريوهات_والتمارين/06_قالب_تقييم_نظام_ERP_محلي_لموديول_الانتاج.md",
+          "summary": "هذا الملف يحول فكرة تقييم النظام المحلي من انطباعات عامة إلى مراجعة منهجية يمكن توثيقها ومناقشتها مع الإدارة والفريق والمبرمجين.",
+          "keyPoints": [
+            {
+              "heading": "طريقة الاستخدام",
+              "text": "1 = موجود شكليًا فقط"
+            },
+            {
+              "heading": "طريقة الاستخدام",
+              "text": "2 = موجود جزئيًا لكن ضعيف النضج"
+            },
+            {
+              "heading": "طريقة الاستخدام",
+              "text": "3 = جيد وظيفيًا مع بعض الفجوات"
+            },
+            {
+              "heading": "طريقة الاستخدام",
+              "text": "4 = ناضج وقابل للاعتماد"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "طريقة الاستخدام",
+            "الركيزة الأولى: Master Data",
+            "Master Data - أسئلة الفحص",
+            "Master Data - مؤشرات الضعف",
+            "الركيزة الثانية: Product Structure"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-002",
+          "ar": "التصنيع",
+          "en": "Manufacturing",
+          "def": "الإطار الأوسع لعمليات الإنتاج الصناعية"
+        },
+        {
+          "id": "gl-003",
+          "ar": "موديول الإنتاج",
+          "en": "Production Module",
+          "def": "الجزء المسؤول عن دورة الإنتاج داخل ERP"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-005",
+          "ar": "المنتج النهائي",
+          "en": "Finished Good",
+          "def": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي"
+        },
+        {
+          "id": "gl-006",
+          "ar": "مادة خام",
+          "en": "Raw Material",
+          "def": "مادة تدخل في تصنيع المنتج"
+        },
+        {
+          "id": "gl-009",
+          "ar": "مستودع",
+          "en": "Warehouse",
+          "def": "المكان المنطقي أو الفعلي لتخزين المواد"
+        },
+        {
+          "id": "gl-010",
+          "ar": "موقع",
+          "en": "Location / Locator",
+          "def": "موضع داخلي أدق من المستودع"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        },
+        {
+          "id": "gl-019",
+          "ar": "هالك",
+          "en": "Scrap",
+          "def": "فاقد في المواد أو المنتج أو العملية"
+        },
+        {
+          "id": "gl-021",
+          "ar": "منتج مشترك",
+          "en": "Co-product",
+          "def": "مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة"
+        },
+        {
+          "id": "gl-022",
+          "ar": "أمر إنتاج",
+          "en": "Production Order",
+          "def": "أمر تنفيذ إنتاج في كثير من الأنظمة"
+        },
+        {
+          "id": "gl-023",
+          "ar": "أمر عمل",
+          "en": "Work Order",
+          "def": "المصطلح التنفيذي الشائع خاصة في Oracle"
+        },
+        {
+          "id": "gl-024",
+          "ar": "إنشاء",
+          "en": "Created",
+          "def": "حالة إنشاء الأمر قبل التنفيذ"
+        },
+        {
+          "id": "gl-025",
+          "ar": "إطلاق",
+          "en": "Released",
+          "def": "حالة يصبح فيها الأمر جاهزًا للتنفيذ"
+        },
+        {
+          "id": "gl-026",
+          "ar": "بدء",
+          "en": "Started",
+          "def": "بدء التنفيذ الفعلي للأمر"
+        },
+        {
+          "id": "gl-027",
+          "ar": "صرف مواد",
+          "en": "Material Issue / Goods Issue",
+          "def": "إخراج المواد من المخزون إلى الإنتاج"
+        }
+      ],
+      "comparisons": []
+    },
+    {
+      "sectionId": "app-tools",
+      "title": "🛠️ أدوات تشغيل واقعية",
+      "badge": null,
+      "color": null,
+      "lessonCount": 6,
+      "lessons": [
+        {
+          "id": "ap-o1",
+          "title": "قائمة ما قبل Go-Live",
+          "path": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/01_قائمة_ما_قبل_Go_Live_لموديول_الانتاج.md",
+          "summary": "هذه قائمة مختصرة لمراجعة الجاهزية قبل قرار التشغيل الفعلي Go-Live.",
+          "keyPoints": [
+            {
+              "heading": "1. البيانات الأساسية",
+              "text": "الأصناف والمنتجات الأساسية معتمدة"
+            },
+            {
+              "heading": "1. البيانات الأساسية",
+              "text": "BOM أو Formula أو Item Structure معتمدة"
+            },
+            {
+              "heading": "1. البيانات الأساسية",
+              "text": "Route أو Routing أو Work Definition معتمد"
+            },
+            {
+              "heading": "1. البيانات الأساسية",
+              "text": "المواقع والمخازن ووحدات القياس مضبوطة"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "1. البيانات الأساسية",
+            "2. منطق التنفيذ",
+            "3. الجودة والتتبع",
+            "4. التخطيط",
+            "5. التكلفة والإغلاق"
+          ]
+        },
+        {
+          "id": "ap-o2",
+          "title": "كتالوج أخطاء المستخدمين",
+          "path": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/02_كتالوج_اخطاء_المستخدمين_الشائعة.md",
+          "summary": "هذا الملف يجمع أكثر الأخطاء اليومية التي يصنعها المستخدمون في بيئات الإنتاج، وهي الأخطاء التي تستهلك وقت المستشار أكثر من كثير من الموضوعات النظرية.",
+          "keyPoints": [
+            {
+              "heading": "كيف تستخدم هذا الملف",
+              "text": "لا تستخدمه كلائحة اتهام للمستخدمين."
+            },
+            {
+              "heading": "كيف تستخدم هذا الملف",
+              "text": "استخدمه كخريطة سريعة للتمييز بين user mistake وsystem gap."
+            },
+            {
+              "heading": "كيف تستخدم هذا الملف",
+              "text": "عند رؤية عرض معين، ابحث أولًا: هل هو من هذه الأخطاء الشائعة قبل أن تفتح backlog تطوير."
+            },
+            {
+              "heading": "الخطأ 1: BOM غير محدثة بعد تغيير فعلي في المنتج",
+              "text": "تغيير فعلي في الواقع دون governance"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "كيف تستخدم هذا الملف",
+            "القسم الأول: أخطاء Master Data",
+            "الخطأ 1: BOM غير محدثة بعد تغيير فعلي في المنتج",
+            "الخطأ 2: Route أو Work Definition لا تعكس الواقع الفعلي",
+            "الخطأ 3: Units of Measure غير منضبطة"
+          ]
+        },
+        {
+          "id": "ap-o3",
+          "title": "إغلاق نهاية الشهر خطوة بخطوة",
+          "path": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/03_اغلاق_نهاية_الشهر_خطوة_بخطوة.md",
+          "summary": "هذا الملف يجيب عن السؤال العملي الذي ستواجهه حتمًا:",
+          "keyPoints": [
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "الحسم النهائي للتقارير"
+            },
+            {
+              "heading": "1. راجع Open Orders",
+              "text": "الأوامر المفتوحة القديمة"
+            },
+            {
+              "heading": "1. راجع Open Orders",
+              "text": "الأوامر التي تبدو شبه منتهية"
+            },
+            {
+              "heading": "1. راجع Open Orders",
+              "text": "الأوامر التي لا يوجد عليها نشاط حديث"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "المبدأ الأساسي",
+            "قبل نهاية الشهر بأسبوع",
+            "1. راجع Open Orders",
+            "2. راجع Completed but Not Closed",
+            "3. راجع Quality Holds"
+          ]
+        },
+        {
+          "id": "ap-o4",
+          "title": "دليل تدريب المستخدم النهائي",
+          "path": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/04_دليل_تدريب_المستخدم_النهائي.md",
+          "summary": "هذا الملف يساعدك على نقل المعرفة للمستخدم النهائي بشكل مهني، لا كشرح عشوائي للشاشات.",
+          "keyPoints": [
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "كيف تبني جلسة تدريب"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "كيف تغيّر ترتيب الشرح حسب نوع المستخدم"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "كيف تتأكد أن المستخدم فهم فعلاً"
+            },
+            {
+              "heading": "المبدأ الأساسي",
+              "text": "أين تقع داخل الدورة؟"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "المبدأ الأساسي",
+            "خطوات بناء أي جلسة تدريب",
+            "1. حدد نوع المستخدم",
+            "2. حدد ماذا يحتاج أن يفعل لا ماذا تعرف أنت",
+            "3. ابدأ بالسيناريو لا بالوظيفة المنفصلة"
+          ]
+        },
+        {
+          "id": "ap-o5",
+          "title": "قالب كتابة طلب تطوير للمبرمج",
+          "path": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/05_قالب_كتابة_طلب_تطوير_للمبرمج.md",
+          "summary": "هذا الملف يحول طلب التطوير من شكوى عامة إلى طلب واضح قابل للبناء والاختبار.",
+          "keyPoints": [
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "كيف تصوغ الطلب"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "ما الذي يجب أن تذكره دائمًا"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "كيف تميز بين المشكلة والحل المقترح"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "كيف تبدو الأمثلة الجيدة فعليًا"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "المبدأ الأساسي",
+            "القالب العملي",
+            "1. عنوان الطلب",
+            "2. Business Context",
+            "3. Current Problem"
+          ]
+        },
+        {
+          "id": "ap-o6",
+          "title": "تخطيط Data Migration وCutover",
+          "path": "90_الملاحق_والمرجع_السريع/40_ادوات_التشغيل_الواقعية/06_تخطيط_Data_Migration_وCutover_لموديول_الانتاج.md",
+          "summary": "هذا الملف لا يتحدث عن الجاهزية العامة فقط، بل عن سؤال أدق وأخطر:",
+          "keyPoints": [
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "ما الذي سينتقل فعليًا؟"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "ما الذي لن ينتقل؟"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "كيف تتعامل مع الأوامر المفتوحة وWIP الافتتاحي؟"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "ما الذي تراقبه يوميًا في أول أسبوع؟"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "القاعدة الأساسية",
+            "أولًا: ما الذي يجب أن يهاجر عادة؟",
+            "ثانيًا: ما الذي يجب التحقق منه قبل الإطلاق؟",
+            "1. التحقق من BOMs وRoutes",
+            "أفضل طريقة تحقق عملية"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-003",
+          "ar": "موديول الإنتاج",
+          "en": "Production Module",
+          "def": "الجزء المسؤول عن دورة الإنتاج داخل ERP"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-005",
+          "ar": "المنتج النهائي",
+          "en": "Finished Good",
+          "def": "المنتج الذي يخرج من أمر الإنتاج كنتاج نهائي"
+        },
+        {
+          "id": "gl-006",
+          "ar": "مادة خام",
+          "en": "Raw Material",
+          "def": "مادة تدخل في تصنيع المنتج"
+        },
+        {
+          "id": "gl-009",
+          "ar": "مستودع",
+          "en": "Warehouse",
+          "def": "المكان المنطقي أو الفعلي لتخزين المواد"
+        },
+        {
+          "id": "gl-010",
+          "ar": "موقع",
+          "en": "Location / Locator",
+          "def": "موضع داخلي أدق من المستودع"
+        },
+        {
+          "id": "gl-012",
+          "ar": "وصفة",
+          "en": "Formula",
+          "def": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي"
+        },
+        {
+          "id": "gl-013",
+          "ar": "هيكل الصنف",
+          "en": "Item Structure",
+          "def": "مصطلح Oracle للبنية المادية للمنتج"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-016",
+          "ar": "مورد",
+          "en": "Resource",
+          "def": "عامل أو آلة أو أداة أو مورد خارجي يدخل في التنفيذ"
+        },
+        {
+          "id": "gl-017",
+          "ar": "مركز عمل",
+          "en": "Work Center",
+          "def": "مكان أو وحدة تنفيذ للعمليات"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        },
+        {
+          "id": "gl-019",
+          "ar": "هالك",
+          "en": "Scrap",
+          "def": "فاقد في المواد أو المنتج أو العملية"
+        },
+        {
+          "id": "gl-024",
+          "ar": "إنشاء",
+          "en": "Created",
+          "def": "حالة إنشاء الأمر قبل التنفيذ"
+        },
+        {
+          "id": "gl-025",
+          "ar": "إطلاق",
+          "en": "Released",
+          "def": "حالة يصبح فيها الأمر جاهزًا للتنفيذ"
+        },
+        {
+          "id": "gl-026",
+          "ar": "بدء",
+          "en": "Started",
+          "def": "بدء التنفيذ الفعلي للأمر"
+        },
+        {
+          "id": "gl-027",
+          "ar": "صرف مواد",
+          "en": "Material Issue / Goods Issue",
+          "def": "إخراج المواد من المخزون إلى الإنتاج"
+        }
+      ],
+      "comparisons": []
+    },
+    {
+      "sectionId": "app-study",
+      "title": "🗺️ مسارات الدراسة",
+      "badge": null,
+      "color": null,
+      "lessonCount": 1,
+      "lessons": [
+        {
+          "id": "ap-st5",
+          "title": "برنامج تدريب عملي 4 أسابيع",
+          "path": "90_الملاحق_والمرجع_السريع/50_مسارات_الدراسة/05_برنامج_تدريب_عملي_لمدة_4_اسابيع.md",
+          "summary": "هذا البرنامج يحول ملفات التطبيق الجديدة من مواد ممتازة إلى مسار تدريب عملي منضبط.",
+          "keyPoints": [
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "فهم الدورة End-to-End"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "التحليل التشخيصي"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "قراءة التقارير"
+            },
+            {
+              "heading": "الغرض من هذا الملحق",
+              "text": "التفكير الاستشاري العملي"
+            }
+          ],
+          "subheadings": [
+            "الغرض من هذا الملحق",
+            "كيف تستخدم البرنامج",
+            "الأسبوع الأول: تثبيت الدورة الكاملة",
+            "اليوم 1",
+            "اليوم 2",
+            "اليوم 3"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "id": "gl-001",
+          "ar": "الإنتاج",
+          "en": "Production",
+          "def": "عملية تحويل المواد إلى منتج نهائي أو نصف مصنع"
+        },
+        {
+          "id": "gl-002",
+          "ar": "التصنيع",
+          "en": "Manufacturing",
+          "def": "الإطار الأوسع لعمليات الإنتاج الصناعية"
+        },
+        {
+          "id": "gl-003",
+          "ar": "موديول الإنتاج",
+          "en": "Production Module",
+          "def": "الجزء المسؤول عن دورة الإنتاج داخل ERP"
+        },
+        {
+          "id": "gl-004",
+          "ar": "البيانات الأساسية",
+          "en": "Master Data",
+          "def": "البيانات الثابتة التي تقوم عليها دورة الإنتاج"
+        },
+        {
+          "id": "gl-012",
+          "ar": "وصفة",
+          "en": "Formula",
+          "def": "بنية مكونات تستخدم غالبًا في التصنيع العملياتي"
+        },
+        {
+          "id": "gl-013",
+          "ar": "هيكل الصنف",
+          "en": "Item Structure",
+          "def": "مصطلح Oracle للبنية المادية للمنتج"
+        },
+        {
+          "id": "gl-015",
+          "ar": "عملية",
+          "en": "Operation",
+          "def": "خطوة تشغيلية داخل Route أو Work Definition"
+        },
+        {
+          "id": "gl-018",
+          "ar": "تعريف العمل",
+          "en": "Work Definition",
+          "def": "قالب Oracle الذي يجمع المواد والعمليات والموارد"
+        },
+        {
+          "id": "gl-019",
+          "ar": "هالك",
+          "en": "Scrap",
+          "def": "فاقد في المواد أو المنتج أو العملية"
+        },
+        {
+          "id": "gl-020",
+          "ar": "منتج جانبي",
+          "en": "By-product",
+          "def": "مخرج ثانوي ينتج مع المنتج الرئيسي"
+        },
+        {
+          "id": "gl-021",
+          "ar": "منتج مشترك",
+          "en": "Co-product",
+          "def": "مخرج رئيسي إضافي يشارك المنتج الأساسي في التكلفة"
+        },
+        {
+          "id": "gl-022",
+          "ar": "أمر إنتاج",
+          "en": "Production Order",
+          "def": "أمر تنفيذ إنتاج في كثير من الأنظمة"
+        },
+        {
+          "id": "gl-023",
+          "ar": "أمر عمل",
+          "en": "Work Order",
+          "def": "المصطلح التنفيذي الشائع خاصة في Oracle"
+        },
+        {
+          "id": "gl-024",
+          "ar": "إنشاء",
+          "en": "Created",
+          "def": "حالة إنشاء الأمر قبل التنفيذ"
+        },
+        {
+          "id": "gl-025",
+          "ar": "إطلاق",
+          "en": "Released",
+          "def": "حالة يصبح فيها الأمر جاهزًا للتنفيذ"
+        },
+        {
+          "id": "gl-033",
+          "ar": "إغلاق",
+          "en": "Close / Closing",
+          "def": "حسم الأمر تشغيليًا وماليًا بحسب النظام"
+        },
+        {
+          "id": "gl-035",
+          "ar": "تكلفة معيارية",
+          "en": "Standard Cost",
+          "def": "تكلفة مرجعية ثابتة أو معتمدة للمقارنة"
+        },
+        {
+          "id": "gl-036",
+          "ar": "تكلفة فعلية",
+          "en": "Actual Cost",
+          "def": "التكلفة الحقيقية المبنية على الحركات الفعلية"
+        }
+      ],
+      "comparisons": []
+    }
+  ]
+}
